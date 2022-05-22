@@ -15,9 +15,6 @@
   "Rune Sack": 10000,
   "Autopet Rules 2-Pack": 21000,
   "Kismet Feather": 1350,
-  "Expertise 1": 4000,
-  "Compact 1": 4000,
-  "Custivating 1": 4000,
   "Speed Enrichment": 5000,
   "Intelligence Enrichment": 5000,
   "Critical Damage Enrichment": 5000,
@@ -29,5 +26,10 @@
   "Ferocity Enrichment": 5000,
   "Sea Creature Chance Enrichment": 5000,
   "Attack Speed Enrichment": 5000,
-  "Accessory Enrichment Swapper": 200
+  "Accessory Enrichment Swapper": 200,
+  "_enchants": {
+    "Expertise 1": 4000,
+    "Compact 1": 4000,
+    "Custivating 1": 4000
+  }
 }
