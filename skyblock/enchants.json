@@ -1,0 +1,552 @@
+{
+  "aiming": {
+    "name": "Aiming",
+    "id": "aiming",
+    "max": 5
+  },
+  "dragon tracer": {
+    "name": "Dragon Tracer",
+    "id": "aiming",
+    "max": 5
+  },
+  "angler": {
+    "name": "Angler",
+    "id": "angler",
+    "max": 6
+  },
+  "aqua affinity": {
+    "name": "Aqua Affinity",
+    "id": "aqua_affinity",
+    "max": 1
+  },
+  "bane of arthropods": {
+    "name": "Bane of Arthropods",
+    "id": "bane_of_arthropods",
+    "max": 7
+  },
+  "big brain": {
+    "name": "Big Brain",
+    "id": "big_brain",
+    "max": 5
+  },
+  "blast protection": {
+    "name": "Blast Protection",
+    "id": "blast_protection",
+    "max": 7
+  },
+  "blessing": {
+    "name": "Blessing",
+    "id": "blessing",
+    "max": 6
+  },
+  "caster": {
+    "name": "Caster",
+    "id": "caster",
+    "max": 6
+  },
+  "chance": {
+    "name": "Chance",
+    "id": "chance",
+    "max": 5
+  },
+  "cleave": {
+    "name": "Cleave",
+    "id": "cleave",
+    "max": 6
+  },
+  "counter-strike": {
+    "name": "Counter-Strike",
+    "id": "counter_strike",
+    "max": 5
+  },
+  "critical": {
+    "name": "Critical",
+    "id": "critical",
+    "max": 7
+  },
+  "cubism": {
+    "name": "Cubism",
+    "id": "cubism",
+    "max": 6
+  },
+  "charm": {
+    "name": "Charm",
+    "id": "charm",
+    "max": 5
+  },
+  "corruption": {
+    "name": "Corruption",
+    "id": "corruption",
+    "max": 5
+  },
+  "delicate": {
+    "name": "Delicate",
+    "id": "delicate",
+    "max": 5
+  },
+  "depth strider": {
+    "name": "Depth Strider",
+    "id": "depth_strider",
+    "max": 3
+  },
+  "dragon hunter": {
+    "name": "Dragon Hunter",
+    "id": "dragon_hunter",
+    "max": 5
+  },
+  "efficiency": {
+    "name": "Efficiency",
+    "id": "efficiency",
+    "max": 10
+  },
+  "ender slayer": {
+    "name": "Ender Slayer",
+    "id": "ender_slayer",
+    "max": 7
+  },
+  "execute": {
+    "name": "Execute",
+    "id": "execute",
+    "max": 6
+  },
+  "experience": {
+    "name": "Experience",
+    "id": "experience",
+    "max": 4
+  },
+  "feather falling": {
+    "name": "Feather Falling",
+    "id": "feather_falling",
+    "max": 10
+  },
+  "fire aspect": {
+    "name": "Fire Aspect",
+    "id": "fire_aspect",
+    "max": 3
+  },
+  "fire protection": {
+    "name": "Fire Protection",
+    "id": "fire_protection",
+    "max": 7
+  },
+  "first strike": {
+    "name": "First Strike",
+    "id": "first_strike",
+    "max": 5
+  },
+  "flame": {
+    "name": "Flame",
+    "id": "flame",
+    "max": 2
+  },
+  "fortune": {
+    "name": "Fortune",
+    "id": "fortune",
+    "max": 4
+  },
+  "frail": {
+    "name": "Frail",
+    "id": "frail",
+    "max": 6
+  },
+  "frost walker": {
+    "name": "Frost Walker",
+    "id": "frost_walker",
+    "max": 2
+  },
+  "ferocious mana": {
+    "name": "Ferocious Mana",
+    "id": "ferocious_mana",
+    "max": 10
+  },
+  "giant killer": {
+    "name": "Giant Killer",
+    "id": "giant_killer",
+    "max": 7
+  },
+  "growth": {
+    "name": "Growth",
+    "id": "growth",
+    "max": 7
+  },
+  "harvesting": {
+    "name": "Harvesting",
+    "id": "harvesting",
+    "max": 6
+  },
+  "hardened mana": {
+    "name": "Hardened Mana",
+    "id": "hardened_mana",
+    "max": 10
+  },
+  "impaling": {
+    "name": "Impaling",
+    "id": "impaling",
+    "max": 3
+  },
+  "infinite quiver": {
+    "name": "Infinite Quiver",
+    "id": "infinite_quiver",
+    "max": 10
+  },
+  "knockback": {
+    "name": "Knockback",
+    "id": "knockback",
+    "max": 2
+  },
+  "lethality": {
+    "name": "Lethality",
+    "id": "lethality",
+    "max": 6
+  },
+  "life steal": {
+    "name": "Life Steal",
+    "id": "life_steal",
+    "max": 5
+  },
+  "looting": {
+    "name": "Looting",
+    "id": "looting",
+    "max": 5
+  },
+  "luck": {
+    "name": "Luck",
+    "id": "luck",
+    "max": 7
+  },
+  "luck of the sea": {
+    "name": "Luck Of The Sea",
+    "id": "luck_of_the_sea",
+    "max": 6
+  },
+  "lure": {
+    "name": "Lure",
+    "id": "lure",
+    "max": 6
+  },
+  "magnet": {
+    "name": "Magnet",
+    "id": "magnet",
+    "max": 6
+  },
+  "mana steal": {
+    "name": "Mana Steal",
+    "id": "mana_steal",
+    "max": 3
+  },
+  "mana vampire": {
+    "name": "Mana Vampire",
+    "id": "mana_vampire",
+    "max": 10
+  },
+  "overload": {
+    "name": "Overload",
+    "id": "overload",
+    "max": 5
+  },
+  "piercing": {
+    "name": "Piercing",
+    "id": "piercing",
+    "max": 1
+  },
+  "power": {
+    "name": "Power",
+    "id": "power",
+    "max": 7
+  },
+  "pristine": {
+    "name": "Pristine",
+    "id": "pristine",
+    "max": 5
+  },
+  "projectile protection": {
+    "name": "Projectile Protection",
+    "id": "projectile_protection",
+    "max": 7
+  },
+  "prosecute": {
+    "name": "Prosecute",
+    "id": "PROSECUTE",
+    "max": 6
+  },
+  "protection": {
+    "name": "Protection",
+    "id": "protection",
+    "max": 7
+  },
+  "punch": {
+    "name": "Punch",
+    "id": "punch",
+    "max": 2
+  },
+  "rainbow": {
+    "name": "Rainbow",
+    "id": "rainbow",
+    "max": 2
+  },
+  "rejuvenate": {
+    "name": "Rejuvenate",
+    "id": "rejuvenate",
+    "max": 5
+  },
+  "replenish": {
+    "name": "Replenish",
+    "id": "replenish",
+    "max": 1
+  },
+  "respiration": {
+    "name": "Respiration",
+    "id": "respiration",
+    "max": 3
+  },
+  "respite": {
+    "name": "Respite",
+    "id": "respite",
+    "max": 5
+  },
+  "scavenger": {
+    "name": "Scavenger",
+    "id": "scavenger",
+    "max": 5
+  },
+  "sharpness": {
+    "name": "Sharpness",
+    "id": "sharpness",
+    "max": 7
+  },
+  "silk touch": {
+    "name": "Silk Touch",
+    "id": "silk_touch",
+    "max": 1
+  },
+  "smarty pants": {
+    "name": "Smarty Pants",
+    "id": "smarty_pants",
+    "max": 5
+  },
+  "smelting touch": {
+    "name": "Smelting Touch",
+    "id": "smelting_touch",
+    "max": 1
+  },
+  "smite": {
+    "name": "Smite",
+    "id": "smite",
+    "max": 7
+  },
+  "snipe": {
+    "name": "Snipe",
+    "id": "snipe",
+    "max": 4
+  },
+  "spiked hook": {
+    "name": "Spiked Hook",
+    "id": "spiked_hook",
+    "max": 6
+  },
+  "sugar rush": {
+    "name": "Sugar Rush",
+    "id": "sugar_rush",
+    "max": 3
+  },
+  "syphon": {
+    "name": "Syphon",
+    "id": "syphon",
+    "max": 5
+  },
+  "smoldering": {
+    "name": "Smoldering",
+    "id": "smoldering",
+    "max": 5
+  },
+  "strong mana": {
+    "name": "Strong Mana",
+    "id": "strong_mana",
+    "max": 10
+  },
+  "telekinesis": {
+    "name": "Telekinesis",
+    "id": "telekinesis",
+    "max": 1
+  },
+  "thorns": {
+    "name": "Thorns",
+    "id": "thorns",
+    "max": 3
+  },
+  "thunderbolt": {
+    "name": "Thunderbolt",
+    "id": "thunderbolt",
+    "max": 6
+  },
+  "thunderlord": {
+    "name": "Thunderlord",
+    "id": "thunderlord",
+    "max": 7
+  },
+  "titan killer": {
+    "name": "Titan Killer",
+    "id": "titan_killer",
+    "max": 7
+  },
+  "triple-strike": {
+    "name": "Triple-Strike",
+    "id": "triple_strike",
+    "max": 5
+  },
+  "true protection": {
+    "name": "True Protection",
+    "id": "true_protection",
+    "max": 1
+  },
+  "turbo-cacti": {
+    "name": "Turbo-Cacti",
+    "id": "turbo_cactus",
+    "max": 5
+  },
+  "turbo-cane": {
+    "name": "Turbo-Cane",
+    "id": "turbo_cane",
+    "max": 5
+  },
+  "turbo-carrot": {
+    "name": "Turbo-Carrot",
+    "id": "turbo_carrot",
+    "max": 5
+  },
+  "turbo-cocoa": {
+    "name": "Turbo-Cocoa",
+    "id": "turbo_coco",
+    "max": 5
+  },
+  "turbo-melon": {
+    "name": "Turbo-Melon",
+    "id": "turbo_melon",
+    "max": 5
+  },
+  "turbo-mushrooms": {
+    "name": "Turbo-Mushrooms",
+    "id": "turbo_mushrooms",
+    "max": 5
+  },
+  "turbo-potato": {
+    "name": "Turbo-Potato",
+    "id": "turbo_potato",
+    "max": 5
+  },
+  "turbo-pumpkin": {
+    "name": "Turbo-Pumpkin",
+    "id": "turbo_pumpkin",
+    "max": 5
+  },
+  "turbo-warts": {
+    "name": "Turbo-Warts",
+    "id": "turbo_warts",
+    "max": 5
+  },
+  "turbo-wheat": {
+    "name": "Turbo-Wheat",
+    "id": "turbo_wheat",
+    "max": 5
+  },
+  "vampirism": {
+    "name": "Vampirism",
+    "id": "vampirism",
+    "max": 6
+  },
+  "venomous": {
+    "name": "Venomous",
+    "id": "venomous",
+    "max": 6
+  },
+  "vicious": {
+    "name": "Vicious",
+    "id": "vicious",
+    "max": 5
+  },
+  "bank": {
+    "name": "Bank",
+    "id": "ultimate_bank",
+    "max": 5
+  },
+  "chimera": {
+    "name": "Chimera",
+    "id": "ultimate_chimera",
+    "max": 5
+  },
+  "combo": {
+    "name": "Combo",
+    "id": "ultimate_combo",
+    "max": 5
+  },
+  "duplex": {
+    "name": "Duplex",
+    "id": "ultimate_reiterate",
+    "max": 5
+  },
+  "flash": {
+    "name": "Flash",
+    "id": "ultimate_flash",
+    "max": 5
+  },
+  "last stand": {
+    "name": "Last Stand",
+    "id": "ultimate_last_stand",
+    "max": 5
+  },
+  "fatal tempo": {
+    "name": "Fatal Tempo",
+    "id": "ultimate_fatal_tempo",
+    "max": 5
+  },
+  "inferno": {
+    "name": "Inferno",
+    "id": "ultimate_inferno",
+    "max": 5
+  },
+  "ultimate jerry": {
+    "name": "Ultimate Jerry",
+    "id": "ultimate_jerry",
+    "max": 5
+  },
+  "legion": {
+    "name": "Legion",
+    "id": "ultimate_legion",
+    "max": 5
+  },
+  "no pain no gain": {
+    "name": "No Pain No Gain",
+    "id": "ultimate_no_pain_no_gain",
+    "max": 5
+  },
+  "one for all": {
+    "name": "One For All",
+    "id": "ultimate_one_for_all",
+    "max": 5
+  },
+  "rend": {
+    "name": "Rend",
+    "id": "ultimate_rend",
+    "max": 5
+  },
+  "soul eater": {
+    "name": "Soul Eater",
+    "id": "ultimate_soul_eater",
+    "max": 5
+  },
+  "swarm": {
+    "name": "Swarm",
+    "id": "ultimate_swarm",
+    "max": 5
+  },
+  "ultimate wise": {
+    "name": "Ultimate Wise",
+    "id": "ultimate_wise",
+    "max": 5
+  },
+  "wisdom": {
+    "name": "Wisdom",
+    "id": "ultimate_wisdom",
+    "max": 5
+  }
+}
