@@ -1,0 +1,29 @@
+{
+  "COMMON": {
+    "color": "f"
+  },
+  "UNCOMMON": {
+    "color": "e"
+  },
+  "RARE": {
+    "color": "9"
+  },
+  "EPIC": {
+    "color": "5"
+  },
+  "LEGENDARY": {
+    "color": "6"
+  },
+  "MYTHIC": {
+    "color": "d"
+  },
+  "DIVINE": {
+    "color": "b"
+  },
+  "SPECIAL": {
+    "color": "c"
+  },
+  "VERY_SPECIAL": {
+    "color": "a"
+  }
+}
