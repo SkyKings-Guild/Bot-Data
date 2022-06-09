@@ -4,11 +4,6 @@
     "id": "aiming",
     "max": 5
   },
-  "dragon tracer": {
-    "name": "Dragon Tracer",
-    "id": "aiming",
-    "max": 5
-  },
   "angler": {
     "name": "Angler",
     "id": "angler",
@@ -23,6 +18,11 @@
     "name": "Bane of Arthropods",
     "id": "bane_of_arthropods",
     "max": 7
+  },
+  "bank": {
+    "name": "Bank",
+    "id": "ultimate_bank",
+    "max": 5
   },
   "big brain": {
     "name": "Big Brain",
@@ -49,10 +49,30 @@
     "id": "chance",
     "max": 5
   },
+  "charm": {
+    "name": "Charm",
+    "id": "charm",
+    "max": 5
+  },
+  "chimera": {
+    "name": "Chimera",
+    "id": "ultimate_chimera",
+    "max": 5
+  },
   "cleave": {
     "name": "Cleave",
     "id": "cleave",
     "max": 6
+  },
+  "combo": {
+    "name": "Combo",
+    "id": "ultimate_combo",
+    "max": 5
+  },
+  "corruption": {
+    "name": "Corruption",
+    "id": "corruption",
+    "max": 5
   },
   "counter-strike": {
     "name": "Counter-Strike",
@@ -69,16 +89,6 @@
     "id": "cubism",
     "max": 6
   },
-  "charm": {
-    "name": "Charm",
-    "id": "charm",
-    "max": 5
-  },
-  "corruption": {
-    "name": "Corruption",
-    "id": "corruption",
-    "max": 5
-  },
   "delicate": {
     "name": "Delicate",
     "id": "delicate",
@@ -92,6 +102,16 @@
   "dragon hunter": {
     "name": "Dragon Hunter",
     "id": "dragon_hunter",
+    "max": 5
+  },
+  "dragon tracer": {
+    "name": "Dragon Tracer",
+    "id": "aiming",
+    "max": 5
+  },
+  "duplex": {
+    "name": "Duplex",
+    "id": "ultimate_reiterate",
     "max": 5
   },
   "efficiency": {
@@ -114,9 +134,19 @@
     "id": "experience",
     "max": 4
   },
+  "fatal tempo": {
+    "name": "Fatal Tempo",
+    "id": "ultimate_fatal_tempo",
+    "max": 5
+  },
   "feather falling": {
     "name": "Feather Falling",
     "id": "feather_falling",
+    "max": 10
+  },
+  "ferocious mana": {
+    "name": "Ferocious Mana",
+    "id": "ferocious_mana",
     "max": 10
   },
   "fire aspect": {
@@ -139,6 +169,11 @@
     "id": "flame",
     "max": 2
   },
+  "flash": {
+    "name": "Flash",
+    "id": "ultimate_flash",
+    "max": 5
+  },
   "fortune": {
     "name": "Fortune",
     "id": "fortune",
@@ -154,11 +189,6 @@
     "id": "frost_walker",
     "max": 2
   },
-  "ferocious mana": {
-    "name": "Ferocious Mana",
-    "id": "ferocious_mana",
-    "max": 10
-  },
   "giant killer": {
     "name": "Giant Killer",
     "id": "giant_killer",
@@ -169,20 +199,25 @@
     "id": "growth",
     "max": 7
   },
-  "harvesting": {
-    "name": "Harvesting",
-    "id": "harvesting",
-    "max": 6
-  },
   "hardened mana": {
     "name": "Hardened Mana",
     "id": "hardened_mana",
     "max": 10
   },
+  "harvesting": {
+    "name": "Harvesting",
+    "id": "harvesting",
+    "max": 6
+  },
   "impaling": {
     "name": "Impaling",
     "id": "impaling",
     "max": 3
+  },
+  "inferno": {
+    "name": "Inferno",
+    "id": "ultimate_inferno",
+    "max": 5
   },
   "infinite quiver": {
     "name": "Infinite Quiver",
@@ -193,6 +228,16 @@
     "name": "Knockback",
     "id": "knockback",
     "max": 2
+  },
+  "last stand": {
+    "name": "Last Stand",
+    "id": "ultimate_last_stand",
+    "max": 5
+  },
+  "legion": {
+    "name": "Legion",
+    "id": "ultimate_legion",
+    "max": 5
   },
   "lethality": {
     "name": "Lethality",
@@ -238,6 +283,16 @@
     "name": "Mana Vampire",
     "id": "mana_vampire",
     "max": 10
+  },
+  "no pain no gain": {
+    "name": "No Pain No Gain",
+    "id": "ultimate_no_pain_no_gain",
+    "max": 5
+  },
+  "one for all": {
+    "name": "One For All",
+    "id": "ultimate_one_for_all",
+    "max": 5
   },
   "overload": {
     "name": "Overload",
@@ -289,6 +344,11 @@
     "id": "rejuvenate",
     "max": 5
   },
+  "rend": {
+    "name": "Rend",
+    "id": "ultimate_rend",
+    "max": 5
+  },
   "replenish": {
     "name": "Replenish",
     "id": "replenish",
@@ -334,35 +394,45 @@
     "id": "smite",
     "max": 7
   },
+  "smoldering": {
+    "name": "Smoldering",
+    "id": "smoldering",
+    "max": 5
+  },
   "snipe": {
     "name": "Snipe",
     "id": "snipe",
     "max": 4
+  },
+  "soul eater": {
+    "name": "Soul Eater",
+    "id": "ultimate_soul_eater",
+    "max": 5
   },
   "spiked hook": {
     "name": "Spiked Hook",
     "id": "spiked_hook",
     "max": 6
   },
+  "strong mana": {
+    "name": "Strong Mana",
+    "id": "strong_mana",
+    "max": 10
+  },
   "sugar rush": {
     "name": "Sugar Rush",
     "id": "sugar_rush",
     "max": 3
   },
+  "swarm": {
+    "name": "Swarm",
+    "id": "ultimate_swarm",
+    "max": 5
+  },
   "syphon": {
     "name": "Syphon",
     "id": "syphon",
     "max": 5
-  },
-  "smoldering": {
-    "name": "Smoldering",
-    "id": "smoldering",
-    "max": 5
-  },
-  "strong mana": {
-    "name": "Strong Mana",
-    "id": "strong_mana",
-    "max": 10
   },
   "telekinesis": {
     "name": "Telekinesis",
@@ -449,6 +519,16 @@
     "id": "turbo_wheat",
     "max": 5
   },
+  "ultimate jerry": {
+    "name": "Ultimate Jerry",
+    "id": "ultimate_jerry",
+    "max": 5
+  },
+  "ultimate wise": {
+    "name": "Ultimate Wise",
+    "id": "ultimate_wise",
+    "max": 5
+  },
   "vampirism": {
     "name": "Vampirism",
     "id": "vampirism",
@@ -462,86 +542,6 @@
   "vicious": {
     "name": "Vicious",
     "id": "vicious",
-    "max": 5
-  },
-  "bank": {
-    "name": "Bank",
-    "id": "ultimate_bank",
-    "max": 5
-  },
-  "chimera": {
-    "name": "Chimera",
-    "id": "ultimate_chimera",
-    "max": 5
-  },
-  "combo": {
-    "name": "Combo",
-    "id": "ultimate_combo",
-    "max": 5
-  },
-  "duplex": {
-    "name": "Duplex",
-    "id": "ultimate_reiterate",
-    "max": 5
-  },
-  "flash": {
-    "name": "Flash",
-    "id": "ultimate_flash",
-    "max": 5
-  },
-  "last stand": {
-    "name": "Last Stand",
-    "id": "ultimate_last_stand",
-    "max": 5
-  },
-  "fatal tempo": {
-    "name": "Fatal Tempo",
-    "id": "ultimate_fatal_tempo",
-    "max": 5
-  },
-  "inferno": {
-    "name": "Inferno",
-    "id": "ultimate_inferno",
-    "max": 5
-  },
-  "ultimate jerry": {
-    "name": "Ultimate Jerry",
-    "id": "ultimate_jerry",
-    "max": 5
-  },
-  "legion": {
-    "name": "Legion",
-    "id": "ultimate_legion",
-    "max": 5
-  },
-  "no pain no gain": {
-    "name": "No Pain No Gain",
-    "id": "ultimate_no_pain_no_gain",
-    "max": 5
-  },
-  "one for all": {
-    "name": "One For All",
-    "id": "ultimate_one_for_all",
-    "max": 5
-  },
-  "rend": {
-    "name": "Rend",
-    "id": "ultimate_rend",
-    "max": 5
-  },
-  "soul eater": {
-    "name": "Soul Eater",
-    "id": "ultimate_soul_eater",
-    "max": 5
-  },
-  "swarm": {
-    "name": "Swarm",
-    "id": "ultimate_swarm",
-    "max": 5
-  },
-  "ultimate wise": {
-    "name": "Ultimate Wise",
-    "id": "ultimate_wise",
     "max": 5
   },
   "wisdom": {
