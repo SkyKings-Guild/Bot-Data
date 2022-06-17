@@ -622,7 +622,7 @@
       ]
     }
   },
-  "slayers": {
+  "slayer": {
     "depreciation_scaling": [
       0.75030106128,
       0.7732512436,
