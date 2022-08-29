@@ -289,7 +289,7 @@
   },
   "hecatomb": {
     "name": "Hecatomb",
-    "id": null,
+    "id": "hecatomb",
     "max_table": 0,
     "max": 10
   },
