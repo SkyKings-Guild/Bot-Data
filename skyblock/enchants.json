@@ -139,7 +139,7 @@
   },
   "divine gift": {
     "name": "Divine Gift",
-    "id": null,
+    "id": "divine_gift",
     "max_table": 0,
     "max": 3
   },
