@@ -407,6 +407,12 @@
     "max_table": 1,
     "max": 1
   },
+  "piscary": {
+    "name": "Piscary",
+    "id": "piscary",
+    "max_table": 5,
+    "max": 6
+  },
   "power": {
     "name": "Power",
     "id": "power",
