@@ -49,7 +49,7 @@
   },
   "cayenne": {
     "name": "Cayenne",
-    "id": null,
+    "id": "cayenne",
     "max_table": 0,
     "max": 5
   },
