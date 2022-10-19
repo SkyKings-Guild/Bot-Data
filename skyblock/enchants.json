@@ -277,7 +277,7 @@
   },
   "habanero tactics": {
     "name": "Habanero Tactics",
-    "id": null,
+    "id": "ultimate_habanero_tactics",
     "max_table": 0,
     "max": 5
   },
