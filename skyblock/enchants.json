@@ -577,7 +577,7 @@
   },
   "tabasco": {
     "name": "Tabasco",
-    "id": null,
+    "id": "tabasco",
     "max_table": 0,
     "max": 3
   },
