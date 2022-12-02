@@ -443,6 +443,12 @@
     "max_table": 5,
     "max": 6
   },
+  "prosperity": {
+    "name": "Prosperity",
+    "id": "prosperity",
+    "max_table": 0,
+    "max": 5
+  },
   "protection": {
     "name": "Protection",
     "id": "protection",
