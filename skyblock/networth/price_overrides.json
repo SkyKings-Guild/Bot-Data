@@ -1,3 +1,6 @@
 {
-  "end_chestplate": 50000,
+  "end_helmet": 0,
+  "end_chestplate": 0,
+  "end_leggings": 0,
+  "end_boots": 0
 }
