@@ -569,6 +569,12 @@
     "max_table": 0,
     "max": 3
   },
+  "sunder": {
+    "name": "Sunder",
+    "id": "sunder",
+    "max_table": 0,
+    "max": 5
+  },
   "swarm": {
     "name": "Swarm",
     "id": "ultimate_swarm",
