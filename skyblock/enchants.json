@@ -131,6 +131,12 @@
     "max_table": 0,
     "max": 10
   },
+  "dedication": {
+    "name": "Dedication",
+    "id": "dedication",
+    "max_table": 0,
+    "max": 4
+  },
   "delicate": {
     "name": "Delicate",
     "id": "delicate",
@@ -268,6 +274,12 @@
     "id": "giant_killer",
     "max_table": 5,
     "max": 7
+  },
+  "green thumb": {
+    "name": "Green Thumb",
+    "id": "green_thumb",
+    "max_table": 0,
+    "max": 5
   },
   "growth": {
     "name": "Growth",
