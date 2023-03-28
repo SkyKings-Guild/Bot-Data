@@ -1,4 +1,32 @@
 {
-    "bone_boomerang": ["overload", "power"],
-    "death_bow": ["overload", "power", "ultimate_soul_eater"]
+    "bone_boomerang": [
+        "overload",
+        "power"
+    ],
+    "death_bow": [
+        "overload",
+        "power",
+        "ultimate_soul_eater"
+    ],
+    "zombie_commander_whip": [
+        "scavenger"
+    ],
+    "conjuring_sword": [
+        "scavenger"
+    ],
+    "zombie_soldier_cutlass": [
+        "scavenger"
+    ],
+    "crypt_dreadlord_sword": [
+        "scavenger"
+    ],
+    "zombie_knight_sword": [
+        "scavenger"
+    ],
+    "silent_death": [
+        "scavenger"
+    ],
+    "crypt_bow": [
+        "scavenger"
+    ]
 }
