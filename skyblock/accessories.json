@@ -129,11 +129,11 @@
     },
     "sea_creature_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": "sea_creature_ring"
     },
     "sea_creature_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": "sea_creature_artifact"
     },
     "sea_creature_artifact": {
         "rarity": "rare",
@@ -181,11 +181,11 @@
     },
     "scarf_studies": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "scarf_thesis"
     },
     "scarf_thesis": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": "scarf_grimoire"
     },
     "scarf_grimoire": {
         "rarity": "legendary",
@@ -357,13 +357,11 @@
     },
     "dante_talisman": {
         "rarity": "common",
-        "upgrade": null,
-        "ignore_missing": true
+        "upgrade": null
     },
     "blood_god_crest": {
         "rarity": "common",
-        "upgrade": null,
-        "ignore_missing": true
+        "upgrade": null
     },
     "candy_talisman": {
         "rarity": "common",
@@ -414,6 +412,7 @@
         "upgrade": null
     },
     "kuudra_follower_artifact": {
+        "name": "Kuudra Follower Artifact",
         "rarity": "epic",
         "upgrade": null
     },
@@ -783,13 +782,12 @@
     },
     "party_hat_crab": {
         "rarity": "special",
-        "upgrade": null,
-        "ignore": true
+        "upgrade": null
     },
     "party_hat_crab_animated": {
+        "name": "Crab Hat of Celebration - 2022 Edition",
         "rarity": "special",
-        "upgrade": null,
-        "ignore": true
+        "upgrade": null
     },
     "mineral_talisman": {
         "rarity": "rare",
@@ -925,6 +923,10 @@
     },
     "fermento_artifact": {
         "rarity": "rare",
+        "upgrade": null
+    },
+    "jake_plushie": {
+        "rarity": "uncommon",
         "upgrade": null
     }
 }

@@ -1,0 +1,13 @@
+{
+  "critical_chance": "<:enrichment_crit_chance:1092233073782952130>",
+  "walk_speed": "<:enrichment_speed:1092233072201695302>",
+  "intelligence": "<:enrichment_intelligence:1092233069420875916>",
+  "critical_damage": "<:enrichment_crit_damage:1092233067260809228>",
+  "strength": "<:enrichment_strength:1092233065948000278>",
+  "defense": "<:enrichment_defence:1092233063821480048>",
+  "health": "<:enrichment_health:1092233062496079954>",
+  "magic_find": "<:enrichment_magic_find:1092233060113711216>",
+  "ferocity": "<:enrichment_ferocity:1092233058595393617>",
+  "sea_creature_chance": "<:enrichment_sea_creature_chance:1092233056225595523>",
+  "attack_speed": "<:enrichment_bonus_attack_speed:1092233054258470965>"
+}
