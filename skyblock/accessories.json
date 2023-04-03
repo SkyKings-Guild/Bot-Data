@@ -368,15 +368,15 @@
         "upgrade": "candy_ring"
     },
     "candy_ring": {
-        "rarity": "uncommon",
+        "rarity": "rare",
         "upgrade": "candy_artifact"
     },
     "candy_artifact": {
-        "rarity": "rare",
+        "rarity": "epic",
         "upgrade": "candy_relic"
     },
     "candy_relic": {
-        "rarity": "epic",
+        "rarity": "legendary",
         "upgrade": null
     },
     "jungle_amulet": {
