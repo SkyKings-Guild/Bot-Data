@@ -16,7 +16,7 @@
         "upgrade": null
     },
     "farmer_orb": {
-        "rarity": "common",
+        "rarity": "uncommon",
         "upgrade": null
     },
     "night_vision_charm": {
@@ -84,7 +84,7 @@
         "upgrade": null
     },
     "magnetic_talisman": {
-        "rarity": "common",
+        "rarity": "uncommon",
         "upgrade": null
     },
     "emerald_ring": {
@@ -284,7 +284,7 @@
         "upgrade": "wolf_ring"
     },
     "wolf_ring": {
-        "rarity": "uncommon",
+        "rarity": "rare",
         "upgrade": null
     },
     "tarantula_talisman": {
@@ -352,7 +352,7 @@
         "upgrade": null
     },
     "bits_talisman": {
-        "rarity": "common",
+        "rarity": "rare",
         "upgrade": null
     },
     "dante_talisman": {
@@ -493,7 +493,7 @@
         "upgrade": "odgers_diamond_tooth"
     },
     "odgers_diamond_tooth": {
-        "rarity": "common",
+        "rarity": "epic",
         "upgrade": null
     },
     "archaeologist_compass": {
@@ -617,7 +617,7 @@
         "upgrade": "glacial_artifact"
     },
     "glacial_artifact": {
-        "rarity": "epic",
+        "rarity": "rare",
         "upgrade": null
     },
     "wedding_ring_0": {
