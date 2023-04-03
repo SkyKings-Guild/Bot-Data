@@ -1,0 +1,932 @@
+{
+    "farming_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "vaccine_talisman": {
+        "rarity": "common",
+        "upgrade": "vaccine_ring"
+    },
+    "vaccine_ring": {
+        "rarity": "uncommon",
+        "upgrade": "vaccine_artifact"
+    },
+    "vaccine_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "farmer_orb": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "night_vision_charm": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "speed_talisman": {
+        "rarity": "common",
+        "upgrade": "speed_ring"
+    },
+    "speed_ring": {
+        "rarity": "uncommon",
+        "upgrade": "speed_artifact"
+    },
+    "speed_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "feather_talisman": {
+        "rarity": "common",
+        "upgrade": "feather_ring"
+    },
+    "feather_ring": {
+        "rarity": "uncommon",
+        "upgrade": "feather_artifact"
+    },
+    "feather_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "piggy_bank": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "cracked_piggy_bank": {
+        "rarity": "uncommon",
+        "upgrade": "piggy_bank"
+    },
+    "broken_piggy_bank": {
+        "rarity": "uncommon",
+        "upgrade": "piggy_bank"
+    },
+    "potion_affinity_talisman": {
+        "rarity": "common",
+        "upgrade": "ring_potion_affinity"
+    },
+    "ring_potion_affinity": {
+        "rarity": "uncommon",
+        "upgrade": "artifact_potion_affinity"
+    },
+    "artifact_potion_affinity": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "haste_ring": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "experience_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "coin_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "magnetic_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "emerald_ring": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "night_crystal": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "day_crystal": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "gravity_talisman": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "fire_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "lava_talisman": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "healing_talisman": {
+        "rarity": "common",
+        "upgrade": "healing_ring"
+    },
+    "healing_ring": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "bait_ring": {
+        "rarity": "rare",
+        "upgrade": "spiked_atrocity"
+    },
+    "spiked_atrocity": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "sea_creature_talisman": {
+        "rarity": "common",
+        "upgrade": "sea_creature_ring"
+    },
+    "sea_creature_ring": {
+        "rarity": "uncommon",
+        "upgrade": "sea_creature_artifact"
+    },
+    "sea_creature_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "personal_compactor_4000": {
+        "rarity": "uncommon",
+        "upgrade": "personal_compactor_5000",
+        "overrides": false
+    },
+    "personal_compactor_5000": {
+        "rarity": "rare",
+        "upgrade": "personal_compactor_6000",
+        "overrides": false
+    },
+    "personal_compactor_6000": {
+        "rarity": "epic",
+        "upgrade": "personal_compactor_7000",
+        "overrides": false
+    },
+    "personal_compactor_7000": {
+        "rarity": "legendary",
+        "upgrade": null,
+        "overrides": false
+    },
+    "personal_deletor_4000": {
+        "rarity": "uncommon",
+        "upgrade": "personal_deletor_5000",
+        "overrides": false
+    },
+    "personal_deletor_5000": {
+        "rarity": "rare",
+        "upgrade": "personal_deletor_6000",
+        "overrides": false
+    },
+    "personal_deletor_6000": {
+        "rarity": "epic",
+        "upgrade": "personal_deletor_7000",
+        "overrides": false
+    },
+    "personal_deletor_7000": {
+        "rarity": "legendary",
+        "upgrade": null,
+        "overrides": false
+    },
+    "scarf_studies": {
+        "rarity": "rare",
+        "upgrade": "scarf_thesis"
+    },
+    "scarf_thesis": {
+        "rarity": "epic",
+        "upgrade": "scarf_grimoire"
+    },
+    "scarf_grimoire": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "treasure_talisman": {
+        "rarity": "common",
+        "upgrade": "treasure_ring"
+    },
+    "treasure_ring": {
+        "rarity": "uncommon",
+        "upgrade": "treasure_artifact"
+    },
+    "treasure_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "auto_recombobulator": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "catacombs_expert_ring": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "wither_artifact": {
+        "rarity": "epic",
+        "upgrade": "wither_relic"
+    },
+    "wither_relic": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "master_skull_tier_1": {
+        "rarity": "common",
+        "upgrade": "master_skull_tier_2"
+    },
+    "master_skull_tier_2": {
+        "rarity": "common",
+        "upgrade": "master_skull_tier_3"
+    },
+    "master_skull_tier_3": {
+        "rarity": "uncommon",
+        "upgrade": "master_skull_tier_4"
+    },
+    "master_skull_tier_4": {
+        "rarity": "uncommon",
+        "upgrade": "master_skull_tier_5"
+    },
+    "master_skull_tier_5": {
+        "rarity": "rare",
+        "upgrade": "master_skull_tier_6"
+    },
+    "master_skull_tier_6": {
+        "rarity": "epic",
+        "upgrade": "master_skull_tier_7"
+    },
+    "master_skull_tier_7": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "bat_talisman": {
+        "rarity": "rare",
+        "upgrade": "bat_ring"
+    },
+    "bat_ring": {
+        "rarity": "epic",
+        "upgrade": "bat_artifact"
+    },
+    "bat_artifact": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "potato_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "spider_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "spider_ring"
+    },
+    "spider_ring": {
+        "rarity": "rare",
+        "upgrade": "spider_artifact"
+    },
+    "spider_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "fish_affinity_talisman": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "wolf_talisman": {
+        "rarity": "common",
+        "upgrade": "wolf_ring"
+    },
+    "wolf_ring": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "tarantula_talisman": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "lucky_hoof": {
+        "rarity": "uncommon",
+        "upgrade": "eternal_hoof"
+    },
+    "eternal_hoof": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "pocket_espresso_machine": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "handy_blood_chalice": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "netherrack_looking_sunshade": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "zombie_talisman": {
+        "rarity": "common",
+        "upgrade": "zombie_ring"
+    },
+    "zombie_ring": {
+        "rarity": "uncommon",
+        "upgrade": "zombie_artifact"
+    },
+    "zombie_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "skeleton_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "village_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "mine_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "intimidation_talisman": {
+        "rarity": "common",
+        "upgrade": "intimidation_ring"
+    },
+    "intimidation_ring": {
+        "rarity": "uncommon",
+        "upgrade": "intimidation_artifact"
+    },
+    "intimidation_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "scavenger_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "bits_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "dante_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "blood_god_crest": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "candy_talisman": {
+        "rarity": "common",
+        "upgrade": "candy_ring"
+    },
+    "candy_ring": {
+        "rarity": "uncommon",
+        "upgrade": "candy_artifact"
+    },
+    "candy_artifact": {
+        "rarity": "rare",
+        "upgrade": "candy_relic"
+    },
+    "candy_relic": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "jungle_amulet": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "white_gift_talisman": {
+        "rarity": "common",
+        "upgrade": "green_gift_talisman"
+    },
+    "green_gift_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "blue_gift_talisman"
+    },
+    "blue_gift_talisman": {
+        "rarity": "rare",
+        "upgrade": "purple_gift_talisman"
+    },
+    "purple_gift_talisman": {
+        "rarity": "epic",
+        "upgrade": "gold_gift_talisman"
+    },
+    "gold_gift_talisman": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "trapper_crest": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "new_year_cake_bag": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "kuudra_follower_artifact": {
+        "name": "Kuudra Follower Artifact",
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "bingo_talisman": {
+        "rarity": "common",
+        "upgrade": "bingo_ring"
+    },
+    "bingo_ring": {
+        "rarity": "uncommon",
+        "upgrade": "bingo_artifact"
+    },
+    "bingo_artifact": {
+        "rarity": "rare",
+        "upgrade": "bingo_relic"
+    },
+    "bingo_relic": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "jacobus_register": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "chumming_talisman": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "great_spook_talisman": {
+        "rarity": "common",
+        "upgrade": "great_spook_ring"
+    },
+    "great_spook_ring": {
+        "rarity": "uncommon",
+        "upgrade": "great_spook_artifact"
+    },
+    "great_spook_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "pigs_foot": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "wolf_paw": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "frozen_chicken": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "melody_hair": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "cat_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "lynx_talisman"
+    },
+    "lynx_talisman": {
+        "rarity": "rare",
+        "upgrade": "cheetah_talisman"
+    },
+    "cheetah_talisman": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "odgers_bronze_tooth": {
+        "rarity": "common",
+        "upgrade": "odgers_silver_tooth"
+    },
+    "odgers_silver_tooth": {
+        "rarity": "uncommon",
+        "upgrade": "odgers_gold_tooth"
+    },
+    "odgers_gold_tooth": {
+        "rarity": "rare",
+        "upgrade": "odgers_diamond_tooth"
+    },
+    "odgers_diamond_tooth": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "archaeologist_compass": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "king_talisman": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "shady_ring": {
+        "rarity": "uncommon",
+        "upgrade": "crooked_artifact"
+    },
+    "crooked_artifact": {
+        "rarity": "rare",
+        "upgrade": "seal_of_the_family"
+    },
+    "seal_of_the_family": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "devour_ring": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "reaper_orb": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "survivor_cube": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "red_claw_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "red_claw_ring"
+    },
+    "red_claw_ring": {
+        "rarity": "rare",
+        "upgrade": "red_claw_artifact"
+    },
+    "red_claw_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "hunter_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "hunter_ring"
+    },
+    "hunter_ring": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "soulflow_pile": {
+        "rarity": "uncommon",
+        "upgrade": "soulflow_battery"
+    },
+    "soulflow_battery": {
+        "rarity": "rare",
+        "upgrade": "soulflow_supercell"
+    },
+    "soulflow_supercell": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "ender_artifact": {
+        "rarity": "epic",
+        "upgrade": "ender_relic"
+    },
+    "ender_relic": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "burststopper_talisman": {
+        "rarity": "rare",
+        "upgrade": "burststopper_artifact"
+    },
+    "burststopper_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "burning_kuudra_core": {
+        "rarity": "rare",
+        "upgrade": "fiery_kuudra_core"
+    },
+    "fiery_kuudra_core": {
+        "rarity": "epic",
+        "upgrade": "infernal_kuudra_core"
+    },
+    "infernal_kuudra_core": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "blaze_talisman": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "pulse_ring": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "draconic_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "draconic_ring"
+    },
+    "draconic_ring": {
+        "rarity": "rare",
+        "upgrade": "draconic_artifact"
+    },
+    "draconic_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "glacial_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "glacial_ring"
+    },
+    "glacial_ring": {
+        "rarity": "uncommon",
+        "upgrade": "glacial_artifact"
+    },
+    "glacial_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "wedding_ring_0": {
+        "rarity": "common",
+        "upgrade": "wedding_ring_1"
+    },
+    "wedding_ring_1": {
+        "rarity": "common",
+        "upgrade": "wedding_ring_2"
+    },
+    "wedding_ring_2": {
+        "rarity": "uncommon",
+        "upgrade": "wedding_ring_3"
+    },
+    "wedding_ring_3": {
+        "rarity": "uncommon",
+        "upgrade": "wedding_ring_4"
+    },
+    "wedding_ring_4": {
+        "rarity": "rare",
+        "upgrade": "wedding_ring_5"
+    },
+    "wedding_ring_5": {
+        "rarity": "rare",
+        "upgrade": "wedding_ring_6"
+    },
+    "wedding_ring_6": {
+        "rarity": "rare",
+        "upgrade": "wedding_ring_7"
+    },
+    "wedding_ring_7": {
+        "rarity": "epic",
+        "upgrade": "wedding_ring_8"
+    },
+    "wedding_ring_8": {
+        "rarity": "epic",
+        "upgrade": "wedding_ring_9"
+    },
+    "wedding_ring_9": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "campfire_talisman_1": {
+        "rarity": "common",
+        "upgrade": "campfire_talisman_2"
+    },
+    "campfire_talisman_2": {
+        "rarity": "common",
+        "upgrade": "campfire_talisman_3"
+    },
+    "campfire_talisman_3": {
+        "rarity": "common",
+        "upgrade": "campfire_talisman_4"
+    },
+    "campfire_talisman_4": {
+        "rarity": "uncommon",
+        "upgrade": "campfire_talisman_5"
+    },
+    "campfire_talisman_5": {
+        "rarity": "uncommon",
+        "upgrade": "campfire_talisman_6"
+    },
+    "campfire_talisman_6": {
+        "rarity": "uncommon",
+        "upgrade": "campfire_talisman_7"
+    },
+    "campfire_talisman_7": {
+        "rarity": "uncommon",
+        "upgrade": "campfire_talisman_8"
+    },
+    "campfire_talisman_8": {
+        "rarity": "uncommon",
+        "upgrade": "campfire_talisman_9"
+    },
+    "campfire_talisman_9": {
+        "rarity": "rare",
+        "upgrade": "campfire_talisman_10"
+    },
+    "campfire_talisman_10": {
+        "rarity": "rare",
+        "upgrade": "campfire_talisman_11"
+    },
+    "campfire_talisman_11": {
+        "rarity": "rare",
+        "upgrade": "campfire_talisman_12"
+    },
+    "campfire_talisman_12": {
+        "rarity": "rare",
+        "upgrade": "campfire_talisman_13"
+    },
+    "campfire_talisman_13": {
+        "rarity": "rare",
+        "upgrade": "campfire_talisman_14"
+    },
+    "campfire_talisman_14": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_15"
+    },
+    "campfire_talisman_15": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_16"
+    },
+    "campfire_talisman_16": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_17"
+    },
+    "campfire_talisman_17": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_18"
+    },
+    "campfire_talisman_18": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_19"
+    },
+    "campfire_talisman_19": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_20"
+    },
+    "campfire_talisman_20": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_21"
+    },
+    "campfire_talisman_21": {
+        "rarity": "epic",
+        "upgrade": "campfire_talisman_22"
+    },
+    "campfire_talisman_22": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_23"
+    },
+    "campfire_talisman_23": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_24"
+    },
+    "campfire_talisman_24": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_25"
+    },
+    "campfire_talisman_25": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_26"
+    },
+    "campfire_talisman_26": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_27"
+    },
+    "campfire_talisman_27": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_28"
+    },
+    "campfire_talisman_28": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_29"
+    },
+    "campfire_talisman_29": {
+        "rarity": "legendary",
+        "upgrade": "campfire_talisman_30"
+    },
+    "wood_talisman": {
+        "rarity": "uncommon",
+        "upgrade": null
+    },
+    "party_hat_crab": {
+        "rarity": "special",
+        "upgrade": null
+    },
+    "party_hat_crab_animated": {
+        "name": "Crab Hat of Celebration - 2022 Edition",
+        "rarity": "special",
+        "upgrade": null
+    },
+    "mineral_talisman": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "beastmaster_crest_common": {
+        "rarity": "common",
+        "upgrade": "beastmaster_crest_uncommon"
+    },
+    "beastmaster_crest_uncommon": {
+        "rarity": "uncommon",
+        "upgrade": "beastmaster_crest_rare"
+    },
+    "beastmaster_crest_rare": {
+        "rarity": "rare",
+        "upgrade": "beastmaster_crest_epic"
+    },
+    "beastmaster_crest_epic": {
+        "rarity": "epic",
+        "upgrade": "beastmaster_crest_legendary"
+    },
+    "beastmaster_crest_legendary": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "raggedy_shark_tooth_necklace": {
+        "rarity": "common",
+        "upgrade": "dull_shark_tooth_necklace"
+    },
+    "dull_shark_tooth_necklace": {
+        "rarity": "uncommon",
+        "upgrade": "honed_shark_tooth_necklace"
+    },
+    "honed_shark_tooth_necklace": {
+        "rarity": "rare",
+        "upgrade": "sharp_shark_tooth_necklace"
+    },
+    "sharp_shark_tooth_necklace": {
+        "rarity": "epic",
+        "upgrade": "razor_sharp_shark_tooth_necklace"
+    },
+    "razor_sharp_shark_tooth_necklace": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "hegemony_artifact": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "bat_person_talisman": {
+        "rarity": "common",
+        "upgrade": "bat_person_ring"
+    },
+    "bat_person_ring": {
+        "rarity": "uncommon",
+        "upgrade": "bat_person_artifact"
+    },
+    "bat_person_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "jerry_talisman_green": {
+        "rarity": "uncommon",
+        "upgrade": "jerry_talisman_blue"
+    },
+    "jerry_talisman_blue": {
+        "rarity": "rare",
+        "upgrade": "jerry_talisman_purple"
+    },
+    "jerry_talisman_purple": {
+        "rarity": "epic",
+        "upgrade": "jerry_talisman_golden"
+    },
+    "jerry_talisman_golden": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "titanium_talisman": {
+        "rarity": "uncommon",
+        "upgrade": "titanium_ring"
+    },
+    "titanium_ring": {
+        "rarity": "rare",
+        "upgrade": "titanium_artifact"
+    },
+    "titanium_artifact": {
+        "rarity": "epic",
+        "upgrade": "titanium_relic"
+    },
+    "titanium_relic": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "power_talisman": {
+        "rarity": "common",
+        "upgrade": "power_ring"
+    },
+    "power_ring": {
+        "rarity": "uncommon",
+        "upgrade": "power_artifact"
+    },
+    "power_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "nether_artifact": {
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "abicase": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "artifact_of_control": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "pandoras_box": {
+        "rarity": "common",
+        "upgrade": null
+    },
+    "shens_regalia": {
+        "rarity": "legendary",
+        "upgrade": null
+    },
+    "cropie_talisman": {
+        "rarity": "common",
+        "upgrade": "squash_ring"
+    },
+    "squash_ring": {
+        "rarity": "uncommon",
+        "upgrade": "fermento_artifact"
+    },
+    "fermento_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "jake_plushie": {
+        "rarity": "uncommon",
+        "upgrade": null
+    }
+}
