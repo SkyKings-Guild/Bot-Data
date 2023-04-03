@@ -192,15 +192,15 @@
         "upgrade": null
     },
     "treasure_talisman": {
-        "rarity": "common",
+        "rarity": "rare",
         "upgrade": "treasure_ring"
     },
     "treasure_ring": {
-        "rarity": "uncommon",
+        "rarity": "epic",
         "upgrade": "treasure_artifact"
     },
     "treasure_artifact": {
-        "rarity": "rare",
+        "rarity": "legendary",
         "upgrade": null
     },
     "auto_recombobulator": {
