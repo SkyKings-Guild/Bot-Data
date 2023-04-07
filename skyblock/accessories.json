@@ -766,7 +766,7 @@
     },
     "campfire_talisman_29": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_30"
+        "upgrade": null
     },
     "wood_talisman": {
         "rarity": "uncommon",
