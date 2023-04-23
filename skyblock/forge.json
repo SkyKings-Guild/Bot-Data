@@ -1,0 +1,275 @@
+{
+  "REFINED_DIAMOND": {
+    "hotm": 2,
+    "time": 28800,
+    "ingredients": {
+      "ENCHANTED_DIAMOND_BLOCK": 2
+    }
+  },
+  "REFINED_MITHRIL": {
+    "hotm": 2,
+    "time": 21600,
+    "ingredients": {
+      "ENCHANTED_MITHRIL": 160
+    }
+  },
+  "REFINED_TITANIUM": {
+    "hotm": 2,
+    "time": 43200,
+    "ingredients": {
+      "ENCHANTED_TITANIUM": 16
+    }
+  },
+  "FUEL_TANK": {
+    "hotm": 2,
+    "time": 36000,
+    "ingredients": {
+      "ENCHANTED_COAL_BLOCK": 2
+    }
+  },
+  "BEJEWELED_HANDLE": {
+    "hotm": 2,
+    "time": 1800,
+    "ingredients": {
+      "GLACITE_JEWEL": 3
+    }
+  },
+  "MITHRIL_PICKAXE": {
+    "hotm": 2,
+    "time": 2700,
+    "ingredients": {
+      "ENCHANTED_MITHRIL": 30,
+      "BEJEWELED_HANDLE": 1,
+      "ENCHANTED_GOLD": 10
+    }
+  },
+  "BEACON_2": {
+    "hotm": 2,
+    "time": 72000,
+    "ingredients": {
+      "BEACON_1": 1,
+      "REFINED_MITHRIL": 5
+    }
+  },
+  "TITANIUM_TALISMAN": {
+    "hotm": 2,
+    "time": 50400,
+    "ingredients": {
+      "REFINED_TITANIUM": 5
+    }
+  },
+  "DIAMONITE": {
+    "hotm": 2,
+    "time": 21600,
+    "ingredients": {
+      "REFINED_DIAMOND": 3
+    }
+  },
+  "POWER_CRYSTAL": {
+    "hotm": 2,
+    "time": 7200,
+    "ingredients": {
+      "STARFALL": 256
+    }
+  },
+  "FORGE_TRAVEL_SCROLL": {
+    "hotm": 2,
+    "time": 18000,
+    "ingredients": {
+      "MITHRIL_ORE": 48,
+      "TITANIUM_ORE": 80,
+      "ENCHANTED_ENDER_PEARL": 16
+    },
+    "coins": 25000
+  },
+  "DRILL_ENGINE": {
+    "hotm": 3,
+    "time": 108000,
+    "ingredients": {
+      "ENCHANTED_IRON_BLOCK": 1,
+      "ENCHANTED_REDSTONE_BLOCK": 3,
+      "GOLDEN_PLATE": 1,
+      "TREASURITE": 10,
+      "REFINED_DIAMOND": 1
+    }
+  },
+  "GOLDEN_PLATE": {
+    "hotm": 3,
+    "time": 21600,
+    "ingredients": {
+      "ENCHANTED_GOLD_BLOCK": 2,
+      "GLACITE_JEWEL": 5,
+      "REFINED_DIAMOND": 1
+    }
+  },
+  "MITHRIL_PLATE": {
+    "hotm": 3,
+    "time": 64800,
+    "ingredients": {
+      "REFINED_MITHRIL": 5,
+      "GOLDEN_PLATE": 1,
+      "ENCHANTED_IRON_BLOCK": 1,
+      "REFINED_TITANIUM": 1
+    }
+  },
+  "REFINED_MITHRIL_PICKAXE": {
+    "hotm": 3,
+    "time": 79200,
+    "ingredients": {
+      "REFINED_MITHRIL": 3,
+      "BEJEWELED_HANDLE": 2,
+      "REFINED_DIAMOND": 1,
+      "ENCHANTED_GOLD": 30
+    }
+  },
+  "MITHRIL_DRILL_1": {
+    "hotm": 3,
+    "time": 14400,
+    "ingredients": {
+      "DRILL_ENGINE": 1,
+      "REFINED_MITHRIL": 3,
+      "FUEL_TANK": 1
+    }
+  },
+  "MITHRIL_FUEL_TANK": {
+    "hotm": 3,
+    "time": 36000,
+    "ingredients": {
+      "MITHRIL_PLATE": 3,
+      "FUEL_TANK": 5
+    }
+  },
+  "MITHRIL_DRILL_ENGINE": {
+    "hotm": 3,
+    "time": 54000,
+    "ingredients": {
+      "DRILL_ENGINE": 2,
+      "MITHRIL_PLATE": 3
+    }
+  },
+  "BEACON_3": {
+    "hotm": 3,
+    "time": 108000,
+    "ingredients": {
+      "BEACON_2": 1,
+      "REFINED_MITHRIL": 10
+    }
+  },
+  "TITANIUM_RING": {
+    "hotm": 3,
+    "time": 72000,
+    "ingredients": {
+      "REFINED_TITANIUM": 6,
+      "TITANIUM_TALISMAN": 1
+    }
+  },
+  "PURE_MITHRIL": {
+    "hotm": 3,
+    "time": 43200,
+    "ingredients": {
+      "REFINED_MITHRIL": 2
+    }
+  },
+  "ROCK_GEMSTONE": {
+    "hotm": 3,
+    "time": 79200,
+    "ingredients": {
+      "ENCHANTED_COBBLESTONE": 128,
+      "TREASURITE": 64
+    }
+  },
+  "PETRIFIED_STARFALL": {
+    "hotm": 3,
+    "time": 50400,
+    "ingredients": {
+      "STARFALL": 512
+    }
+  },
+  "GEMSTONE_DRILL_1": {
+    "hotm": 3,
+    "time": 3600,
+    "ingredients": {
+      "DRILL_ENGINE": 1,
+      "FUEL_TANK": 1,
+      "FINE_RUBY_GEM": 6
+    }
+  },
+  "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
+    "hotm": 3,
+    "time": 36000,
+    "ingredients": {
+      "FLAWED_RUBY_GEM": 48,
+      "FINE_RUBY_GEM": 80,
+      "ENCHANTED_ENDER_PEARL": 16
+    },
+    "coins": 50000
+  },
+  "GEMSTONE_MIXTURE": {
+    "hotm": 4,
+    "time": 14400,
+    "ingredients": {
+      "FINE_JADE_GEM": 4,
+      "FINE_AMBER_GEM": 4,
+      "FINE_AMETHYST_GEM": 4,
+      "FINE_SAPPHIRE_GEM": 4,
+      "SLUDGE_JUICE": 320
+    }
+  },
+  "PERFECT_JASPER_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_JASPER_GEM": 5,
+      "JASPER_CRYSTAL": 1
+    }
+  },
+  "PERFECT_RUBY_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_RUBY_GEM": 5,
+      "RUBY_CRYSTAL": 1
+    }
+  },
+  "PERFECT_JADE_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_JADE_GEM": 5,
+      "JADE_CRYSTAL": 1
+    }
+  },
+  "PERFECT_SAPPHIRE_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_SAPPHIRE_GEM": 5,
+      "SAPPHIRE_CRYSTAL": 1
+    }
+  },
+  "PERFECT_AMBER_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_AMBER_GEM": 5,
+      "AMBER_CRYSTAL": 1
+    }
+  },
+  "PERFECT_TOPAZ_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_TOPAZ_GEM": 5,
+      "TOPAZ_CRYSTAL": 1
+    }
+  },
+  "PERFECT_AMETHYST_GEM": {
+    "gemstone": 10,
+    "time": 72000,
+    "ingredients": {
+      "FLAWLESS_AMETHYST_GEM": 5,
+      "AMETHYST_CRYSTAL": 1
+    }
+  },
+  
+      
