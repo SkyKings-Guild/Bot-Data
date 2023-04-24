@@ -215,6 +215,74 @@
       "SLUDGE_JUICE": 320
     }
   },
+  "GOBLIN_OMELETTE_PESTO": {
+    "hotm": 4,
+    "time": 72000,
+    "ingredients": {
+      "GOBLIN_EGG_GREEN": 99,
+      "FINE_JADE_GEM": 1
+    }
+  },
+  "AMMONITE_PET": null,
+  "MITHRIL_DRILL_2": {
+    "hotm": 4,
+    "time": 30,
+    "ingredients": {
+      "MITHRIL_DRILL_1": 1,
+      "GOLDEN_PLATE": 10,
+      "MITHRIL_PLATE": 2
+    }
+  },
+  "TITANIUM_DRILL_ENGINE": {
+    "hotm": 4,
+    "time": 108000,
+    "ingredients": {
+      "DRILL_ENGINE": 10,
+      "PLASMA": 5,
+      "MITHRIL_PLATE": 4,
+      "REFINED_TITANIUM": 5
+    }
+  },
+  "GOBLIN_OMELETTE": {
+    "hotm": 4,
+    "time": 64800,
+    "ingredients": {
+      "GOBLIN_EGG": 99
+    }
+  },
+  "BEACON_4": {
+    "hotm": 4,
+    "time": 144000,
+    "ingredients": {
+      "BEACON_3": 1,
+      "REFINED_MITHRIL": 20,
+      "PLASMA": 1
+    }
+  },
+  "TITANIUM_ARTIFACT": {
+    "hotm": 4,
+    "time": 129600,
+    "ingredients": {
+      "REFINED_TITANIUM": 12,
+      "TITANIUM_RING": 1
+    }
+  },
+  "HOT_STUFF": {
+    "hotm": 4,
+    "time": 86400,
+    "ingredients": {
+      "HARD_STONE": 128,
+      "ROUGH_AMBER_GEM": 64
+    }
+  },
+  "GEMSTONE_DRILL_2": {
+    "hotm": 4,
+    "time": 30,
+    "ingredients": {
+      "GEMSTONE_DRILL_1": 1,
+      "GEMSTONE_MIXTURE": 3
+    }
+  },
   "PERFECT_JASPER_GEM": {
     "gemstone": 10,
     "time": 72000,
