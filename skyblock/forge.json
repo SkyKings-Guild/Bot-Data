@@ -417,6 +417,97 @@
       "MITHRIL_PLATE": 5
     }
   },
+  "GEMSTONE_DRILL_4": {
+    "hotm": 6,
+    "time": 30,
+    "ingredients": {
+      "GEMSTONE_DRILL_3": 1,
+      "FLAWLESS_JASPER_GEM": 1,
+      "TREASURITE": 100
+    }
+  },
+  "SAPPHIRE_POLISHED_DRILL_ENGINE": {
+    "hotm": 6,
+    "time": 72000,
+    "ingredients": {
+      "TITANIUM_DRILL_ENGINE": 1,
+      "ELECTRON_TRANSMITTER": 25,
+      "FTX_3070": 25,
+      "FINE_SAPPHIRE_GEM": 20
+    }
+  },
+  "AMBER_MATERIAL": {
+    "hotm": 6,
+    "time": 25200,
+    "ingredients": {
+      "FINE_AMBER_GEM": 12,
+      "GOLDEN_PLATE": 1
+    }
+  },
+  "DIVAN_HELMET": {
+    "hotm": 6,
+    "time": 82800,
+    "ingredients": {
+      "DIVAN_FRAGMENT": 5,
+      "GEMSTONE_MIXTURE": 10,
+      "FLAWLESS_RUBY_GEM": 1
+    }
+  },
+  "DIVAN_CHESTPLATE": {
+    "hotm": 6,
+    "time": 82800,
+    "ingredients": {
+      "DIVAN_FRAGMENT": 7,
+      "GEMSTONE_MIXTURE": 10,
+      "FLAWLESS_RUBY_GEM": 1
+    }
+  },
+  "DIVAN_LEGGINGS": {
+    "hotm": 6,
+    "time": 82800,
+    "ingredients": {
+      "DIVAN_FRAGMENT": 7,
+      "GEMSTONE_MIXTURE": 10,
+      "FLAWLESS_RUBY_GEM": 1
+    }
+  },
+  "DIVAN_BOOTS": {
+    "hotm": 6,
+    "time": 82800,
+    "ingredients": {
+      "DIVAN_FRAGMENT": 4,
+      "GEMSTONE_MIXTURE": 10,
+      "FLAWLESS_RUBY_GEM": 1
+    }
+  },
+  "AMBER_POLISHED_DRILL_ENGINE": {
+    "hotm": 7,
+    "time": 180000,
+    "ingredients": {
+      "RUBY_POLISHED_DRILL_ENGINE": 1,
+      "SAPPHIRE_POLISHED_DRILL_ENGINE": 1,
+      "FLAWLESS_AMBER_GEM": 1,
+      "ROBOTRON_REFLECTOR": 50
+    }
+  },
+  "PERFECTLY_CUT_FUEL_TANK": {
+    "hotm": 7,
+    "time": 180000,
+    "ingredients": {
+      "GEMSTONE_FUEL_TANK": 1,
+      "SYNTHETIC_HEART": 70,
+      "GEMSTONE_MIXTURE": 25
+    }
+  },
+  "DIVAN_DRILL": {
+    "hotm": 7,
+    "time": 216000,
+    "ingredients": {
+      "DIVAN_ALLOY": 1,
+      "TITANIUM_DRILL_4": 1
+    },
+    "coins": 50000000
+  },
   "PERFECT_JASPER_GEM": {
     "gemstone": 10,
     "time": 72000,
