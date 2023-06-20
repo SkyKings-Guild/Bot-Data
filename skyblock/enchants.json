@@ -479,6 +479,12 @@
     "max_table": 1,
     "max": 2
   },
+  "reflection": {
+    "name": "Reflection",
+    "id": "reflection",
+    "max_table": 0,
+    "max": 5
+  },
   "rejuvenate": {
     "name": "Rejuvenate",
     "id": "rejuvenate",
