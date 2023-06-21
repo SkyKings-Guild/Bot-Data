@@ -473,6 +473,12 @@
     "max_table": 2,
     "max": 2
   },
+  "quantum": {
+    "name": "Quantum",
+    "id": "quantum",
+    "max_table": 0,
+    "max": 5
+  },
   "rainbow": {
     "name": "Rainbow",
     "id": "rainbow",
