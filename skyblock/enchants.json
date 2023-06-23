@@ -623,6 +623,12 @@
     "max_table": 1,
     "max": 1
   },
+  "the_one": {
+    "name": "The One",
+    "id": "ultimate_the_one",
+    "max_table": 0,
+    "max": 5
+  },
   "thorns": {
     "name": "Thorns",
     "id": "thorns",
