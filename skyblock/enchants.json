@@ -653,6 +653,12 @@
     "max_table": 5,
     "max": 7
   },
+  "transylvanian": {
+    "name": "Transylvanian",
+    "id": "transylvanian",
+    "max_table": 0,
+    "max": 5
+  },
   "triple-strike": {
     "name": "Triple-Strike",
     "id": "triple_strike",
