@@ -1,407 +1,407 @@
 {
   "mobs": {
     "island": {
-      "family_zombie": {
+      "zombie": {
         "maxLevel": 5,
         "boss": false
       },
-      "family_skeleton": {
+      "skeleton": {
         "maxLevel": 5,
         "boss": false
       },
-      "family_spider": {
+      "spider": {
         "maxLevel": 5,
         "boss": false
       },
-      "family_cave_spider": {
+      "cave_spider": {
         "maxLevel": 5,
         "boss": false
       },
-      "family_enderman_private": {
+      "enderman_private": {
         "maxLevel": 5,
         "boss": false
       },
-      "family_slime": {
+      "slime": {
         "maxLevel": 5,
         "boss": false
       },
-      "family_witch": {
+      "witch": {
         "maxLevel": 5,
         "boss": false
       }
     },
     "hub": {
-      "family_zombie_villager": {
+      "zombie_villager": {
         "maxLevel": null,
         "boss": false
       },
-      "family_unburried_zombie": {
+      "unburried_zombie": {
         "maxLevel": null,
         "boss": false
       },
-      "family_ruin_wolf": {
+      "ruin_wolf": {
         "maxLevel": null,
         "boss": false
       },
-      "family_old_wolf": {
+      "old_wolf": {
         "maxLevel": null,
         "boss": false
       }
     },
     "spiders_den": {
-      "family_dasher_spider": {
+      "dasher_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_spider_jockey": {
+      "spider_jockey": {
         "maxLevel": null,
         "boss": false
       },
-      "family_weaver_spider": {
+      "weaver_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_voracious_spider": {
+      "voracious_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_splitter_spider": {
+      "splitter_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_brood_mother_spider": {
+      "brood_mother_spider": {
         "maxLevel": null,
         "boss": true
       },
-      "family_respawning_skeleton": {
+      "respawning_skeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_random_slime": {
+      "random_slime": {
         "maxLevel": null,
         "boss": false
       },
-      "family_arachne_keeper": {
+      "arachne_keeper": {
         "maxLevel": null,
         "boss": false
       },
-      "family_arachne_brood": {
+      "arachne_brood": {
         "maxLevel": null,
         "boss": false
       },
-      "family_arachne": {
+      "arachne": {
         "maxLevel": null,
         "boss": true
       }
     },
     "crimson_isle": {
-      "family_ashfang": {
+      "ashfang": {
         "maxLevel": null,
         "boss": true
       },
-      "family_barbarian_duke_x": {
+      "barbarian_duke_x": {
         "maxLevel": null,
         "boss": true
       },
-      "family_bladesoul": {
+      "bladesoul": {
         "maxLevel": null,
         "boss": true
       },
-      "family_blaze": {
+      "blaze": {
         "maxLevel": null,
         "boss": false
       },
-      "family_flaming_spider": {
+      "flaming_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_ghast": {
+      "ghast": {
         "maxLevel": null,
         "boss": false
       },
-      "family_mage_outlaw": {
+      "mage_outlaw": {
         "maxLevel": null,
         "boss": true
       },
-      "family_magma_cube": {
+      "magma_cube": {
         "maxLevel": null,
         "boss": false
       },
-      "family_magma_boss": {
+      "magma_boss": {
         "maxLevel": null,
         "boss": true
       },
-      "family_matcho": {
+      "matcho": {
         "maxLevel": null,
         "boss": false
       },
-      "family_charging_mushroom_cow": {
+      "charging_mushroom_cow": {
         "maxLevel": null,
         "boss": false
       },
-      "family_pigman": {
+      "pigman": {
         "maxLevel": null,
         "boss": false
       },
-      "family_wither_skeleton": {
+      "wither_skeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_wither_spectre": {
+      "wither_spectre": {
         "maxLevel": null,
         "boss": false
       }
     },
     "end": {
-      "family_enderman": {
+      "enderman": {
         "maxLevel": null,
         "boss": false
       },
-      "family_obsidian_wither": {
+      "obsidian_wither": {
         "maxLevel": null,
         "boss": false
       },
-      "family_watcher": {
+      "watcher": {
         "maxLevel": null,
         "boss": false
       },
-      "family_zealot_enderman": {
+      "zealot_enderman": {
         "maxLevel": null,
         "boss": false
       },
-      "family_endermite": {
+      "endermite": {
         "maxLevel": null,
         "boss": false
       },
-      "family_dragon": {
+      "dragon": {
         "maxLevel": null,
         "boss": true
       },
-      "family_corrupted_protector": {
+      "corrupted_protector": {
         "maxLevel": null,
         "boss": true
       },
-      "family_voidling_fanatic": {
+      "voidling_fanatic": {
         "maxLevel": null,
         "boss": false
       },
-      "family_voidling_extremist": {
+      "voidling_extremist": {
         "maxLevel": null,
         "boss": false
       }
     },
     "caverns": {
-      "family_invisible_creeper": {
+      "invisible_creeper": {
         "maxLevel": null,
         "boss": false
       },
-      "family_lapis_zombie": {
+      "lapis_zombie": {
         "maxLevel": null,
         "boss": false
       },
-      "family_redstone_pigman": {
+      "redstone_pigman": {
         "maxLevel": null,
         "boss": false
       },
-      "family_emerald_slime": {
+      "emerald_slime": {
         "maxLevel": null,
         "boss": false
       },
-      "family_diamond_zombie": {
+      "diamond_zombie": {
         "maxLevel": null,
         "boss": false
       },
-      "family_diamond_skeleton": {
+      "diamond_skeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_caverns_ghost": {
+      "caverns_ghost": {
         "maxLevel": null,
         "boss": false
       },
-      "family_goblin": {
+      "goblin": {
         "maxLevel": null,
         "boss": false
       },
-      "family_treasure_hoarder": {
+      "treasure_hoarder": {
         "maxLevel": null,
         "boss": false
       },
-      "family_ice_walker": {
+      "ice_walker": {
         "maxLevel": null,
         "boss": false
       },
-      "family_automaton": {
+      "automaton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_butterfly": {
+      "butterfly": {
         "maxLevel": null,
         "boss": false
       },
-      "family_team_treasurite": {
+      "team_treasurite": {
         "maxLevel": null,
         "boss": false
       },
-      "family_sludge": {
+      "sludge": {
         "maxLevel": null,
         "boss": false
       },
-      "family_thyst": {
+      "thyst": {
         "maxLevel": null,
         "boss": false
       },
-      "family_worms": {
+      "worms": {
         "maxLevel": null,
         "boss": false
       },
-      "family_yog": {
+      "yog": {
         "maxLevel": null,
         "boss": false
       }
     },
     "park": {
-      "family_pack_spirit": {
+      "pack_spirit": {
         "maxLevel": null,
         "boss": false
       },
-      "family_howling_spirit": {
+      "howling_spirit": {
         "maxLevel": null,
         "boss": false
       },
-      "family_soul_of_the_alpha": {
+      "soul_of_the_alpha": {
         "maxLevel": null,
         "boss": false
       }
     },
     "spooky": {
-      "family_trick_or_treater": {
+      "trick_or_treater": {
         "maxLevel": null,
         "boss": false
       },
-      "family_wither_gourd": {
+      "wither_gourd": {
         "maxLevel": null,
         "boss": false
       },
-      "family_phantom_spirit": {
+      "phantom_spirit": {
         "maxLevel": null,
         "boss": false
       },
-      "family_scary_jerry": {
+      "scary_jerry": {
         "maxLevel": null,
         "boss": false
       },
-      "family_wraith": {
+      "wraith": {
         "maxLevel": null,
         "boss": false
       },
-      "family_batty_witch": {
+      "batty_witch": {
         "maxLevel": null,
         "boss": false
       },
-      "family_headless_horseman": {
+      "headless_horseman": {
         "maxLevel": null,
         "boss": true
       }
     },
     "catacombs": {
-      "family_lost_adventurer": {
+      "lost_adventurer": {
         "maxLevel": null,
         "boss": false
       },
-      "family_zombie_grunt": {
+      "zombie_grunt": {
         "maxLevel": null,
         "boss": false
       },
-      "family_zombie_soldier": {
+      "zombie_soldier": {
         "maxLevel": null,
         "boss": false
       },
-      "family_zombie_knight": {
+      "zombie_knight": {
         "maxLevel": null,
         "boss": false
       },
-      "family_skeleton_grunt": {
+      "skeleton_grunt": {
         "maxLevel": null,
         "boss": false
       },
-      "family_skeleton_soldier": {
+      "skeleton_soldier": {
         "maxLevel": null,
         "boss": false
       },
-      "family_skeleton_master": {
+      "skeleton_master": {
         "maxLevel": null,
         "boss": false
       },
-      "family_scared_skeleton": {
+      "scared_skeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_diamond_guy": {
+      "diamond_guy": {
         "maxLevel": null,
         "boss": false
       },
-      "family_dungeon_respawning_skeleton": {
+      "dungeon_respawning_skeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_skeletor": {
+      "skeletor": {
         "maxLevel": null,
         "boss": false
       },
-      "family_sniper_skeleton": {
+      "sniper_skeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_crypt_souleater": {
+      "crypt_souleater": {
         "maxLevel": null,
         "boss": false
       },
-      "family_crypt_dreadlord": {
+      "crypt_dreadlord": {
         "maxLevel": null,
         "boss": false
       },
-      "family_crypt_tank_zombie": {
+      "crypt_tank_zombie": {
         "maxLevel": null,
         "boss": false
       },
-      "family_super_tank_zombie": {
+      "super_tank_zombie": {
         "maxLevel": null,
         "boss": false
       },
-      "family_crypt_lurker": {
+      "crypt_lurker": {
         "maxLevel": null,
         "boss": false
       },
-      "family_cellar_spider": {
+      "cellar_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_watcher_summon_undead": {
+      "watcher_summon_undead": {
         "maxLevel": null,
         "boss": false
       },
-      "family_lonely_spider": {
+      "lonely_spider": {
         "maxLevel": null,
         "boss": false
       },
-      "family_shadow_assassin": {
+      "shadow_assassin": {
         "maxLevel": null,
         "boss": false
       },
-      "family_king_midas": {
+      "king_midas": {
         "maxLevel": null,
         "boss": false
       },
-      "family_super_archer": {
+      "super_archer": {
         "maxLevel": null,
         "boss": false
       },
-      "family_crypt_witherskeleton": {
+      "crypt_witherskeleton": {
         "maxLevel": null,
         "boss": false
       },
-      "family_zombie_commander": {
+      "zombie_commander": {
         "maxLevel": null,
         "boss": false
       }
