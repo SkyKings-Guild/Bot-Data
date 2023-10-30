@@ -275,6 +275,12 @@
     "max_table": 5,
     "max": 7
   },
+  "great spook": {
+    "name": "Great Spook",
+    "id": "great_spook",
+    "max_table": 0,
+    "max": 1
+  },
   "green thumb": {
     "name": "Green Thumb",
     "id": "green_thumb",
