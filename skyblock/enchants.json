@@ -428,7 +428,7 @@
   "pesterminator": {
     "name": "Pesterminator",
     "id": "pesterminator",
-    "max_table": 0
+    "max_table": 0,
     "max": 5
   },
   "piercing": {
