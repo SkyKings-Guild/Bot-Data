@@ -337,6 +337,10 @@
     },
     "intimidation_artifact": {
         "rarity": "rare",
+        "upgrade": "intimidation_relic"
+    },
+    "intimidation_relic": {
+        "rarity": "epic",
         "upgrade": null
     },
     "scavenger_talisman": {
