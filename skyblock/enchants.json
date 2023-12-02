@@ -503,6 +503,12 @@
     "max_table": 0,
     "max": 5
   },
+  "refrigerate": {
+    "name": "Refrigerate",
+    "id": "ultimate_refrigerate",
+    "max_table": 0,
+    "max": 5
+  },
   "rejuvenate": {
     "name": "Rejuvenate",
     "id": "rejuvenate",
