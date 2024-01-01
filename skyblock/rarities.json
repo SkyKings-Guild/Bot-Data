@@ -28,5 +28,11 @@
   },
   "VERY_SPECIAL": {
     "color": "a"
+  },
+  "ULTIMATE": {
+    "color": "4"
+  },
+  "ADMIN": {
+    "color": "4"
   }
 }
