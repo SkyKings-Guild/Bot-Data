@@ -317,6 +317,12 @@
     "max_table": 0,
     "max": 10
   },
+  "ice cold": {
+    "name": "Ice Cold",
+    "id": "ice_cold",
+    "max_table": 0,
+    "max": 5
+  },
   "impaling": {
     "name": "Impaling",
     "id": "impaling",
