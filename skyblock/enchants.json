@@ -683,6 +683,12 @@
     "max_table": 5,
     "max": 7
   },
+  "toxophilite": {
+    "name": "Toxophilite",
+    "id": "toxophilite",
+    "max_table": 0,
+    "max": 10
+  },
   "transylvanian": {
     "name": "Transylvanian",
     "id": "transylvanian",
