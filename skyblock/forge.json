@@ -502,7 +502,7 @@
   "DIVAN_PENDANT": {
     "hotm": 10,
     "time": 604800,
-    "ingredents": {
+    "ingredients": {
       "DIVAN_FRAGMENT": 10,
       "SHATTERED_PENDANT": 1,
       "PERFECT_PLATE": 1
@@ -511,7 +511,7 @@
   "POWER_RELIC": {
     "hotm": 10,
     "time": 28800,
-    "ingredents": {
+    "ingredients": {
       "GLACITE_AMALGAMATION": 32,
       "POWER_ARTIFACT": 1,
       "PERFECT_PLATE": 1
