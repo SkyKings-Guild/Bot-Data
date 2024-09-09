@@ -24,7 +24,7 @@
     "hotm": 7,
     "time": 3600,
     "collections": {
-      "UMBER": 3,
+      "UMBER": 3
     },
     "ingredients": {
       "ENCHANTED_UMBER": 160
@@ -34,7 +34,7 @@
     "hotm": 7,
     "time": 3600,
     "collections": {
-      "TUNGSTEN": 3,
+      "TUNGSTEN": 3
     },
     "ingredients": {
       "ENCHANTED_TUNGSTEN": 160
