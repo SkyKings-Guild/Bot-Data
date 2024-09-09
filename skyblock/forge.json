@@ -137,7 +137,7 @@
     "ingredients": {
       "UMBER_PLATE": 1,
       "TUNGSTEN_PLATE": 1,
-      "MITHRIL_PLATE": 1,
+      "MITHRIL_PLATE": 1
     }
   },
   "MITHRIL_DRILL_1": {
@@ -192,7 +192,7 @@
       "TREASURITE": 100,
       "MAGMA_CORE": 16,
       "GEMSTONE_DRILL_3": 1,
-      "FLAWLESS_JASPER_GEM": 1,
+      "FLAWLESS_JASPER_GEM": 1
     }
   },
   "POLISHED_TOPAZ_ROD": {
