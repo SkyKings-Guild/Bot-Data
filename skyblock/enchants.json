@@ -251,6 +251,12 @@
     "max_table": 0,
     "max": 5
   },
+  "flowstate": {
+    "name": "Flowstate",
+    "id": "ultimate_flowstate",
+    "max_table": 0,
+    "max": 3
+  },
   "fortune": {
     "name": "Fortune",
     "id": "fortune",
