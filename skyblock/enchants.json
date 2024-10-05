@@ -353,6 +353,12 @@
     "max_table": 2,
     "max": 2
   },
+  "lapidary": {
+    "name": "Lapidary",
+    "id": "lapidary",
+    "max_table": 0,
+    "max": 5
+  },
   "last stand": {
     "name": "Last Stand",
     "id": "ultimate_last_stand",
