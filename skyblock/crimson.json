@@ -1,5 +1,6 @@
 {
     "dojo_belts": [
+        "white": 0,
         "yellow": 1000,
         "green": 2000,
         "blue": 4000,
