@@ -1,10 +1,10 @@
 {
-    "dojo_belts": [
+    "dojo_belts": {
         "white": 0,
         "yellow": 1000,
         "green": 2000,
         "blue": 4000,
         "brown": 6000,
         "black": 7000
-    ]
+    }
 }
