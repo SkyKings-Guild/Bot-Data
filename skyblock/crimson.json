@@ -1,9 +1,9 @@
 {
-    "dojo_points": [
-        1000,
-        2000,
-        4000,
-        6000,
-        7000,
+    "dojo_belts": [
+        "yellow": 1000,
+        "green": 2000,
+        "blue": 4000,
+        "brown": 6000,
+        "black": 7000
     ]
 }
