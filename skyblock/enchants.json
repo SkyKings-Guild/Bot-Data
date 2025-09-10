@@ -502,8 +502,8 @@
     "max_table": 5,
     "max": 7
   },
-  "pristine": {
-    "name": "Pristine",
+  "prismatic": {
+    "name": "Prismatic",
     "id": "pristine",
     "max_table": 0,
     "max": 5
