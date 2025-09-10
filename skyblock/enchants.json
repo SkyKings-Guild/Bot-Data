@@ -682,8 +682,8 @@
     "max_table": 0,
     "max": 5
   },
-  "syphon": {
-    "name": "Syphon",
+  "drain": {
+    "name": "Drain",
     "id": "syphon",
     "max_table": 3,
     "max": 5
