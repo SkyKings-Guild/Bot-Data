@@ -87,7 +87,8 @@
     "name": "Champion",
     "id": "champion",
     "max_table": 0,
-    "max": 10
+    "max": 10,
+    "stacking": true
   },
   "chance": {
     "name": "Chance",
@@ -123,7 +124,8 @@
     "name": "Compact",
     "id": "compact",
     "max_table": 0,
-    "max": 10
+    "max": 10,
+    "stacking": true
   },
   "corruption": {
     "name": "Corruption",
@@ -153,7 +155,8 @@
     "name": "Cultivating",
     "id": "cultivating",
     "max_table": 0,
-    "max": 10
+    "max": 10,
+    "stacking": true
   },
   "dedication": {
     "name": "Dedication",
@@ -225,7 +228,8 @@
     "name": "Expertise",
     "id": "expertise",
     "max_table": 0,
-    "max": 10
+    "max": 10,
+    "stacking": true
   },
   "fatal tempo": {
     "name": "Fatal Tempo",
@@ -345,7 +349,8 @@
     "name": "Hecatomb",
     "id": "hecatomb",
     "max_table": 0,
-    "max": 10
+    "max": 10,
+    "stacking": true
   },
   "ice cold": {
     "name": "Ice Cold",
@@ -729,7 +734,8 @@
     "name": "Toxophilite",
     "id": "toxophilite",
     "max_table": 0,
-    "max": 10
+    "max": 10,
+    "stacking": true
   },
   "transylvanian": {
     "name": "Transylvanian",
