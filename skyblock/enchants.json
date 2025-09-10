@@ -1,4 +1,11 @@
 {
+  "absorb": {
+    "name": "Absorb",
+    "id": "absorb",
+    "max_table": 0,
+    "max": 10,
+    "stacking": true
+  },
   "angler": {
     "name": "Angler",
     "id": "angler",
@@ -23,34 +30,10 @@
     "max_table": 0,
     "max": 5
   },
-  "missile": {
-    "name": "Ultimate Missile",
-    "id": "ultimate_missile",
-    "max_table": 0,
-    "max": 5
-  },
-  "first_impression": {
-    "name": "First Impression",
-    "id": "ultimate_first_impression",
-    "max_table": 0,
-    "max": 5
-  },
-  "arcane": {
-    "name": "Arcane",
-    "id": "arcane",
-    "max_table": 5,
-    "max": 5
-  },
-  "stealth": {
-    "name": "Stealth",
-    "id": "stealth",
-    "max_table": 1,
-    "max": 1
-  },
   "big brain": {
     "name": "Big Brain",
     "id": "big_brain",
-    "max_table": 2,
+    "max_table": 0,
     "max": 5
   },
   "blast protection": {
@@ -100,7 +83,7 @@
     "name": "Charm",
     "id": "charm",
     "max_table": 0,
-    "max": 5
+    "max": 6
   },
   "chimera": {
     "name": "Chimera",
@@ -182,16 +165,16 @@
     "max_table": 0,
     "max": 3
   },
-  "dragon hunter": {
-    "name": "Dragon Hunter",
-    "id": "dragon_hunter",
-    "max_table": 0,
-    "max": 5
-  },
   "dragon tracer": {
     "name": "Dragon Tracer",
     "id": "aiming",
     "max_table": 5,
+    "max": 5
+  },
+  "drain": {
+    "name": "Drain",
+    "id": "syphon",
+    "max_table": 3,
     "max": 5
   },
   "duplex": {
@@ -222,7 +205,7 @@
     "name": "Experience",
     "id": "experience",
     "max_table": 3,
-    "max": 4
+    "max": 5
   },
   "expertise": {
     "name": "Expertise",
@@ -261,6 +244,12 @@
     "max_table": 5,
     "max": 7
   },
+  "first_impression": {
+    "name": "First Impression",
+    "id": "ultimate_first_impression",
+    "max_table": 0,
+    "max": 5
+  },
   "first strike": {
     "name": "First Strike",
     "id": "first_strike",
@@ -285,6 +274,12 @@
     "max_table": 0,
     "max": 3
   },
+  "forest_pledge": {
+    "name": "Forest Pledge",
+    "id": "forest_pledge",
+    "max_table": 0,
+    "max": 5
+  },
   "fortune": {
     "name": "Fortune",
     "id": "fortune",
@@ -295,7 +290,7 @@
     "name": "Frail",
     "id": "frail",
     "max_table": 5,
-    "max": 6
+    "max": 7
   },
   "frost walker": {
     "name": "Frost Walker",
@@ -308,6 +303,12 @@
     "id": "giant_killer",
     "max_table": 5,
     "max": 7
+  },
+  "gravity": {
+    "name": "Gravity",
+    "id": "dragon_hunter",
+    "max_table": 0,
+    "max": 6
   },
   "great spook": {
     "name": "Great Spook",
@@ -361,8 +362,8 @@
   "impaling": {
     "name": "Impaling",
     "id": "impaling",
-    "max_table": 3,
-    "max": 3
+    "max_table": 5,
+    "max": 5
   },
   "inferno": {
     "name": "Inferno",
@@ -428,7 +429,7 @@
     "name": "Luck Of The Sea",
     "id": "luck_of_the_sea",
     "max_table": 5,
-    "max": 6
+    "max": 7
   },
   "lure": {
     "name": "Lure",
@@ -453,6 +454,12 @@
     "id": "mana_vampire",
     "max_table": 0,
     "max": 10
+  },
+  "missile": {
+    "name": "Ultimate Missile",
+    "id": "ultimate_missile",
+    "max_table": 0,
+    "max": 5
   },
   "no pain no gain": {
     "name": "No Pain No Gain",
@@ -482,7 +489,7 @@
     "name": "Pesterminator",
     "id": "pesterminator",
     "max_table": 0,
-    "max": 5
+    "max": 6
   },
   "piercing": {
     "name": "Piercing",
@@ -494,7 +501,7 @@
     "name": "Piscary",
     "id": "piscary",
     "max_table": 5,
-    "max": 6
+    "max": 7
   },
   "power": {
     "name": "Power",
@@ -544,11 +551,17 @@
     "max_table": 0,
     "max": 5
   },
+  "quick bite": {
+    "name": "Quick Bite",
+    "id": "quick_bite",
+    "max_table": 0,
+    "max": 5
+  },
   "rainbow": {
     "name": "Rainbow",
     "id": "rainbow",
     "max_table": 1,
-    "max": 2
+    "max": 3
   },
   "reflection": {
     "name": "Reflection",
@@ -584,7 +597,7 @@
     "name": "Respiration",
     "id": "respiration",
     "max_table": 3,
-    "max": 3
+    "max": 4
   },
   "respite": {
     "name": "Respite",
@@ -596,6 +609,12 @@
     "name": "Scavenger",
     "id": "scavenger",
     "max_table": 3,
+    "max": 6
+  },
+  "scuba": {
+    "name": "Scuba",
+    "id": "scuba",
+    "max_table": 0,
     "max": 5
   },
   "sharpness": {
@@ -656,7 +675,13 @@
     "name": "Spiked Hook",
     "id": "spiked_hook",
     "max_table": 5,
-    "max": 6
+    "max": 7
+  },
+  "stealth": {
+    "name": "Stealth",
+    "id": "stealth",
+    "max_table": 0,
+    "max": 1
   },
   "strong mana": {
     "name": "Strong Mana",
@@ -674,7 +699,7 @@
     "name": "Sunder",
     "id": "sunder",
     "max_table": 0,
-    "max": 5
+    "max": 6
   },
   "swarm": {
     "name": "Swarm",
@@ -682,23 +707,11 @@
     "max_table": 0,
     "max": 5
   },
-  "drain": {
-    "name": "Drain",
-    "id": "syphon",
-    "max_table": 3,
-    "max": 5
-  },
   "tabasco": {
     "name": "Tabasco",
     "id": "tabasco",
     "max_table": 0,
     "max": 3
-  },
-  "telekinesis": {
-    "name": "Telekinesis",
-    "id": "telekinesis",
-    "max_table": 1,
-    "max": 1
   },
   "the_one": {
     "name": "The One",
@@ -716,7 +729,7 @@
     "name": "Thunderbolt",
     "id": "thunderbolt",
     "max_table": 5,
-    "max": 6
+    "max": 7
   },
   "thunderlord": {
     "name": "Thunderlord",
@@ -746,7 +759,7 @@
   "triple-strike": {
     "name": "Triple-Strike",
     "id": "triple_strike",
-    "max_table": 5,
+    "max_table": 4,
     "max": 5
   },
   "true protection": {
@@ -842,7 +855,7 @@
   "vicious": {
     "name": "Vicious",
     "id": "vicious",
-    "max_table": 2,
+    "max_table": 0,
     "max": 5
   },
   "wisdom": {
