@@ -850,5 +850,11 @@
     "id": "ultimate_wisdom",
     "max_table": 0,
     "max": 5
+  },
+  "woodsplitter": {
+    "name": "Woodsplitter",
+    "id": "arcane",
+    "max_table": 5,
+    "max": 6
   }
 }
