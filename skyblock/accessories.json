@@ -789,6 +789,10 @@
         "rarity": "rare",
         "upgrade": null
     },
+    "glossy_mineral_talisman":{
+        "rarity":"epic",
+        "upgrade": null
+    },
     "beastmaster_crest_common": {
         "rarity": "common",
         "upgrade": "beastmaster_crest_uncommon"
@@ -923,6 +927,58 @@
     },
     "jake_plushie": {
         "rarity": "uncommon",
+        "upgrade": null
+    },
+    "anitas_talisman":{
+        "rarity": "common",
+        "upgrade": "anitas_ring"
+    },
+    "anitas_ring":{
+        "rarity": "uncommon",
+        "upgrade": "anitas_artifact"
+    },
+    "anitas_artifact":{
+        "rarity": "rare",
+        "upgrade": null
+    },
+    "pesthunter_badge":{
+        "rarity": "uncommon",
+        "upgrade": "pesthunter_ring"
+    },
+    "pesthunter_ring":{
+        "rarity": "rare",
+        "upgrade": "pesthunter_artifact"
+    },
+    "pesthunter_artifact":{
+        "rarity": "epic",
+        "upgrade": null
+    },
+    "atmospheric_filter":{
+        "rarity":"rare",
+        "upgrade": null
+    },
+    "junk_talisman":{
+        "rarity": "common",
+        "upgrade": "junk_ring" 
+    },
+    "junk_ring":{
+        "rarity":"uncommon",
+        "upgrade":"junk_artifact"
+    },
+    "junk_artifact":{
+        "rarity":"rare",
+        "upgrade": null
+    },
+    "moonglade_talisman":{
+        "rarity":"common",
+        "upgrade": "moonglade_ring"
+    },
+    "moonglade_ring":{
+        "rarity":"uncommon",
+        "upgrade": "moonglade_artifact"
+    },
+    "moonglade_artifact":{
+        "rarity": "rare",
         "upgrade": null
     }
 }
