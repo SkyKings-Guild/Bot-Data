@@ -193,7 +193,10 @@
     "name": "Ender Slayer",
     "id": "ender_slayer",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "ENDSTONE_IDOL"
+    }
   },
   "execute": {
     "name": "Execute",
