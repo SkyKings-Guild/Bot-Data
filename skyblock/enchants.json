@@ -22,7 +22,10 @@
     "name": "Bane of Arthropods",
     "id": "bane_of_arthropods",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "ENSNARED_SNAIL"
+    }
   },
   "bank": {
     "name": "Bank",
@@ -83,7 +86,10 @@
     "name": "Charm",
     "id": "charm",
     "max_table": 0,
-    "max": 6
+    "max": 6,
+    "upgrade_stones": {
+      "6": "CHAIN_END_TIMES"
+    }
   },
   "chimera": {
     "name": "Chimera",
@@ -293,7 +299,10 @@
     "name": "Frail",
     "id": "frail",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "SEVERED_PINCER"
+    }
   },
   "frost walker": {
     "name": "Frost Walker",
@@ -432,7 +441,10 @@
     "name": "Luck Of The Sea",
     "id": "luck_of_the_sea",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "GOLD_BOTTLE_CAP"
+    }
   },
   "lure": {
     "name": "Lure",
@@ -492,7 +504,10 @@
     "name": "Pesterminator",
     "id": "pesterminator",
     "max_table": 0,
-    "max": 6
+    "max": 6,
+    "upgrade_stones": {
+      "6": "PESTHUNTING_GUIDE"
+    }
   },
   "piercing": {
     "name": "Piercing",
@@ -504,7 +519,10 @@
     "name": "Piscary",
     "id": "piscary",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "TROUBLED_BUBBLE"
+    }
   },
   "power": {
     "name": "Power",
@@ -612,7 +630,10 @@
     "name": "Scavenger",
     "id": "scavenger",
     "max_table": 3,
-    "max": 6
+    "max": 6,
+    "upgrade_stones": {
+      "6": "GOLDEN_BOUNTY"
+    }
   },
   "scuba": {
     "name": "Scuba",
@@ -654,7 +675,10 @@
     "name": "Smite",
     "id": "smite",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "SEVERED_HAND"
+    }
   },
   "smoldering": {
     "name": "Smoldering",
@@ -678,7 +702,10 @@
     "name": "Spiked Hook",
     "id": "spiked_hook",
     "max_table": 5,
-    "max": 7
+    "max": 7,
+    "upgrade_stones": {
+      "7": "OCTOPUS_TENDRIL"
+    }
   },
   "stealth": {
     "name": "Stealth",
