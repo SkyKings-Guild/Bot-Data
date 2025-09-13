@@ -742,6 +742,12 @@
     "id": "thunderlord",
     "max_table": 5,
     "max": 7
+    },
+  "tidal": {
+    "name": "Tidal",
+    "id": "tidal",
+    "max_table": 0,
+    "max": 3
   },
   "titan killer": {
     "name": "Titan Killer",
