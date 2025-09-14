@@ -193,7 +193,14 @@
     "name": "Efficiency",
     "id": "efficiency",
     "max_table": 5,
-    "max": 10
+    "max": 10,
+    "upgrade_stones": {
+      "6": "SIL_EX",
+      "7": "SIL_EX",
+      "8": "SIL_EX",
+      "9": "SIL_EX",
+      "10": "SIL_EX"
+    }
   },
   "ender slayer": {
     "name": "Ender Slayer",
