@@ -877,6 +877,12 @@
     "max_table": 0,
     "max": 5
   },
+  "turbo-rose": {
+    "name": "Turbo-Rose",
+    "id": "turbo_rose",
+    "max_table": 0,
+    "max": 5
+  },
   "turbo-sunflower": {
     "name": "Turbo-Sunflower",
     "id": "turbo_sunflower",
