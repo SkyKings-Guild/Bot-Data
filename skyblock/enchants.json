@@ -134,6 +134,12 @@
     "max_table": 5,
     "max": 7
   },
+  "crop fever": {
+    "name": "Crop Fever",
+    "id": "ultimate_crop_fever",
+    "max_table": 0,
+    "max": 5
+  },
   "cubism": {
     "name": "Cubism",
     "id": "cubism",
@@ -847,6 +853,12 @@
     "max_table": 0,
     "max": 5
   },
+  "turbo-moonflower": {
+    "name": "Turbo-Moonflower",
+    "id": "turbo_moonflower",
+    "max_table": 0,
+    "max": 5
+  },
   "turbo-mushrooms": {
     "name": "Turbo-Mushrooms",
     "id": "turbo_mushrooms",
@@ -862,6 +874,12 @@
   "turbo-pumpkin": {
     "name": "Turbo-Pumpkin",
     "id": "turbo_pumpkin",
+    "max_table": 0,
+    "max": 5
+  },
+  "turbo-sunflower": {
+    "name": "Turbo-Sunflower",
+    "id": "turbo_sunflower",
     "max_table": 0,
     "max": 5
   },
