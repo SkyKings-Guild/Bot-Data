@@ -361,13 +361,13 @@
     },
     "scavenger_talisman": {
         "rarity": "common",
-        "upgrade": "scavanger_ring"
+        "upgrade": "scavenger_ring"
     },
-    "scavanger_ring": {
+    "scavenger_ring": {
         "rarity": "uncommon",
-        "upgrade": "scavanger_artifact"
+        "upgrade": "scavenger_artifact"
     },
-    "scavanger_artifact":{
+    "scavenger_artifact":{
         "rarity": "rare",
         "upgrade": null
     },
@@ -1026,7 +1026,7 @@
         "upgrade": "runeblade_ring"
     },
     "runeblade_ring": {
-        "rarity":"uncommon",
+        "rarity": "uncommon",
         "upgrade": "runeblade_artifact"
     },
     "runeblade_artifact": {
@@ -1155,7 +1155,7 @@
     },
     "small_fish_bowl": {
         "rarity": "common",
-        "upgrade":"medium_fish_bowl"
+        "upgrade": "medium_fish_bowl"
     },
     "medium_fish_bowl": {
         "rarity": "uncommon",
@@ -1213,26 +1213,26 @@
         "rarity": "common",
         "upgrade": "century_ring"
     },
-     "century_ring": {
+    "century_ring": {
         "rarity": "uncommon",
         "upgrade": null
-     },
-     "magic_8_ball": {
+    },
+    "magic_8_ball": {
         "rarity": "rare",
         "upgrade": null
-     },
-     "runebook": {
+    },
+    "runebook": {
         "rarity": "common",
         "upgrade": null
-     },
-     "general_medallion": {
+    },
+    "general_medallion": {
         "rarity": "rare",
         "upgrade": null
-     },
-     "dwarven_metal": {
+    },
+    "dwarven_metal": {
         "rarity": "uncommon",
         "upgrade": null
-     }
+    }
 
 
 }
