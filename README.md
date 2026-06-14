@@ -32,3 +32,5 @@ If you spot missing or incorrect data, please open an issue or submit a pull req
 ## Licensing
 
 Parts of this project utilize data from [NotEnoughUpdates/NotEnoughUpdates-REPO](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/blob/master/LICENSE), which is licensed under the MIT License. See the included [NEU-LICENSE.md](./NEU-LICENSE.md) file for the full copyright notice.
+
+This repository itself is also licensed under the MIT license.
