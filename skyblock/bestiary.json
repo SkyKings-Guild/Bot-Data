@@ -1,498 +1,3380 @@
 {
-  "mobs": {
-    "island": {
-      "zombie": {
-        "maxLevel": 5,
-        "boss": false
-      },
-      "skeleton": {
-        "maxLevel": 5,
-        "boss": false
-      },
-      "spider": {
-        "maxLevel": 5,
-        "boss": false
-      },
-      "cave_spider": {
-        "maxLevel": 5,
-        "boss": false
-      },
-      "enderman_private": {
-        "maxLevel": 5,
-        "boss": false
-      },
-      "slime": {
-        "maxLevel": 5,
-        "boss": false
-      },
-      "witch": {
-        "maxLevel": 5,
-        "boss": false
-      }
+    "brackets": {
+        "1": [
+            20,
+            40,
+            60,
+            100,
+            200,
+            400,
+            800,
+            1400,
+            2000,
+            3000,
+            6000,
+            12000,
+            20000,
+            30000,
+            40000,
+            50000,
+            60000,
+            72000,
+            86000,
+            100000,
+            200000,
+            400000,
+            600000,
+            800000,
+            1000000
+        ],
+        "2": [
+            5,
+            10,
+            15,
+            25,
+            50,
+            100,
+            200,
+            350,
+            500,
+            750,
+            1500,
+            3000,
+            5000,
+            7500,
+            10000,
+            12500,
+            15000,
+            18000,
+            21500,
+            25000,
+            50000,
+            100000,
+            150000,
+            200000,
+            250000
+        ],
+        "3": [
+            4,
+            8,
+            12,
+            16,
+            20,
+            40,
+            80,
+            140,
+            200,
+            300,
+            600,
+            1200,
+            2000,
+            3000,
+            4000,
+            5000,
+            6000,
+            7200,
+            8600,
+            10000,
+            20000,
+            40000,
+            60000,
+            80000,
+            100000
+        ],
+        "4": [
+            2,
+            4,
+            6,
+            10,
+            15,
+            20,
+            25,
+            35,
+            50,
+            75,
+            150,
+            300,
+            500,
+            750,
+            1000,
+            1350,
+            1650,
+            2000,
+            2500,
+            3000,
+            5000,
+            10000,
+            15000,
+            20000,
+            25000
+        ],
+        "5": [
+            1,
+            2,
+            3,
+            5,
+            7,
+            10,
+            15,
+            20,
+            25,
+            30,
+            60,
+            120,
+            200,
+            300,
+            400,
+            500,
+            600,
+            720,
+            860,
+            1000,
+            2000,
+            4000,
+            6000,
+            8000,
+            10000
+        ],
+        "6": [
+            1,
+            2,
+            3,
+            5,
+            7,
+            9,
+            14,
+            17,
+            21,
+            25,
+            50,
+            80,
+            125,
+            175,
+            250,
+            325,
+            425,
+            525,
+            625,
+            750,
+            1500,
+            3000,
+            4500,
+            6000,
+            7500
+        ],
+        "7": [
+            1,
+            2,
+            3,
+            5,
+            7,
+            9,
+            11,
+            14,
+            17,
+            20,
+            30,
+            40,
+            55,
+            75,
+            100,
+            150,
+            200,
+            275,
+            375,
+            500,
+            1000,
+            1500,
+            2000,
+            2500,
+            3000
+        ],
+        "8": [
+            1,
+            10,
+            20,
+            30,
+            45,
+            60,
+            80,
+            100,
+            125,
+            150
+        ]
     },
-    "hub": {
-      "zombie_villager": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "unburried_zombie": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "ruin_wolf": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "old_wolf": {
-        "maxLevel": null,
-        "boss": false
-      }
-    },
-    "spiders_den": {
-      "dasher_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "spider_jockey": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "weaver_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "voracious_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "splitter_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "brood_mother_spider": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "respawning_skeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "random_slime": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "arachne_keeper": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "arachne_brood": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "arachne": {
-        "maxLevel": null,
-        "boss": true
-      }
-    },
-    "crimson_isle": {
-      "ashfang": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "barbarian_duke_x": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "bladesoul": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "blaze": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "flaming_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "ghast": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "mage_outlaw": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "magma_cube": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "magma_boss": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "matcho": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "charging_mushroom_cow": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "pigman": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "wither_skeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "wither_spectre": {
-        "maxLevel": null,
-        "boss": false
-      }
-    },
-    "end": {
-      "enderman": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "obsidian_wither": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "watcher": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "zealot_enderman": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "endermite": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "dragon": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "corrupted_protector": {
-        "maxLevel": null,
-        "boss": true
-      },
-      "voidling_fanatic": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "voidling_extremist": {
-        "maxLevel": null,
-        "boss": false
-      }
-    },
-    "caverns": {
-      "invisible_creeper": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "lapis_zombie": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "redstone_pigman": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "emerald_slime": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "diamond_zombie": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "diamond_skeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "caverns_ghost": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "goblin": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "treasure_hoarder": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "ice_walker": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "automaton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "butterfly": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "team_treasurite": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "sludge": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "thyst": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "worms": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "yog": {
-        "maxLevel": null,
-        "boss": false
-      }
-    },
-    "park": {
-      "pack_spirit": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "howling_spirit": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "soul_of_the_alpha": {
-        "maxLevel": null,
-        "boss": false
-      }
-    },
-    "spooky": {
-      "trick_or_treater": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "wither_gourd": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "phantom_spirit": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "scary_jerry": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "wraith": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "batty_witch": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "headless_horseman": {
-        "maxLevel": null,
-        "boss": true
-      }
-    },
-    "catacombs": {
-      "lost_adventurer": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "zombie_grunt": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "zombie_soldier": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "zombie_knight": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "skeleton_grunt": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "skeleton_soldier": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "skeleton_master": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "scared_skeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "diamond_guy": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "dungeon_respawning_skeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "skeletor": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "sniper_skeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "crypt_souleater": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "crypt_dreadlord": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "crypt_tank_zombie": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "super_tank_zombie": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "crypt_lurker": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "cellar_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "watcher_summon_undead": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "lonely_spider": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "shadow_assassin": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "king_midas": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "super_archer": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "crypt_witherskeleton": {
-        "maxLevel": null,
-        "boss": false
-      },
-      "zombie_commander": {
-        "maxLevel": null,
-        "boss": false
-      }
+    "islands": {
+        "dynamic": {
+            "id": "dynamic",
+            "name": "Private Island",
+            "mobs": {
+                "Bat": {
+                    "name": "Bat",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "forest_island_bat_3"
+                    ]
+                },
+                "Creeper": {
+                    "name": "Creeper",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "creeper_1"
+                    ]
+                },
+                "Enderman": {
+                    "name": "Enderman",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "enderman_1",
+                        "enderman_2",
+                        "enderman_3",
+                        "enderman_4",
+                        "enderman_5",
+                        "enderman_6",
+                        "enderman_7",
+                        "enderman_8",
+                        "enderman_9",
+                        "enderman_10",
+                        "enderman_11",
+                        "enderman_12",
+                        "enderman_13",
+                        "enderman_14",
+                        "enderman_15"
+                    ]
+                },
+                "Skeleton": {
+                    "name": "Skeleton",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "skeleton_1",
+                        "skeleton_2",
+                        "skeleton_3",
+                        "skeleton_4",
+                        "skeleton_5",
+                        "skeleton_6",
+                        "skeleton_7",
+                        "skeleton_8",
+                        "skeleton_9",
+                        "skeleton_10",
+                        "skeleton_11",
+                        "skeleton_12",
+                        "skeleton_13",
+                        "skeleton_14",
+                        "skeleton_15"
+                    ]
+                },
+                "Slime": {
+                    "name": "Slime",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "slime_1",
+                        "slime_2",
+                        "slime_3",
+                        "slime_4",
+                        "slime_5",
+                        "slime_6",
+                        "slime_7",
+                        "slime_8",
+                        "slime_9",
+                        "slime_10",
+                        "slime_11",
+                        "slime_12",
+                        "slime_13",
+                        "slime_14",
+                        "slime_15"
+                    ]
+                },
+                "Spider": {
+                    "name": "Spider",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "spider_1",
+                        "spider_2",
+                        "spider_3",
+                        "spider_4",
+                        "spider_5",
+                        "spider_6",
+                        "spider_7",
+                        "spider_8",
+                        "spider_9",
+                        "spider_10",
+                        "spider_11",
+                        "spider_12",
+                        "spider_13",
+                        "spider_14",
+                        "spider_15"
+                    ]
+                },
+                "Witch": {
+                    "name": "Witch",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "witch_1",
+                        "witch_2",
+                        "witch_3",
+                        "witch_4",
+                        "witch_5",
+                        "witch_6",
+                        "witch_7",
+                        "witch_8",
+                        "witch_9",
+                        "witch_10",
+                        "witch_11",
+                        "witch_12",
+                        "witch_13",
+                        "witch_14",
+                        "witch_15"
+                    ]
+                },
+                "Zombie": {
+                    "name": "Zombie",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "zombie_1",
+                        "zombie_2",
+                        "zombie_3",
+                        "zombie_4",
+                        "zombie_5",
+                        "zombie_6",
+                        "zombie_7",
+                        "zombie_8",
+                        "zombie_9",
+                        "zombie_10",
+                        "zombie_11",
+                        "zombie_12",
+                        "zombie_13",
+                        "zombie_14",
+                        "zombie_15"
+                    ]
+                }
+            }
+        },
+        "hub": {
+            "id": "hub",
+            "name": "Hub",
+            "mobs": {
+                "Crypt Ghoul": {
+                    "name": "Crypt Ghoul",
+                    "cap": 40000,
+                    "bracket": 1,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "unburried_zombie_30"
+                    ]
+                },
+                "Golden Ghoul": {
+                    "name": "Golden Ghoul",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "unburried_zombie_60"
+                    ]
+                },
+                "Graveyard Zombie": {
+                    "name": "Graveyard Zombie",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "graveyard_zombie_1"
+                    ]
+                },
+                "Old Wolf": {
+                    "name": "Old Wolf",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "old_wolf_50"
+                    ]
+                },
+                "Shiny Pig": {
+                    "name": "Shiny Pig",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "shiny_pig_1"
+                    ]
+                },
+                "Wolf": {
+                    "name": "Wolf",
+                    "cap": 40000,
+                    "bracket": 1,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "ruin_wolf_15"
+                    ]
+                },
+                "Zombie Villager": {
+                    "name": "Zombie Villager",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "zombie_villager_1"
+                    ]
+                }
+            }
+        },
+        "farming_1": {
+            "id": "farming_1",
+            "name": "The Farming Islands",
+            "mobs": {
+                "Chicken": {
+                    "name": "Chicken",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "farming_chicken_1"
+                    ]
+                },
+                "Cow": {
+                    "name": "Cow",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "farming_cow_1"
+                    ]
+                },
+                "Mushroom Cow": {
+                    "name": "Mushroom Cow",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "mushroom_cow_1"
+                    ]
+                },
+                "Pig": {
+                    "name": "Pig",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "farming_pig_1"
+                    ]
+                },
+                "Rabbit": {
+                    "name": "Rabbit",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "farming_rabbit_1"
+                    ]
+                },
+                "Sheep": {
+                    "name": "Sheep",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "farming_sheep_1"
+                    ]
+                }
+            }
+        },
+        "combat_1": {
+            "id": "combat_1",
+            "name": "Spider's Den",
+            "mobs": {
+                "Arachne": {
+                    "name": "Arachne",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "arachne_500",
+                        "arachne_300"
+                    ]
+                },
+                "Arachne's Brood": {
+                    "name": "Arachne's Brood",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "arachne_brood_200",
+                        "arachne_brood_100"
+                    ]
+                },
+                "Arachne's Keeper": {
+                    "name": "Arachne's Keeper",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "arachne_keeper_100"
+                    ]
+                },
+                "Broodmother": {
+                    "name": "Broodmother",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "brood_mother_spider_12"
+                    ]
+                },
+                "Dasher Spider": {
+                    "name": "Dasher Spider",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "dasher_spider_50",
+                        "dasher_spider_45",
+                        "dasher_spider_42",
+                        "dasher_spider_4",
+                        "dasher_spider_6"
+                    ]
+                },
+                "Gravel Skeleton": {
+                    "name": "Gravel Skeleton",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "respawning_skeleton_2"
+                    ]
+                },
+                "Rain Slime": {
+                    "name": "Rain Slime",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "random_slime_8",
+                        "random_slime_20"
+                    ]
+                },
+                "Silverfish": {
+                    "name": "Silverfish",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "jockey_shot_silverfish_3",
+                        "splitter_spider_silverfish_2",
+                        "splitter_spider_silverfish_45",
+                        "splitter_spider_silverfish_42",
+                        "splitter_spider_silverfish_50",
+                        "jockey_shot_silverfish_42"
+                    ]
+                },
+                "Spider Jockey": {
+                    "name": "Spider Jockey",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "spider_jockey_3",
+                        "spider_jockey_42",
+                        "spider_jockey_5"
+                    ]
+                },
+                "Splitter Spider": {
+                    "name": "Splitter Spider",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "splitter_spider_2",
+                        "splitter_spider_45",
+                        "splitter_spider_42",
+                        "splitter_spider_50",
+                        "splitter_spider_4",
+                        "splitter_spider_6"
+                    ]
+                },
+                "Voracious Spider": {
+                    "name": "Voracious Spider",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "voracious_spider_50",
+                        "voracious_spider_42",
+                        "voracious_spider_45",
+                        "voracious_spider_10"
+                    ]
+                },
+                "Weaver Spider": {
+                    "name": "Weaver Spider",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "weaver_spider_3",
+                        "weaver_spider_4",
+                        "weaver_spider_5",
+                        "weaver_spider_6",
+                        "weaver_spider_42",
+                        "weaver_spider_45",
+                        "weaver_spider_50"
+                    ]
+                }
+            }
+        },
+        "combat_3": {
+            "id": "combat_3",
+            "name": "The End",
+            "mobs": {
+                "Dragon": {
+                    "name": "Dragon",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "protector_dragon_100",
+                        "old_dragon_100",
+                        "young_dragon_100",
+                        "wise_dragon_100",
+                        "superior_dragon_100",
+                        "strong_dragon_100",
+                        "unstable_dragon_100"
+                    ]
+                },
+                "Enderman": {
+                    "name": "Enderman",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "enderman_50",
+                        "enderman_45",
+                        "enderman_42"
+                    ]
+                },
+                "Endermite": {
+                    "name": "Endermite",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "nest_endermite_50",
+                        "endermite_37",
+                        "endermite_40"
+                    ]
+                },
+                "End Stone Protector": {
+                    "name": "End Stone Protector",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "corrupted_protector_100"
+                    ]
+                },
+                "Obsidian Defender": {
+                    "name": "Obsidian Defender",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "obsidian_wither_55"
+                    ]
+                },
+                "Voidling Extremist": {
+                    "name": "Voidling Extremist",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "voidling_extremist_100"
+                    ]
+                },
+                "Voidling Fanatic": {
+                    "name": "Voidling Fanatic",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "voidling_fanatic_85"
+                    ]
+                },
+                "Watcher": {
+                    "name": "Watcher",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "watcher_55"
+                    ]
+                },
+                "Zealot": {
+                    "name": "Zealot",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "zealot_bruiser_100",
+                        "zealot_enderman_55"
+                    ]
+                }
+            }
+        },
+        "crimson_isle": {
+            "id": "crimson_isle",
+            "name": "Crimson Isle",
+            "mobs": {
+                "Ashfang": {
+                    "name": "Ashfang",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "ashfang_200"
+                    ]
+                },
+                "Barbarian Duke X": {
+                    "name": "Barbarian Duke X",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "barbarian_duke_x_200"
+                    ]
+                },
+                "Bladesoul": {
+                    "name": "Bladesoul",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "bladesoul_200"
+                    ]
+                },
+                "Blaze": {
+                    "name": "Blaze",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "blaze_25",
+                        "blaze_70",
+                        "bezal_80",
+                        "mutated_blaze_70"
+                    ]
+                },
+                "Flaming Spider": {
+                    "name": "Flaming Spider",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "flaming_spider_80"
+                    ]
+                },
+                "Flare": {
+                    "name": "Flare",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "flare_90"
+                    ]
+                },
+                "Ghast": {
+                    "name": "Ghast",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "ghast_85",
+                        "dive_ghast_90"
+                    ]
+                },
+                "Kada Knight": {
+                    "name": "Kada Knight",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "kada_knight_90"
+                    ]
+                },
+                "Mage Outlaw": {
+                    "name": "Mage Outlaw",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "mage_outlaw_200"
+                    ]
+                },
+                "Magma Boss": {
+                    "name": "Magma Boss",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "magma_boss_500"
+                    ]
+                },
+                "Magma Cube": {
+                    "name": "Magma Cube",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "pack_magma_cube_90",
+                        "magma_cube_75",
+                        "fireball_magma_cube_75"
+                    ]
+                },
+                "Magma Cube Rider": {
+                    "name": "Magma Cube Rider",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "magma_cube_rider_90"
+                    ]
+                },
+                "Matcho": {
+                    "name": "Matcho",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "matcho_100"
+                    ]
+                },
+                "Millennia-Aged Blaze": {
+                    "name": "Millennia-Aged Blaze",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "old_blaze_110"
+                    ]
+                },
+                "Mushroom Bull": {
+                    "name": "Mushroom Bull",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "charging_mushroom_cow_80"
+                    ]
+                },
+                "Smoldering Blaze": {
+                    "name": "Smoldering Blaze",
+                    "cap": 25000,
+                    "bracket": 2,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "smoldering_blaze_95"
+                    ]
+                },
+                "Tentacle": {
+                    "name": "Tentacle",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "hellwisp_100"
+                    ]
+                },
+                "Vanquisher": {
+                    "name": "Vanquisher",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "vanquisher_100"
+                    ]
+                },
+                "Wither Skeleton": {
+                    "name": "Wither Skeleton",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "wither_skeleton_70"
+                    ]
+                },
+                "Wither Spectre": {
+                    "name": "Wither Spectre",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "wither_spectre_70"
+                    ]
+                }
+            }
+        },
+        "mining_2": {
+            "id": "mining_2",
+            "name": "Deep Caverns",
+            "mobs": {
+                "Emerald Slime": {
+                    "name": "Emerald Slime",
+                    "cap": 3000,
+                    "bracket": 1,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "emerald_slime_5",
+                        "emerald_slime_10"
+                    ]
+                },
+                "Lapis Zombie": {
+                    "name": "Lapis Zombie",
+                    "cap": 3000,
+                    "bracket": 1,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "lapis_zombie_7"
+                    ]
+                },
+                "Miner Skeleton": {
+                    "name": "Miner Skeleton",
+                    "cap": 3000,
+                    "bracket": 1,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "diamond_skeleton_15",
+                        "diamond_skeleton_20"
+                    ]
+                },
+                "Miner Zombie": {
+                    "name": "Miner Zombie",
+                    "cap": 3000,
+                    "bracket": 1,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "diamond_zombie_15",
+                        "diamond_zombie_20"
+                    ]
+                },
+                "Redstone Pigman": {
+                    "name": "Redstone Pigman",
+                    "cap": 3000,
+                    "bracket": 1,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "redstone_pigman_10"
+                    ]
+                },
+                "Sneaky Creeper": {
+                    "name": "Sneaky Creeper",
+                    "cap": 300,
+                    "bracket": 3,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "invisible_creeper_3"
+                    ]
+                }
+            }
+        },
+        "mining_3": {
+            "id": "mining_3",
+            "name": "Dwarven Mines",
+            "mobs": {
+                "Diamond Goblin": {
+                    "name": "Diamond Goblin",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "goblin_500"
+                    ]
+                },
+                "Ghost": {
+                    "name": "Ghost",
+                    "cap": 40000,
+                    "bracket": 3,
+                    "max_tier": 22,
+                    "mob_ids": [
+                        "caverns_ghost_250"
+                    ]
+                },
+                "Glacite Bowman": {
+                    "name": "Glacite Bowman",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "glacite_bowman_165"
+                    ]
+                },
+                "Glacite Caver": {
+                    "name": "Glacite Caver",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "glacite_caver_200"
+                    ]
+                },
+                "Glacite Mage": {
+                    "name": "Glacite Mage",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "glacite_mage_155"
+                    ]
+                },
+                "Glacite Mutt": {
+                    "name": "Glacite Mutt",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "glacite_mutt_180"
+                    ]
+                },
+                "Glacite Walker": {
+                    "name": "Glacite Walker",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "ice_walker_45"
+                    ]
+                },
+                "Goblin": {
+                    "name": "Goblin",
+                    "cap": 25000,
+                    "bracket": 2,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "goblin_weakling_melee_25",
+                        "goblin_weakling_melee_40",
+                        "goblin_weakling_bow_25",
+                        "goblin_weakling_bow_40",
+                        "goblin_creepertamer_100",
+                        "goblin_pitfighter_70",
+                        "goblin_knife_thrower_25",
+                        "goblin_knife_thrower_40",
+                        "goblin_flamethrower_100",
+                        "goblin_murderlover_200"
+                    ]
+                },
+                "Goblin Raiders": {
+                    "name": "Goblin Raiders",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "goblin_weakling_melee_5",
+                        "goblin_weakling_bow_5",
+                        "goblin_creepertamer_90",
+                        "goblin_creeper_20",
+                        "goblin_battler_60",
+                        "goblin_murderlover_150",
+                        "goblin_golem_150"
+                    ]
+                },
+                "Golden Goblin": {
+                    "name": "Golden Goblin",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "goblin_50"
+                    ]
+                },
+                "Littlefoot": {
+                    "name": "Littlefoot",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "littlefoot_533"
+                    ]
+                },
+                "Powder Ghast": {
+                    "name": "Powder Ghast",
+                    "cap": 200,
+                    "bracket": 1,
+                    "max_tier": 5,
+                    "mob_ids": [
+                        "powder_ghast_1"
+                    ]
+                },
+                "Star Sentry": {
+                    "name": "Star Sentry",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "crystal_sentry_50"
+                    ]
+                },
+                "Treasure Hoarder": {
+                    "name": "Treasure Hoarder",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "treasure_hoarder_70"
+                    ]
+                }
+            }
+        },
+        "crystal_hollows": {
+            "id": "crystal_hollows",
+            "name": "Crystal Hollows",
+            "mobs": {
+                "Automaton": {
+                    "name": "Automaton",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "automaton_100",
+                        "automaton_150"
+                    ]
+                },
+                "Bal": {
+                    "name": "Bal",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "bal_boss_100"
+                    ]
+                },
+                "Boss Corleone": {
+                    "name": "Boss Corleone",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "team_treasurite_corleone_200"
+                    ]
+                },
+                "Butterfly": {
+                    "name": "Butterfly",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "butterfly_100"
+                    ]
+                },
+                "Grunt": {
+                    "name": "Grunt",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "team_treasurite_grunt_50",
+                        "team_treasurite_viper_100",
+                        "team_treasurite_wendy_100",
+                        "team_treasurite_sebastian_100"
+                    ]
+                },
+                "Key Guardian": {
+                    "name": "Key Guardian",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "key_guardian_100"
+                    ]
+                },
+                "Sludge": {
+                    "name": "Sludge",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "sludge_5",
+                        "sludge_10",
+                        "sludge_100"
+                    ]
+                },
+                "Thyst": {
+                    "name": "Thyst",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "thyst_20"
+                    ]
+                },
+                "Worm": {
+                    "name": "Worm",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "worm_5",
+                        "scatha_10"
+                    ]
+                },
+                "Yog": {
+                    "name": "Yog",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "yog_100"
+                    ]
+                }
+            }
+        },
+        "foraging_1": {
+            "id": "foraging_1",
+            "name": "The Park",
+            "mobs": {
+                "Howling Spirit": {
+                    "name": "Howling Spirit",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "howling_spirit_35"
+                    ]
+                },
+                "Pack Spirit": {
+                    "name": "Pack Spirit",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pack_spirit_30"
+                    ]
+                },
+                "Soul of the Alpha": {
+                    "name": "Soul of the Alpha",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "soul_of_the_alpha_55"
+                    ]
+                }
+            }
+        },
+        "foraging_2": {
+            "id": "foraging_2",
+            "name": "Galatea",
+            "mobs": {
+                "Bogged": {
+                    "name": "Bogged",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "bogged_10"
+                    ]
+                },
+                "Chill": {
+                    "name": "Chill",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "chillblade_31",
+                        "chillshot_31"
+                    ]
+                },
+                "Ent": {
+                    "name": "Ent",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "ent_14"
+                    ]
+                },
+                "Nessie": {
+                    "name": "Nessie",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "nessie_302"
+                    ]
+                },
+                "Stridersurfer": {
+                    "name": "Stridersurfer",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "strider_20",
+                        "strider_21"
+                    ]
+                },
+                "Tadgang": {
+                    "name": "Tadgang",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "tadgang_frog_8",
+                        "tadgang_frog_10"
+                    ]
+                },
+                "The Loch Emperor": {
+                    "name": "The Loch Emperor",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "skeleton_emperor_150",
+                        "guardian_emperor_150"
+                    ]
+                },
+                "Tidetot": {
+                    "name": "Tidetot",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "tidetot_10",
+                        "seacurse_15",
+                        "hydrospear_25"
+                    ]
+                },
+                "Wetwing": {
+                    "name": "Wetwing",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "wetwing_chicken_18"
+                    ]
+                }
+            }
+        },
+        "spooky_festival": {
+            "id": "spooky_festival",
+            "name": "Spooky Festival",
+            "mobs": {
+                "Crazy Witch": {
+                    "name": "Crazy Witch",
+                    "cap": 750,
+                    "bracket": 2,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "batty_witch_60"
+                    ]
+                },
+                "Headless Horseman": {
+                    "name": "Headless Horseman",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "horseman_horse_100"
+                    ]
+                },
+                "Phantom Spirit": {
+                    "name": "Phantom Spirit",
+                    "cap": 750,
+                    "bracket": 2,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "phantom_spirit_35"
+                    ]
+                },
+                "Scary Jerry": {
+                    "name": "Scary Jerry",
+                    "cap": 750,
+                    "bracket": 2,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "scary_jerry_30"
+                    ]
+                },
+                "Trick or Treater": {
+                    "name": "Trick or Treater",
+                    "cap": 750,
+                    "bracket": 2,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "trick_or_treater_30"
+                    ]
+                },
+                "Wither Gourd": {
+                    "name": "Wither Gourd",
+                    "cap": 750,
+                    "bracket": 2,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "wither_gourd_40"
+                    ]
+                },
+                "Wraith": {
+                    "name": "Wraith",
+                    "cap": 750,
+                    "bracket": 2,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "wraith_50"
+                    ]
+                }
+            }
+        },
+        "mythological_creatures": {
+            "id": "mythological_creatures",
+            "name": "Mythological Creatures",
+            "mobs": {
+                "Gaia Construct": {
+                    "name": "Gaia Construct",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "gaia_construct_85",
+                        "gaia_construct_140",
+                        "gaia_construct_260",
+                        "gaia_construct_325"
+                    ]
+                },
+                "Minos Champion": {
+                    "name": "Minos Champion",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "minos_champion_175",
+                        "minos_champion_310",
+                        "minos_champion_550"
+                    ]
+                },
+                "Minos Hunter": {
+                    "name": "Minos Hunter",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "minos_hunter_15",
+                        "minos_hunter_60",
+                        "minos_hunter_125",
+                        "minos_hunter_200"
+                    ]
+                },
+                "Minos Inquisitor": {
+                    "name": "Minos Inquisitor",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "minos_inquisitor_750",
+                        "minos_inquisitor_1250"
+                    ]
+                },
+                "Minotaur": {
+                    "name": "Minotaur",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "minotaur_45",
+                        "minotaur_120",
+                        "minotaur_210"
+                    ]
+                },
+                "Siamese Lynx": {
+                    "name": "Siamese Lynx",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "siamese_lynx_15",
+                        "siamese_lynx_25",
+                        "siamese_lynx_85",
+                        "siamese_lynx_155",
+                        "siamese_lynx_200"
+                    ]
+                },
+                "Cretan Bull": {
+                    "name": "Cretan Bull",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "cretan_bull_150",
+                        "cretan_bull_250"
+                    ]
+                },
+                "Harpy": {
+                    "name": "Harpy",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "harpy_175",
+                        "harpy_325"
+                    ]
+                },
+                "King Minos": {
+                    "name": "King Minos",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "king_minos_1750"
+                    ]
+                },
+                "Manticore": {
+                    "name": "Manticore",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "manticore_1750"
+                    ]
+                },
+                "Sphinx": {
+                    "name": "Sphinx",
+                    "cap": 500,
+                    "bracket": 7,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "sphinx_750",
+                        "sphinx_1250"
+                    ]
+                },
+                "Stranded Nymph": {
+                    "name": "Stranded Nymph",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "stranded_nymph_150",
+                        "stranded_nymph_250"
+                    ]
+                }
+            }
+        },
+        "jerry": {
+            "id": "jerry",
+            "name": "Jerry",
+            "mobs": {
+                "Blue Jerry": {
+                    "name": "Blue Jerry",
+                    "cap": 30,
+                    "bracket": 5,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "mayor_jerry_blue_2"
+                    ]
+                },
+                "Golden Jerry": {
+                    "name": "Golden Jerry",
+                    "cap": 20,
+                    "bracket": 7,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "mayor_jerry_golden_5"
+                    ]
+                },
+                "Green Jerry": {
+                    "name": "Green Jerry",
+                    "cap": 75,
+                    "bracket": 4,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "mayor_jerry_green_1"
+                    ]
+                },
+                "Purple Jerry": {
+                    "name": "Purple Jerry",
+                    "cap": 25,
+                    "bracket": 6,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "mayor_jerry_purple_3"
+                    ]
+                }
+            }
+        },
+        "kuudra": {
+            "id": "kuudra",
+            "name": "Kuudra",
+            "mobs": {
+                "Blazing Golem": {
+                    "name": "Blazing Golem",
+                    "cap": 300,
+                    "bracket": 3,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "blazing_golem_100",
+                        "blazing_golem_200",
+                        "blazing_golem_300",
+                        "blazing_golem_400",
+                        "blazing_golem_500"
+                    ]
+                },
+                "Blight": {
+                    "name": "Blight",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "blight_100",
+                        "blight_200",
+                        "blight_300",
+                        "blight_400",
+                        "blight_500"
+                    ]
+                },
+                "Dropship": {
+                    "name": "Dropship",
+                    "cap": 300,
+                    "bracket": 3,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "dropship_100",
+                        "dropship_200",
+                        "dropship_300",
+                        "dropship_400",
+                        "dropship_500"
+                    ]
+                },
+                "Explosive Imp": {
+                    "name": "Explosive Imp",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "explosive_imp_100",
+                        "explosive_imp_200",
+                        "explosive_imp_300",
+                        "explosive_imp_400",
+                        "explosive_imp_500"
+                    ]
+                },
+                "Inferno Magma Cube": {
+                    "name": "Inferno Magma Cube",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "inferno_magma_cube_100",
+                        "inferno_magma_cube_200",
+                        "inferno_magma_cube_300",
+                        "inferno_magma_cube_400",
+                        "inferno_magma_cube_500"
+                    ]
+                },
+                "Kuudra Berserker": {
+                    "name": "Kuudra Berserker",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "kuudra_berserker_100",
+                        "kuudra_berserker_200",
+                        "kuudra_berserker_300",
+                        "kuudra_berserker_400",
+                        "kuudra_berserker_500"
+                    ]
+                },
+                "Kuudra Follower": {
+                    "name": "Kuudra Follower",
+                    "cap": 25000,
+                    "bracket": 2,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "kuudra_follower_100",
+                        "kuudra_follower_200",
+                        "kuudra_follower_300",
+                        "kuudra_follower_400",
+                        "kuudra_follower_500"
+                    ]
+                },
+                "Kuudra Knocker": {
+                    "name": "Kuudra Knocker",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "kuudra_knocker_100",
+                        "kuudra_knocker_200",
+                        "kuudra_knocker_300",
+                        "kuudra_knocker_400",
+                        "kuudra_knocker_500"
+                    ]
+                },
+                "Kuudra Landmine": {
+                    "name": "Kuudra Landmine",
+                    "cap": 10000,
+                    "bracket": 3,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "kuudra_landmine_100",
+                        "kuudra_landmine_200",
+                        "kuudra_landmine_300",
+                        "kuudra_landmine_400",
+                        "kuudra_landmine_500"
+                    ]
+                },
+                "Kuudra Slasher": {
+                    "name": "Kuudra Slasher",
+                    "cap": 30,
+                    "bracket": 5,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "kuudra_slasher_100",
+                        "kuudra_slasher_200",
+                        "kuudra_slasher_300",
+                        "kuudra_slasher_400",
+                        "kuudra_slasher_500"
+                    ]
+                },
+                "Magma Follower": {
+                    "name": "Magma Follower",
+                    "cap": 30,
+                    "bracket": 5,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "magma_follower_100",
+                        "magma_follower_200",
+                        "magma_follower_300",
+                        "magma_follower_400",
+                        "magma_follower_500"
+                    ]
+                },
+                "Wandering Blaze": {
+                    "name": "Wandering Blaze",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "wandering_blaze_100",
+                        "wandering_blaze_200",
+                        "wandering_blaze_300",
+                        "wandering_blaze_400",
+                        "wandering_blaze_500"
+                    ]
+                },
+                "Wither Sentry": {
+                    "name": "Wither Sentry",
+                    "cap": 75,
+                    "bracket": 4,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "wither_sentry_100",
+                        "wither_sentry_200",
+                        "wither_sentry_300",
+                        "wither_sentry_400",
+                        "wither_sentry_500"
+                    ]
+                }
+            }
+        },
+        "fishing": {
+            "id": "fishing",
+            "name": "Fishing",
+            "subcategories": {
+                "fishing": {
+                    "name": "Fishing",
+                    "mobs": {
+                        "Abyssal Miner": {
+                            "name": "Abyssal Miner",
+                            "cap": 250,
+                            "bracket": 6,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "zombie_miner_150"
+                            ]
+                        },
+                        "Agarimoo": {
+                            "name": "Agarimoo",
+                            "cap": 1000,
+                            "bracket": 3,
+                            "max_tier": 11,
+                            "mob_ids": [
+                                "agarimoo_35"
+                            ]
+                        },
+                        "Blue Ringed Octopus": {
+                            "name": "Blue Ringed Octopus",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "blue_ringed_octopus_275"
+                            ]
+                        },
+                        "Carrot King": {
+                            "name": "Carrot King",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "carrot_king_25"
+                            ]
+                        },
+                        "Catfish": {
+                            "name": "Catfish",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "catfish_23"
+                            ]
+                        },
+                        "Deep Sea Protector": {
+                            "name": "Deep Sea Protector",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "deep_sea_protector_60"
+                            ]
+                        },
+                        "Frog Man": {
+                            "name": "Frog Man",
+                            "cap": 3000,
+                            "bracket": 4,
+                            "max_tier": 20,
+                            "mob_ids": [
+                                "frog_man_10"
+                            ]
+                        },
+                        "Guardian Defender": {
+                            "name": "Guardian Defender",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "guardian_defender_45"
+                            ]
+                        },
+                        "Manta Ray": {
+                            "name": "Manta Ray",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "manta_ray_124"
+                            ]
+                        },
+                        "Mithril Grubber": {
+                            "name": "Mithril Grubber",
+                            "cap": 300,
+                            "bracket": 3,
+                            "max_tier": 10,
+                            "mob_ids": [
+                                "small_mithril_grubber_15",
+                                "medium_mithril_grubber_15",
+                                "large_mithril_grubber_15",
+                                "bloated_mithril_grubber_15"
+                            ]
+                        },
+                        "Inkling": {
+                            "name": "Inkling",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "night_squid_6"
+                            ]
+                        },
+                        "Oasis Rabbit": {
+                            "name": "Oasis Rabbit",
+                            "cap": 300,
+                            "bracket": 3,
+                            "max_tier": 10,
+                            "mob_ids": [
+                                "oasis_rabbit_10"
+                            ]
+                        },
+                        "Oasis Sheep": {
+                            "name": "Oasis Sheep",
+                            "cap": 300,
+                            "bracket": 3,
+                            "max_tier": 10,
+                            "mob_ids": [
+                                "oasis_sheep_10"
+                            ]
+                        },
+                        "Poisoned Water Worm": {
+                            "name": "Poisoned Water Worm",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "poisoned_water_worm_25"
+                            ]
+                        },
+                        "Rider of the Deep": {
+                            "name": "Rider of the Deep",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "zombie_deep_20",
+                                "chicken_deep_20"
+                            ]
+                        },
+                        "Sea Archer": {
+                            "name": "Sea Archer",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "sea_archer_15"
+                            ]
+                        },
+                        "Sea Leech": {
+                            "name": "Sea Leech",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "sea_leech_30"
+                            ]
+                        },
+                        "Sea Walker": {
+                            "name": "Sea Walker",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "sea_walker_4"
+                            ]
+                        },
+                        "Sea Witch": {
+                            "name": "Sea Witch",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "sea_witch_15"
+                            ]
+                        },
+                        "Snapping Turtle": {
+                            "name": "Snapping Turtle",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "snapping_turtle_30"
+                            ]
+                        },
+                        "Squid": {
+                            "name": "Squid",
+                            "cap": 10000,
+                            "bracket": 2,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "pond_squid_1"
+                            ]
+                        },
+                        "Water Hydra": {
+                            "name": "Water Hydra",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "water_hydra_100"
+                            ]
+                        },
+                        "Water Worm": {
+                            "name": "Water Worm",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "water_worm_20"
+                            ]
+                        },
+                        "Wiki Tiki": {
+                            "name": "Wiki Tiki",
+                            "cap": 100,
+                            "bracket": 7,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "wiki_tiki_400"
+                            ]
+                        }
+                    }
+                },
+                "lava": {
+                    "name": "Lava",
+                    "mobs": {
+                        "Fiery Scuttler": {
+                            "name": "Fiery Scuttler",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "fiery_scuttler_475"
+                            ]
+                        },
+                        "Fire Eel": {
+                            "name": "Fire Eel",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "fire_eel_240"
+                            ]
+                        },
+                        "Fireproof Witch": {
+                            "name": "Fireproof Witch",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "fireproof_witch_75"
+                            ]
+                        },
+                        "Flaming Worm": {
+                            "name": "Flaming Worm",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "flaming_worm_50"
+                            ]
+                        },
+                        "Fried Chicken": {
+                            "name": "Fried Chicken",
+                            "cap": 3000,
+                            "bracket": 4,
+                            "max_tier": 20,
+                            "mob_ids": [
+                                "fried_chicken_30"
+                            ]
+                        },
+                        "Lava Blaze": {
+                            "name": "Lava Blaze",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "lava_blaze_100"
+                            ]
+                        },
+                        "Lava Flame": {
+                            "name": "Lava Flame",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "lava_flame_230"
+                            ]
+                        },
+                        "Lava Leech": {
+                            "name": "Lava Leech",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "lava_leech_220"
+                            ]
+                        },
+                        "Lava Pigman": {
+                            "name": "Lava Pigman",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "lava_pigman_100"
+                            ]
+                        },
+                        "Lord Jawbus": {
+                            "name": "Lord Jawbus",
+                            "cap": 100,
+                            "bracket": 7,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "lord_jawbus_600"
+                            ]
+                        },
+                        "Magma Pillar": {
+                            "name": "Magma Pillar",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "magma_pillar_220"
+                            ]
+                        },
+                        "Magma Slug": {
+                            "name": "Magma Slug",
+                            "cap": 10000,
+                            "bracket": 2,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "magma_slug_200"
+                            ]
+                        },
+                        "Moogma": {
+                            "name": "Moogma",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "moogma_210"
+                            ]
+                        },
+                        "Plhlegblast": {
+                            "name": "Plhlegblast",
+                            "cap": 7,
+                            "bracket": 7,
+                            "max_tier": 5,
+                            "mob_ids": [
+                                "pond_squid_300"
+                            ]
+                        },
+                        "Pyroclastic Worm": {
+                            "name": "Pyroclastic Worm",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "pyroclastic_worm_240"
+                            ]
+                        },
+                        "Ragnarok": {
+                            "name": "Ragnarok",
+                            "cap": 100,
+                            "bracket": 7,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "ragnarok_666"
+                            ]
+                        },
+                        "Taurus": {
+                            "name": "Taurus",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "pig_rider_250"
+                            ]
+                        },
+                        "Thunder": {
+                            "name": "Thunder",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "thunder_400"
+                            ]
+                        },
+                        "Volcanic Snail": {
+                            "name": "Volcanic Snail",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "volcanic_snail_90"
+                            ]
+                        }
+                    }
+                },
+                "spooky_festival": {
+                    "name": "Spooky Festival",
+                    "mobs": {
+                        "Grim Reaper": {
+                            "name": "Grim Reaper",
+                            "cap": 100,
+                            "bracket": 7,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "grim_reaper_190"
+                            ]
+                        },
+                        "Jumpin' Jack": {
+                            "name": "Jumpin' Jack",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "sea_guardian_10"
+                            ]
+                        },
+                        "Nightmare": {
+                            "name": "Nightmare",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "nightmare_24"
+                            ]
+                        },
+                        "Phantom Fisher": {
+                            "name": "Phantom Fisher",
+                            "cap": 400,
+                            "bracket": 6,
+                            "max_tier": 16,
+                            "mob_ids": [
+                                "phantom_fisherman_160"
+                            ]
+                        },
+                        "Scarecrow": {
+                            "name": "Scarecrow",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "scarecrow_9"
+                            ]
+                        },
+                        "Werewolf": {
+                            "name": "Werewolf",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "werewolf_50"
+                            ]
+                        }
+                    }
+                },
+                "fishing_festival": {
+                    "name": "Fishing Festival",
+                    "mobs": {
+                        "Blue Shark": {
+                            "name": "Blue Shark",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "blue_shark_20"
+                            ]
+                        },
+                        "Great White Shark": {
+                            "name": "Great White Shark",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "great_white_shark_180"
+                            ]
+                        },
+                        "Nurse Shark": {
+                            "name": "Nurse Shark",
+                            "cap": 4000,
+                            "bracket": 3,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "nurse_shark_6"
+                            ]
+                        },
+                        "Tiger Shark": {
+                            "name": "Tiger Shark",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "tiger_shark_50"
+                            ]
+                        }
+                    }
+                },
+                "winter": {
+                    "name": "Winter",
+                    "mobs": {
+                        "Frosty": {
+                            "name": "Frosty",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "frosty_the_snowman_13"
+                            ]
+                        },
+                        "Frozen Steve": {
+                            "name": "Frozen Steve",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "frozen_steve_7"
+                            ]
+                        },
+                        "Grinch": {
+                            "name": "Grinch",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "grinch_21"
+                            ]
+                        },
+                        "Nutcracker": {
+                            "name": "Nutcracker",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "nutcracker_50"
+                            ]
+                        },
+                        "Reindrake": {
+                            "name": "Reindrake",
+                            "cap": 100,
+                            "bracket": 7,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "reindrake_100"
+                            ]
+                        },
+                        "Yeti": {
+                            "name": "Yeti",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "yeti_175"
+                            ]
+                        }
+                    }
+                },
+                "backwater_bayou": {
+                    "name": "Backwater Bayou",
+                    "mobs": {
+                        "Alligator": {
+                            "name": "Alligator",
+                            "cap": 400,
+                            "bracket": 5,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "alligator_120"
+                            ]
+                        },
+                        "Banshee": {
+                            "name": "Banshee",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "banshee_10"
+                            ]
+                        },
+                        "Bayou Sludge": {
+                            "name": "Bayou Sludge",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "bayou_sludge_25"
+                            ]
+                        },
+                        "Dumpster Diver": {
+                            "name": "Dumpster Diver",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "dumpster_diver_15"
+                            ]
+                        },
+                        "Titanoboa": {
+                            "name": "Titanoboa",
+                            "cap": 100,
+                            "bracket": 7,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "titanoboa_240"
+                            ]
+                        },
+                        "Trash Gobbler": {
+                            "name": "Trash Gobbler",
+                            "cap": 1000,
+                            "bracket": 4,
+                            "max_tier": 15,
+                            "mob_ids": [
+                                "trash_gobbler_8"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "catacombs": {
+            "id": "catacombs",
+            "name": "Catacombs",
+            "mobs": {
+                "Angry Archaeologist": {
+                    "name": "Angry Archaeologist",
+                    "cap": 3000,
+                    "bracket": 7,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "diamond_guy_80",
+                        "diamond_guy_90",
+                        "diamond_guy_100",
+                        "diamond_guy_110",
+                        "diamond_guy_120",
+                        "diamond_guy_130",
+                        "diamond_guy_140",
+                        "diamond_guy_150",
+                        "diamond_guy_160",
+                        "diamond_guy_170",
+                        "master_diamond_guy_80",
+                        "master_diamond_guy_90",
+                        "master_diamond_guy_100",
+                        "master_diamond_guy_110",
+                        "master_diamond_guy_120",
+                        "master_diamond_guy_130",
+                        "master_diamond_guy_140",
+                        "master_diamond_guy_150",
+                        "master_diamond_guy_160",
+                        "master_diamond_guy_170"
+                    ]
+                },
+                "Bat": {
+                    "name": "Bat",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "dungeon_secret_bat_1"
+                    ]
+                },
+                "Cellar Spider": {
+                    "name": "Cellar Spider",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "cellar_spider_45",
+                        "cellar_spider_65",
+                        "cellar_spider_75",
+                        "cellar_spider_85",
+                        "cellar_spider_95",
+                        "cellar_spider_105",
+                        "cellar_spider_115",
+                        "cellar_spider_125",
+                        "master_cellar_spider_45",
+                        "master_cellar_spider_65",
+                        "master_cellar_spider_75",
+                        "master_cellar_spider_85",
+                        "master_cellar_spider_95",
+                        "master_cellar_spider_105",
+                        "master_cellar_spider_115",
+                        "master_cellar_spider_125"
+                    ]
+                },
+                "Lonely Spider": {
+                    "name": "Lonely Spider",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "lonely_spider_35",
+                        "lonely_spider_55",
+                        "lonely_spider_65",
+                        "lonely_spider_75",
+                        "lonely_spider_85",
+                        "lonely_spider_95",
+                        "lonely_spider_105",
+                        "lonely_spider_115",
+                        "master_lonely_spider_35",
+                        "master_lonely_spider_55",
+                        "master_lonely_spider_65",
+                        "master_lonely_spider_75",
+                        "master_lonely_spider_85",
+                        "master_lonely_spider_95",
+                        "master_lonely_spider_105",
+                        "master_lonely_spider_115"
+                    ]
+                },
+                "Crypt Dreadlord": {
+                    "name": "Crypt Dreadlord",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "crypt_dreadlord_47",
+                        "crypt_dreadlord_67",
+                        "crypt_dreadlord_77",
+                        "crypt_dreadlord_87",
+                        "crypt_dreadlord_97",
+                        "crypt_dreadlord_107",
+                        "crypt_dreadlord_117",
+                        "crypt_dreadlord_127",
+                        "master_crypt_dreadlord_47",
+                        "master_crypt_dreadlord_67",
+                        "master_crypt_dreadlord_77",
+                        "master_crypt_dreadlord_87",
+                        "master_crypt_dreadlord_97",
+                        "master_crypt_dreadlord_107",
+                        "master_crypt_dreadlord_117",
+                        "master_crypt_dreadlord_127"
+                    ]
+                },
+                "Crypt Lurker": {
+                    "name": "Crypt Lurker",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "crypt_lurker_41",
+                        "crypt_lurker_61",
+                        "crypt_lurker_71",
+                        "crypt_lurker_81",
+                        "crypt_lurker_91",
+                        "crypt_lurker_101",
+                        "crypt_lurker_111",
+                        "crypt_lurker_121",
+                        "master_crypt_lurker_41",
+                        "master_crypt_lurker_61",
+                        "master_crypt_lurker_71",
+                        "master_crypt_lurker_81",
+                        "master_crypt_lurker_91",
+                        "master_crypt_lurker_101",
+                        "master_crypt_lurker_111",
+                        "master_crypt_lurker_121"
+                    ]
+                },
+                "Crypt Souleater": {
+                    "name": "Crypt Souleater",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "crypt_souleater_45",
+                        "crypt_souleater_65",
+                        "crypt_souleater_75",
+                        "crypt_souleater_85",
+                        "crypt_souleater_95",
+                        "crypt_souleater_105",
+                        "crypt_souleater_115",
+                        "crypt_souleater_125",
+                        "master_crypt_souleater_45",
+                        "master_crypt_souleater_65",
+                        "master_crypt_souleater_75",
+                        "master_crypt_souleater_85",
+                        "master_crypt_souleater_95",
+                        "master_crypt_souleater_105",
+                        "master_crypt_souleater_115",
+                        "master_crypt_souleater_125"
+                    ]
+                },
+                "Fels": {
+                    "name": "Fels",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "tentaclees_90",
+                        "tentaclees_100",
+                        "tentaclees_110",
+                        "master_tentaclees_90",
+                        "master_tentaclees_100",
+                        "master_tentaclees_110"
+                    ]
+                },
+                "Golem": {
+                    "name": "Golem",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "sadan_golem_1",
+                        "master_sadan_golem_1"
+                    ]
+                },
+                "King Midas": {
+                    "name": "King Midas",
+                    "cap": 750,
+                    "bracket": 6,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "king_midas_130",
+                        "king_midas_140",
+                        "king_midas_150",
+                        "king_midas_160",
+                        "king_midas_170",
+                        "master_king_midas_130",
+                        "master_king_midas_140",
+                        "master_king_midas_150",
+                        "master_king_midas_160",
+                        "master_king_midas_170"
+                    ]
+                },
+                "Lost Adventurer": {
+                    "name": "Lost Adventurer",
+                    "cap": 3000,
+                    "bracket": 7,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "lost_adventurer_80",
+                        "lost_adventurer_81",
+                        "lost_adventurer_82",
+                        "lost_adventurer_83",
+                        "lost_adventurer_85",
+                        "lost_adventurer_86",
+                        "lost_adventurer_87",
+                        "lost_adventurer_88",
+                        "lost_adventurer_90",
+                        "lost_adventurer_91",
+                        "lost_adventurer_92",
+                        "lost_adventurer_93",
+                        "lost_adventurer_100",
+                        "lost_adventurer_101",
+                        "lost_adventurer_102",
+                        "lost_adventurer_103",
+                        "lost_adventurer_110",
+                        "lost_adventurer_111",
+                        "lost_adventurer_112",
+                        "lost_adventurer_113",
+                        "lost_adventurer_120",
+                        "lost_adventurer_121",
+                        "lost_adventurer_122",
+                        "lost_adventurer_123",
+                        "lost_adventurer_130",
+                        "lost_adventurer_131",
+                        "lost_adventurer_132",
+                        "lost_adventurer_133",
+                        "lost_adventurer_134",
+                        "lost_adventurer_135",
+                        "lost_adventurer_140",
+                        "lost_adventurer_141",
+                        "lost_adventurer_142",
+                        "lost_adventurer_143",
+                        "lost_adventurer_144",
+                        "lost_adventurer_150",
+                        "lost_adventurer_151",
+                        "lost_adventurer_152",
+                        "lost_adventurer_153",
+                        "lost_adventurer_154",
+                        "lost_adventurer_160",
+                        "lost_adventurer_161",
+                        "lost_adventurer_162",
+                        "lost_adventurer_163",
+                        "lost_adventurer_164",
+                        "master_lost_adventurer_80",
+                        "master_lost_adventurer_81",
+                        "master_lost_adventurer_82",
+                        "master_lost_adventurer_83",
+                        "master_lost_adventurer_85",
+                        "master_lost_adventurer_86",
+                        "master_lost_adventurer_87",
+                        "master_lost_adventurer_88",
+                        "master_lost_adventurer_90",
+                        "master_lost_adventurer_91",
+                        "master_lost_adventurer_92",
+                        "master_lost_adventurer_93",
+                        "master_lost_adventurer_100",
+                        "master_lost_adventurer_101",
+                        "master_lost_adventurer_102",
+                        "master_lost_adventurer_103",
+                        "master_lost_adventurer_110",
+                        "master_lost_adventurer_111",
+                        "master_lost_adventurer_112",
+                        "master_lost_adventurer_113",
+                        "master_lost_adventurer_120",
+                        "master_lost_adventurer_121",
+                        "master_lost_adventurer_122",
+                        "master_lost_adventurer_123",
+                        "master_lost_adventurer_130",
+                        "master_lost_adventurer_131",
+                        "master_lost_adventurer_132",
+                        "master_lost_adventurer_133",
+                        "master_lost_adventurer_134",
+                        "master_lost_adventurer_135",
+                        "master_lost_adventurer_140",
+                        "master_lost_adventurer_141",
+                        "master_lost_adventurer_142",
+                        "master_lost_adventurer_143",
+                        "master_lost_adventurer_144",
+                        "master_lost_adventurer_150",
+                        "master_lost_adventurer_151",
+                        "master_lost_adventurer_152",
+                        "master_lost_adventurer_153",
+                        "master_lost_adventurer_154",
+                        "master_lost_adventurer_160",
+                        "master_lost_adventurer_161",
+                        "master_lost_adventurer_162",
+                        "master_lost_adventurer_163",
+                        "master_lost_adventurer_164"
+                    ]
+                },
+                "Mimic": {
+                    "name": "Mimic",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "mimic_115",
+                        "mimic_125",
+                        "master_mimic_115",
+                        "master_mimic_125"
+                    ]
+                },
+                "Scared Skeleton": {
+                    "name": "Scared Skeleton",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "scared_skeleton_42",
+                        "scared_skeleton_62",
+                        "scared_skeleton_72",
+                        "master_scared_skeleton_42",
+                        "master_scared_skeleton_62",
+                        "master_scared_skeleton_72"
+                    ]
+                },
+                "Shadow Assassin": {
+                    "name": "Shadow Assassin",
+                    "cap": 3000,
+                    "bracket": 7,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "shadow_assassin_120",
+                        "shadow_assassin_130",
+                        "shadow_assassin_140",
+                        "shadow_assassin_150",
+                        "shadow_assassin_160",
+                        "shadow_assassin_170",
+                        "shadow_assassin_171",
+                        "master_shadow_assassin_120",
+                        "master_shadow_assassin_130",
+                        "master_shadow_assassin_140",
+                        "master_shadow_assassin_150",
+                        "master_shadow_assassin_160",
+                        "master_shadow_assassin_170",
+                        "master_shadow_assassin_171"
+                    ]
+                },
+                "Skeleton Grunt": {
+                    "name": "Skeleton Grunt",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "skeleton_grunt_40",
+                        "skeleton_grunt_60",
+                        "skeleton_grunt_70",
+                        "skeleton_grunt_80",
+                        "master_skeleton_grunt_40",
+                        "master_skeleton_grunt_60",
+                        "master_skeleton_grunt_70",
+                        "master_skeleton_grunt_80"
+                    ]
+                },
+                "Skeleton Lord": {
+                    "name": "Skeleton Lord",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "skeleton_lord_150",
+                        "master_skeleton_lord_150"
+                    ]
+                },
+                "Skeleton Master": {
+                    "name": "Skeleton Master",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "skeleton_master_48",
+                        "skeleton_master_68",
+                        "skeleton_master_78",
+                        "skeleton_master_88",
+                        "skeleton_master_98",
+                        "skeleton_master_108",
+                        "skeleton_master_118",
+                        "skeleton_master_128",
+                        "master_skeleton_master_48",
+                        "master_skeleton_master_68",
+                        "master_skeleton_master_78",
+                        "master_skeleton_master_88",
+                        "master_skeleton_master_98",
+                        "master_skeleton_master_108",
+                        "master_skeleton_master_118",
+                        "master_skeleton_master_128"
+                    ]
+                },
+                "Skeleton Soldier": {
+                    "name": "Skeleton Soldier",
+                    "cap": 40000,
+                    "bracket": 1,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "skeleton_soldier_46",
+                        "skeleton_soldier_66",
+                        "skeleton_soldier_76",
+                        "skeleton_soldier_86",
+                        "skeleton_soldier_96",
+                        "skeleton_soldier_106",
+                        "skeleton_soldier_116",
+                        "skeleton_soldier_126",
+                        "master_skeleton_soldier_46",
+                        "master_skeleton_soldier_66",
+                        "master_skeleton_soldier_76",
+                        "master_skeleton_soldier_86",
+                        "master_skeleton_soldier_96",
+                        "master_skeleton_soldier_106",
+                        "master_skeleton_soldier_116",
+                        "master_skeleton_soldier_126"
+                    ]
+                },
+                "Skeletor": {
+                    "name": "Skeletor",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "skeletor_80",
+                        "skeletor_90",
+                        "skeletor_100",
+                        "skeletor_101",
+                        "skeletor_110",
+                        "skeletor_120",
+                        "skeletor_prime_100",
+                        "skeletor_prime_110",
+                        "skeletor_prime_120",
+                        "master_skeletor_80",
+                        "master_skeletor_90",
+                        "master_skeletor_100",
+                        "master_skeletor_101",
+                        "master_skeletor_110",
+                        "master_skeletor_120",
+                        "master_skeletor_prime_100",
+                        "master_skeletor_prime_110",
+                        "master_skeletor_prime_120"
+                    ]
+                },
+                "Sniper": {
+                    "name": "Sniper",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "sniper_skeleton_43",
+                        "sniper_skeleton_63",
+                        "sniper_skeleton_73",
+                        "sniper_skeleton_83",
+                        "sniper_skeleton_93",
+                        "sniper_skeleton_103",
+                        "sniper_skeleton_113",
+                        "sniper_skeleton_123",
+                        "master_sniper_skeleton_43",
+                        "master_sniper_skeleton_63",
+                        "master_sniper_skeleton_73",
+                        "master_sniper_skeleton_83",
+                        "master_sniper_skeleton_93",
+                        "master_sniper_skeleton_103",
+                        "master_sniper_skeleton_113",
+                        "master_sniper_skeleton_123"
+                    ]
+                },
+                "Super Archer": {
+                    "name": "Super Archer",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "super_archer_90",
+                        "super_archer_100",
+                        "super_archer_110",
+                        "super_archer_120",
+                        "master_super_archer_90",
+                        "master_super_archer_100",
+                        "master_super_archer_110",
+                        "master_super_archer_120"
+                    ]
+                },
+                "Super Tank Zombie": {
+                    "name": "Super Tank Zombie",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "super_tank_zombie_90",
+                        "super_tank_zombie_100",
+                        "super_tank_zombie_110",
+                        "super_tank_zombie_120",
+                        "master_super_tank_zombie_90",
+                        "master_super_tank_zombie_100",
+                        "master_super_tank_zombie_110",
+                        "master_super_tank_zombie_120"
+                    ]
+                },
+                "Tank Zombie": {
+                    "name": "Tank Zombie",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "crypt_tank_zombie_40",
+                        "crypt_tank_zombie_60",
+                        "crypt_tank_zombie_70",
+                        "crypt_tank_zombie_80",
+                        "crypt_tank_zombie_90",
+                        "master_crypt_tank_zombie_40",
+                        "master_crypt_tank_zombie_60",
+                        "master_crypt_tank_zombie_70",
+                        "master_crypt_tank_zombie_80",
+                        "master_crypt_tank_zombie_90"
+                    ]
+                },
+                "Terracotta": {
+                    "name": "Terracotta",
+                    "cap": 40000,
+                    "bracket": 1,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "sadan_statue_1",
+                        "master_sadan_statue_1"
+                    ]
+                },
+                "Undead": {
+                    "name": "Undead",
+                    "cap": 10000,
+                    "bracket": 2,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "watcher_summon_undead_1",
+                        "watcher_summon_undead_2",
+                        "watcher_summon_undead_3",
+                        "watcher_summon_undead_4",
+                        "watcher_summon_undead_5",
+                        "watcher_summon_undead_6",
+                        "watcher_summon_undead_7",
+                        "watcher_summon_undead_8",
+                        "master_watcher_summon_undead_1",
+                        "master_watcher_summon_undead_2",
+                        "master_watcher_summon_undead_3",
+                        "master_watcher_summon_undead_4",
+                        "master_watcher_summon_undead_5",
+                        "master_watcher_summon_undead_6",
+                        "master_watcher_summon_undead_7",
+                        "master_watcher_summon_undead_8"
+                    ]
+                },
+                "Undead Skeleton": {
+                    "name": "Undead Skeleton",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "dungeon_respawning_skeleton_40",
+                        "dungeon_respawning_skeleton_skull_40",
+                        "dungeon_respawning_skeleton_60",
+                        "dungeon_respawning_skeleton_70",
+                        "dungeon_respawning_skeleton_80",
+                        "dungeon_respawning_skeleton_90",
+                        "dungeon_respawning_skeleton_100",
+                        "dungeon_respawning_skeleton_110",
+                        "dungeon_respawning_skeleton_120",
+                        "master_dungeon_respawning_skeleton_40",
+                        "master_dungeon_respawning_skeleton_60",
+                        "master_dungeon_respawning_skeleton_70",
+                        "master_dungeon_respawning_skeleton_80",
+                        "master_dungeon_respawning_skeleton_90",
+                        "master_dungeon_respawning_skeleton_100",
+                        "master_dungeon_respawning_skeleton_110",
+                        "master_dungeon_respawning_skeleton_120"
+                    ]
+                },
+                "Wither Guard": {
+                    "name": "Wither Guard",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "wither_guard_100",
+                        "master_wither_guard_100"
+                    ]
+                },
+                "Wither Husk": {
+                    "name": "Wither Husk",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "master_wither_husk_100"
+                    ]
+                },
+                "Wither Miner": {
+                    "name": "Wither Miner",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "wither_miner_100",
+                        "master_wither_miner_100"
+                    ]
+                },
+                "Withermancer": {
+                    "name": "Withermancer",
+                    "cap": 25000,
+                    "bracket": 4,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "crypt_witherskeleton_90",
+                        "crypt_witherskeleton_100",
+                        "crypt_witherskeleton_110",
+                        "crypt_witherskeleton_120",
+                        "master_crypt_witherskeleton_90",
+                        "master_crypt_witherskeleton_100",
+                        "master_crypt_witherskeleton_110",
+                        "master_crypt_witherskeleton_120"
+                    ]
+                },
+                "Zombie Commander": {
+                    "name": "Zombie Commander",
+                    "cap": 3000,
+                    "bracket": 4,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "zombie_commander_110",
+                        "zombie_commander_120",
+                        "master_zombie_commander_110",
+                        "master_zombie_commander_120"
+                    ]
+                },
+                "Zombie Grunt": {
+                    "name": "Zombie Grunt",
+                    "cap": 4000,
+                    "bracket": 3,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "zombie_grunt_40",
+                        "zombie_grunt_60",
+                        "zombie_grunt_70",
+                        "zombie_grunt_80",
+                        "master_zombie_grunt_40",
+                        "master_zombie_grunt_60",
+                        "master_zombie_grunt_70",
+                        "master_zombie_grunt_80"
+                    ]
+                },
+                "Zombie Knight": {
+                    "name": "Zombie Knight",
+                    "cap": 10000,
+                    "bracket": 5,
+                    "max_tier": 25,
+                    "mob_ids": [
+                        "zombie_knight_86",
+                        "zombie_knight_96",
+                        "zombie_knight_106",
+                        "zombie_knight_116",
+                        "zombie_knight_126",
+                        "master_zombie_knight_86",
+                        "master_zombie_knight_96",
+                        "master_zombie_knight_106",
+                        "master_zombie_knight_116",
+                        "master_zombie_knight_126"
+                    ]
+                },
+                "Zombie Lord": {
+                    "name": "Zombie Lord",
+                    "cap": 1000,
+                    "bracket": 5,
+                    "max_tier": 20,
+                    "mob_ids": [
+                        "zombie_lord_150",
+                        "master_zombie_lord_150"
+                    ]
+                },
+                "Zombie Soldier": {
+                    "name": "Zombie Soldier",
+                    "cap": 40000,
+                    "bracket": 1,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "zombie_soldier_83",
+                        "zombie_soldier_93",
+                        "zombie_soldier_103",
+                        "zombie_soldier_113",
+                        "zombie_soldier_123",
+                        "master_zombie_soldier_83",
+                        "master_zombie_soldier_93",
+                        "master_zombie_soldier_103",
+                        "master_zombie_soldier_113",
+                        "master_zombie_soldier_123"
+                    ]
+                }
+            }
+        },
+        "garden": {
+            "id": "garden",
+            "name": "Garden",
+            "mobs": {
+                "Beetle": {
+                    "name": "Beetle",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_beetle_1"
+                    ]
+                },
+                "Cricket": {
+                    "name": "Cricket",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_cricket_1"
+                    ]
+                },
+                "Earthworm": {
+                    "name": "Earthworm",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_worm_1"
+                    ]
+                },
+                "Dragonfly": {
+                    "name": "Dragonfly",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_dragonfly_1"
+                    ]
+                },
+                "Field Mouse": {
+                    "name": "Field Mouse",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_mouse_1"
+                    ]
+                },
+                "Fly": {
+                    "name": "Fly",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_fly_1"
+                    ]
+                },
+                "Locust": {
+                    "name": "Locust",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_locust_1"
+                    ]
+                },
+                "Lunar Moth": {
+                    "name": "Lunar Moth",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_lunar_moth_1"
+                    ]
+                },
+                "Mite": {
+                    "name": "Mite",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_mite_1"
+                    ]
+                },
+                "Mosquito": {
+                    "name": "Mosquito",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_mosquito_1"
+                    ]
+                },
+                "Moth": {
+                    "name": "Moth",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_moth_1"
+                    ]
+                },
+                "Praying Mantis": {
+                    "name": "Praying Mantis",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_praying_mantis_1"
+                    ]
+                },
+                "Firefly": {
+                    "name": "Firefly",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_firefly_1"
+                    ]
+                },
+                "Rat": {
+                    "name": "Rat",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_rat_1"
+                    ]
+                },
+                "Slug": {
+                    "name": "Slug",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "pest_slug_1"
+                    ]
+                },
+                "Timestalk Clone": {
+                    "name": "Timestalk Clone",
+                    "cap": 20,
+                    "bracket": 7,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "timestalk_clone_100"
+                    ]
+                },
+                "Zombuddy": {
+                    "name": "Zombuddy",
+                    "cap": 250,
+                    "bracket": 6,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "zombuddy_1"
+                    ]
+                }
+            }
+        },
+        "lotus_atoll": {
+            "id": "lotus_atoll",
+            "name": "Lotus Atoll",
+            "mobs": {
+                "Atoll Croaker": {
+                    "name": "Atoll Croaker",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "atoll_croaker_45"
+                    ]
+                },
+                "Drowned Captain": {
+                    "name": "Drowned Captain",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "drowned_captain_74"
+                    ]
+                },
+                "Flipflopper": {
+                    "name": "Flipflopper",
+                    "cap": 150,
+                    "bracket": 8,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "flip_flopper_10"
+                    ]
+                },
+                "Frog Prince": {
+                    "name": "Frog Prince",
+                    "cap": 100,
+                    "bracket": 7,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "frog_prince_132"
+                    ]
+                },
+                "Lotum": {
+                    "name": "Lotum",
+                    "cap": 150,
+                    "bracket": 8,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "lotus_jumping_frog_5"
+                    ]
+                },
+                "Lotus Guardian": {
+                    "name": "Lotus Guardian",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "lotus_guardian_55"
+                    ]
+                },
+                "Lotusfish": {
+                    "name": "Lotusfish",
+                    "cap": 300,
+                    "bracket": 3,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "lotus_fish_1"
+                    ]
+                },
+                "Puddle Jumper": {
+                    "name": "Puddle Jumper",
+                    "cap": 400,
+                    "bracket": 5,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "puddle_jumper_85"
+                    ]
+                },
+                "Seashine": {
+                    "name": "Seashine",
+                    "cap": 75,
+                    "bracket": 4,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "sea_shine_12"
+                    ]
+                },
+                "Tewtil": {
+                    "name": "Tewtil",
+                    "cap": 75,
+                    "bracket": 4,
+                    "max_tier": 10,
+                    "mob_ids": [
+                        "tewtil_10"
+                    ]
+                },
+                "gorF": {
+                    "name": "gorF",
+                    "cap": 1000,
+                    "bracket": 4,
+                    "max_tier": 15,
+                    "mob_ids": [
+                        "gorf_65"
+                    ]
+                }
+            }
+        }
     }
-  },
-  "kills": {
-    "regular": [
-      10,
-      25,
-      100,
-      250,
-      500,
-      1000,
-      2500,
-      5000,
-      10000,
-      25000,
-      50000,
-      100000,
-      200000,
-      300000,
-      400000,
-      500000,
-      600000,
-      700000,
-      800000,
-      900000,
-      1000000,
-      1100000,
-      1200000,
-      1300000,
-      1400000,
-      1500000,
-      1600000,
-      1700000,
-      1800000,
-      1900000,
-      2000000,
-      2100000,
-      2200000,
-      2300000,
-      2400000,
-      2500000,
-      2600000,
-      2700000,
-      2800000,
-      2900000,
-      3000000
-    ],
-    "boss": [
-      2,
-      5,
-      10,
-      20,
-      30,
-      40,
-      50,
-      75,
-      100,
-      150,
-      200,
-      300,
-      400,
-      500,
-      600,
-      700,
-      800,
-      900,
-      1000,
-      1100,
-      1200,
-      1300,
-      1400,
-      1500,
-      1600,
-      1700,
-      1800,
-      1900,
-      2000,
-      2100,
-      2200,
-      2300,
-      2400,
-      2500,
-      2600,
-      2700,
-      2800,
-      2900,
-      3000,
-      3100,
-      3200
-    ]
-  }
 }

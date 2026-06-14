@@ -1,5 +1,6 @@
 import difflib
 import json
+import re
 from typing import TypedDict
 
 import requests
@@ -69,6 +70,56 @@ def update_accessories():
         json.dump(accessories, f, indent=4)
 
 
+minecraft_fmt_regex = re.compile(r"§[a-z\d]")
+
+
+def remove_mc_fmt(text: str) -> str:
+    return minecraft_fmt_regex.sub("", text)
+
+
+def update_bestiary():
+    data = requests.get(f"{BASE_URI}/constants/bestiary.json").json()
+    bestiary = {}
+    brackets = data.pop("brackets", {})
+    bestiary["brackets"] = brackets
+    bestiary["islands"] = islands = {}
+    for name, island in data.items():
+        islands[name] = {
+            "id": name,
+            "name": island["name"],
+        }
+        if island.get("hasSubcategories", False):
+            islands[name]["subcategories"] = subcategories = {}
+            for subname, subcategory in island.items():
+                if subname in ("name", "icon", "hasSubcategories"):
+                    continue
+                subcategories[subname] = {
+                    "name": subcategory["name"],
+                }
+                subcategories[subname]["mobs"] = mobs = {}
+                for mob in subcategory["mobs"]:
+                    mobs[remove_mc_fmt(mob["name"])] = {
+                        "name": remove_mc_fmt(mob["name"]),
+                        "cap": mob["cap"],
+                        "bracket": mob["bracket"],
+                        "max_tier": sum(1 for cap in brackets.get(str(mob["bracket"]), {}) if cap <= mob["cap"]),
+                        "mob_ids": mob["mobs"],
+                    }
+        else:
+            islands[name]["mobs"] = mobs = {}
+            for mob in island["mobs"]:
+                mobs[remove_mc_fmt(mob["name"])] = {
+                    "name": remove_mc_fmt(mob["name"]),
+                    "cap": mob["cap"],
+                    "bracket": mob["bracket"],
+                    "max_tier": sum(1 for cap in brackets.get(str(mob["bracket"]), {}) if cap <= mob["cap"]),
+                    "mob_ids": mob["mobs"],
+                }
+    with open("skyblock/bestiary.json", "w") as f:
+        json.dump(bestiary, f, indent=4)
+
+
 if __name__ == "__main__":
     update_reforges()
     update_accessories()
+    update_bestiary()
