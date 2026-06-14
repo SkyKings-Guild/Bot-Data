@@ -1,3 +1,8 @@
+The following files may be subject to this license:
+`skyblock/bestiary.json`
+`skyblock/reforges.json`
+`skyblock/accessories.json`
+
 MIT License
 
 Copyright (c) 2020 Moulberry
