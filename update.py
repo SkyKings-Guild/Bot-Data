@@ -13,7 +13,7 @@ def update_reforges():
     for reforgestone in data.values():
         reforges[
             reforgestone.get("nbtModifier", reforgestone["reforgeName"]).lower()
-        ] = reforgestone["internalName"].upper()
+        ] = reforgestone["internalName"].lower()
     with open("skyblock/reforges.json", "w") as f:
         json.dump(reforges, f, indent=4)
 
