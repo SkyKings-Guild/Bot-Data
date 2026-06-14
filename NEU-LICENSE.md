@@ -1,7 +1,9 @@
 The following files may be subject to this license:
-`skyblock/bestiary.json`
-`skyblock/reforges.json`
-`skyblock/accessories.json`
+- `skyblock/bestiary.json`
+- `skyblock/reforges.json`
+- `skyblock/accessories.json`
+
+[Original Copy](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/blob/9a2d07d9c2b09e9d8d8fc2d77feda391f1791f34/LICENSE)
 
 MIT License
 
