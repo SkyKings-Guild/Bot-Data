@@ -1,5 +1,8 @@
 name: JSON Syntax Check
 
+permissions:
+  contents: read
+
 on:
   push:
     paths:
