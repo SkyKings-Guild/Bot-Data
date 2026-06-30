@@ -1640,5 +1640,9 @@
     "kuudras_kidney": {
         "rarity": "rare",
         "upgrade": null
+    },
+    "century_artifact": {
+        "rarity": "rare",
+        "upgrade": null
     }
 }
