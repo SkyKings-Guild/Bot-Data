@@ -549,8 +549,8 @@
                         "dasher_spider_6"
                     ]
                 },
-                "Gravel Skeleton": {
-                    "name": "Gravel Skeleton",
+                "Flint Skeleton": {
+                    "name": "Flint Skeleton",
                     "cap": 4000,
                     "bracket": 3,
                     "max_tier": 15,
