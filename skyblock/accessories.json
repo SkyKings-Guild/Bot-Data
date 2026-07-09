@@ -1644,5 +1644,9 @@
     "century_artifact": {
         "rarity": "rare",
         "upgrade": null
+    },
+    "safety_badge": {
+        "rarity": "common",
+        "upgrade": null
     }
 }
