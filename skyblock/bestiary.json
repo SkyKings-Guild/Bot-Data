@@ -1523,6 +1523,8 @@
                     "bracket": 4,
                     "max_tier": 15,
                     "mob_ids": [
+                        "harpy_85",
+                        "harpy_110",
                         "harpy_175",
                         "harpy_325"
                     ]
