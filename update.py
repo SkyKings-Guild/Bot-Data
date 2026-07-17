@@ -1,4 +1,3 @@
-import difflib
 import json
 import re
 from typing import TypedDict
@@ -66,6 +65,18 @@ def update_accessories():
                         accessories[item_id]["upgrade"] = accessoryinfo[
                             "internalname"
                         ].lower()
+    # manually update parents if we missed anything
+    parents_resp = requests.get(f"{BASE_URI}/constants/parents.json")
+    if parents_resp.ok:
+        pdata = parents_resp.json()
+        parents = {}
+        for k, v in pdata.items():
+            for i in v:
+                parents[i] = k
+        for item in accessories:
+            if accessories[item].get("upgrade") is None and item in parents:
+                print(f"Manually setting upgrade for {item} to {parents[item]}")
+                accessories[item]["upgrade"] = parents[item]
     with open("skyblock/accessories.json", "w") as f:
         json.dump(accessories, f, indent=4)
 
@@ -119,7 +130,38 @@ def update_bestiary():
         json.dump(bestiary, f, indent=4)
 
 
+def update_forge():
+    with open("skyblock/forge.json", "r") as f:
+        data = json.load(f)
+    for i, item in enumerate(data.keys()):
+        item_id = data[item].get("neu_id", item)
+        print(f"Fetching forge recipe for {item_id} ({i + 1}/{len(data)})")
+        resp = requests.get(f"{BASE_URI}/items/{item_id.upper()}.json")
+        if not resp.ok:
+            print(f"Failed to fetch data for {item_id}: {resp.status_code} - {resp.text}")
+            continue
+        item_data = resp.json()
+        recipe = [r for r in item_data.get("recipes", []) if r.get("type") == "forge"]
+        if not recipe:
+            print(f"No forge recipe found for {item_id}")
+            continue
+        recipe = recipe[0]
+        data[item]["time"] = recipe["duration"]
+        data[item]["count"] = int(recipe["count"])
+        if "ingredients" not in data[item]:
+            data[item]["ingredients"] = {}
+        for finput in recipe.get("inputs", []):
+            if finput.startswith("SKYBLOCK_COIN"):
+                data[item]["coins"] = int(float(finput.split(":")[1]))
+            else:
+                craftitem, count = finput.split(":")
+                data[item]["ingredients"][craftitem.upper()] = int(float(count))
+    with open("skyblock/forge.json", "w") as f:
+        json.dump(data, f, indent=4)
+
+
 if __name__ == "__main__":
     update_reforges()
     update_accessories()
     update_bestiary()
+    update_forge()
