@@ -134,20 +134,20 @@ def update_forge():
     with open("skyblock/forge.json", "r") as f:
         data = json.load(f)
     for i, item in enumerate(data.keys()):
-        item_id = data[item].get("neu_id", item)
-        print(f"Fetching forge recipe for {item_id} ({i + 1}/{len(data)})")
-        resp = requests.get(f"{BASE_URI}/items/{item_id.upper()}.json")
+        print(f"Fetching forge recipe for {item} ({i + 1}/{len(data)})")
+        resp = requests.get(f"{BASE_URI}/items/{item.upper()}.json")
         if not resp.ok:
-            print(f"Failed to fetch data for {item_id}: {resp.status_code} - {resp.text}")
+            print(f"Failed to fetch data for {item}: {resp.status_code} - {resp.text}")
             continue
         item_data = resp.json()
         recipe = [r for r in item_data.get("recipes", []) if r.get("type") == "forge"]
         if not recipe:
-            print(f"No forge recipe found for {item_id}")
+            print(f"No forge recipe found for {item}")
             continue
         recipe = recipe[0]
         data[item]["time"] = recipe["duration"]
         data[item]["count"] = int(recipe["count"])
+        data[item]["name"] = remove_mc_fmt(item_data["displayname"])
         if "ingredients" not in data[item]:
             data[item]["ingredients"] = {}
         for finput in recipe.get("inputs", []):

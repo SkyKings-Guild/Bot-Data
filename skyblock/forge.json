@@ -5,7 +5,8 @@
         "ingredients": {
             "ENCHANTED_DIAMOND_BLOCK": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Refined Diamond"
     },
     "REFINED_MITHRIL": {
         "hotm": 2,
@@ -13,7 +14,8 @@
         "ingredients": {
             "ENCHANTED_MITHRIL": 160
         },
-        "count": 1
+        "count": 1,
+        "name": "Refined Mithril"
     },
     "REFINED_TITANIUM": {
         "hotm": 2,
@@ -21,7 +23,8 @@
         "ingredients": {
             "ENCHANTED_TITANIUM": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Refined Titanium"
     },
     "REFINED_TUNGSTEN": {
         "hotm": 7,
@@ -32,7 +35,8 @@
         "ingredients": {
             "ENCHANTED_TUNGSTEN": 160
         },
-        "count": 1
+        "count": 1,
+        "name": "Refined Tungsten"
     },
     "REFINED_UMBER": {
         "hotm": 7,
@@ -43,7 +47,8 @@
         "ingredients": {
             "ENCHANTED_UMBER": 160
         },
-        "count": 1
+        "count": 1,
+        "name": "Refined Umber"
     },
     "BEJEWELED_HANDLE": {
         "hotm": 2,
@@ -51,7 +56,8 @@
         "ingredients": {
             "GLACITE_JEWEL": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Bejeweled Handle"
     },
     "DRILL_ENGINE": {
         "hotm": 3,
@@ -63,7 +69,8 @@
             "TREASURITE": 10,
             "REFINED_DIAMOND": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Drill Motor"
     },
     "FUEL_TANK": {
         "hotm": 2,
@@ -71,7 +78,8 @@
         "ingredients": {
             "ENCHANTED_COAL_BLOCK": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Fuel Canister"
     },
     "GEMSTONE_MIXTURE": {
         "hotm": 4,
@@ -83,7 +91,8 @@
             "FINE_SAPPHIRE_GEM": 4,
             "SLUDGE_JUICE": 320
         },
-        "count": 1
+        "count": 1,
+        "name": "Gemstone Mixture"
     },
     "GLACITE_AMALGAMATION": {
         "hotm": 4,
@@ -98,7 +107,8 @@
             "FINE_PERIDOT_GEM": 4,
             "FINE_AQUAMARINE_GEM": 4
         },
-        "count": 1
+        "count": 1,
+        "name": "Glacite Amalgamation"
     },
     "GOLDEN_PLATE": {
         "hotm": 3,
@@ -108,7 +118,8 @@
             "GLACITE_JEWEL": 5,
             "REFINED_DIAMOND": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Golden Plate"
     },
     "MITHRIL_PLATE": {
         "hotm": 3,
@@ -119,7 +130,8 @@
             "ENCHANTED_IRON_BLOCK": 1,
             "REFINED_TITANIUM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Plate"
     },
     "TUNGSTEN_PLATE": {
         "hotm": 7,
@@ -131,7 +143,8 @@
             "REFINED_TUNGSTEN": 4,
             "GLACITE_AMALGAMATION": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Tungsten Plate"
     },
     "UMBER_PLATE": {
         "hotm": 7,
@@ -143,7 +156,8 @@
             "REFINED_UMBER": 4,
             "GLACITE_AMALGAMATION": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Umber Plate"
     },
     "PERFECT_PLATE": {
         "hotm": 10,
@@ -153,7 +167,8 @@
             "TUNGSTEN_PLATE": 1,
             "MITHRIL_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Perfect Plate"
     },
     "MITHRIL_DRILL_1": {
         "hotm": 3,
@@ -163,7 +178,8 @@
             "REFINED_MITHRIL": 3,
             "FUEL_TANK": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Drill SX-R226"
     },
     "MITHRIL_DRILL_2": {
         "hotm": 4,
@@ -173,7 +189,8 @@
             "GOLDEN_PLATE": 1,
             "MITHRIL_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Drill SX-R326"
     },
     "GEMSTONE_DRILL_1": {
         "hotm": 3,
@@ -183,7 +200,8 @@
             "FUEL_TANK": 1,
             "FINE_RUBY_GEM": 6
         },
-        "count": 1
+        "count": 1,
+        "name": "Ruby Drill TX-15"
     },
     "GEMSTONE_DRILL_2": {
         "hotm": 4,
@@ -192,7 +210,8 @@
             "GEMSTONE_DRILL_1": 1,
             "GEMSTONE_MIXTURE": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Gemstone Drill LT-522"
     },
     "GEMSTONE_DRILL_3": {
         "hotm": 5,
@@ -203,7 +222,8 @@
             "GEMSTONE_MIXTURE": 3,
             "MAGMA_CORE": 8
         },
-        "count": 1
+        "count": 1,
+        "name": "Topaz Drill KGR-12"
     },
     "GEMSTONE_DRILL_4": {
         "hotm": 6,
@@ -214,7 +234,8 @@
             "GEMSTONE_DRILL_3": 1,
             "FLAWLESS_JASPER_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Jasper Drill X"
     },
     "POLISHED_TOPAZ_ROD": {
         "hotm": 5,
@@ -226,7 +247,8 @@
             "BEJEWELED_HANDLE": 3,
             "FLAWLESS_TOPAZ_GEM": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Topaz Rod"
     },
     "TITANIUM_DRILL_1": {
         "hotm": 5,
@@ -238,7 +260,8 @@
             "DRILL_ENGINE": 1,
             "FUEL_TANK": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Drill DR-X355"
     },
     "TITANIUM_DRILL_2": {
         "hotm": 5,
@@ -249,7 +272,8 @@
             "REFINED_DIAMOND": 10,
             "MITHRIL_PLATE": 5
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Drill DR-X455"
     },
     "TITANIUM_DRILL_3": {
         "hotm": 5,
@@ -262,7 +286,8 @@
             "MITHRIL_PLATE": 10,
             "ENCHANTED_IRON_BLOCK": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Drill DR-X555"
     },
     "TITANIUM_DRILL_4": {
         "hotm": 6,
@@ -276,7 +301,8 @@
             "REFINED_DIAMOND": 5,
             "FLAWLESS_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Drill DR-X655"
     },
     "DIVAN_DRILL": {
         "hotm": 7,
@@ -286,7 +312,8 @@
             "TITANIUM_DRILL_4": 1
         },
         "coins": 50000000,
-        "count": 1
+        "count": 1,
+        "name": "Divan's Drill"
     },
     "REINFORCED_CHISEL": {
         "hotm": 8,
@@ -297,7 +324,8 @@
             "CHISEL": 1,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Reinforced Chisel"
     },
     "GLACITE_CHISEL": {
         "hotm": 9,
@@ -308,7 +336,8 @@
             "MITHRIL_PLATE": 1,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Glacite-Plated Chisel"
     },
     "PERFECT_CHISEL": {
         "hotm": 10,
@@ -318,7 +347,8 @@
             "PERFECT_PLATE": 1,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Perfect Chisel"
     },
     "MITHRIL_NECKLACE": {
         "hotm": 2,
@@ -326,7 +356,8 @@
         "ingredients": {
             "ENCHANTED_MITHRIL": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Necklace"
     },
     "MITHRIL_CLOAK": {
         "hotm": 2,
@@ -334,7 +365,8 @@
         "ingredients": {
             "ENCHANTED_MITHRIL": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Cloak"
     },
     "MITHRIL_BELT": {
         "hotm": 2,
@@ -342,7 +374,8 @@
         "ingredients": {
             "ENCHANTED_MITHRIL": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Belt"
     },
     "MITHRIL_GAUNTLET": {
         "hotm": 2,
@@ -350,7 +383,8 @@
         "ingredients": {
             "ENCHANTED_MITHRIL": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril Gauntlet"
     },
     "TITANIUM_NECKLACE": {
         "hotm": 4,
@@ -361,7 +395,8 @@
             "MITHRIL_NECKLACE": 1,
             "REFINED_MINERAL": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Necklace"
     },
     "TITANIUM_CLOAK": {
         "hotm": 4,
@@ -372,7 +407,8 @@
             "MITHRIL_CLOAK": 1,
             "REFINED_MINERAL": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Cloak"
     },
     "TITANIUM_BELT": {
         "hotm": 4,
@@ -383,7 +419,8 @@
             "MITHRIL_BELT": 1,
             "REFINED_MINERAL": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Belt"
     },
     "TITANIUM_GAUNTLET": {
         "hotm": 4,
@@ -394,7 +431,8 @@
             "MITHRIL_GAUNTLET": 1,
             "REFINED_MINERAL": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Gauntlet"
     },
     "TITANIUM_TALISMAN": {
         "hotm": 2,
@@ -402,7 +440,8 @@
         "ingredients": {
             "REFINED_TITANIUM": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Talisman"
     },
     "TITANIUM_RING": {
         "hotm": 3,
@@ -411,7 +450,8 @@
             "REFINED_TITANIUM": 6,
             "TITANIUM_TALISMAN": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Ring"
     },
     "TITANIUM_ARTIFACT": {
         "hotm": 4,
@@ -420,7 +460,8 @@
             "REFINED_TITANIUM": 12,
             "TITANIUM_RING": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Artifact"
     },
     "TITANIUM_RELIC": {
         "hotm": 5,
@@ -429,7 +470,8 @@
             "REFINED_TITANIUM": 20,
             "TITANIUM_ARTIFACT": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Relic"
     },
     "DIVAN_POWDER_COATING": {
         "hotm": 7,
@@ -440,7 +482,8 @@
             "ENCHANTED_GOLD_BLOCK": 16,
             "DIVAN_FRAGMENT": 5
         },
-        "count": 1
+        "count": 1,
+        "name": "Divan's Powder Coating"
     },
     "DIVAN_HELMET": {
         "hotm": 6,
@@ -450,7 +493,8 @@
             "GEMSTONE_MIXTURE": 10,
             "FLAWLESS_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Helmet of Divan"
     },
     "DIVAN_CHESTPLATE": {
         "hotm": 6,
@@ -460,7 +504,8 @@
             "GEMSTONE_MIXTURE": 10,
             "FLAWLESS_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Chestplate of Divan"
     },
     "DIVAN_LEGGINGS": {
         "hotm": 6,
@@ -470,7 +515,8 @@
             "GEMSTONE_MIXTURE": 10,
             "FLAWLESS_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Leggings of Divan"
     },
     "DIVAN_BOOTS": {
         "hotm": 6,
@@ -480,7 +526,8 @@
             "GEMSTONE_MIXTURE": 10,
             "FLAWLESS_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Boots of Divan"
     },
     "AMBER_NECKLACE": {
         "hotm": 5,
@@ -489,7 +536,8 @@
             "GLOSSY_GEMSTONE": 32,
             "FLAWLESS_AMBER_GEM": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Amber Necklace"
     },
     "SAPPHIRE_CLOAK": {
         "hotm": 5,
@@ -498,7 +546,8 @@
             "GLOSSY_GEMSTONE": 32,
             "FLAWLESS_SAPPHIRE_GEM": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Sapphire Cloak"
     },
     "JADE_BELT": {
         "hotm": 5,
@@ -507,7 +556,8 @@
             "GLOSSY_GEMSTONE": 32,
             "FLAWLESS_JADE_GEM": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Jade Belt"
     },
     "AMETHYST_GAUNTLET": {
         "hotm": 5,
@@ -516,7 +566,8 @@
             "GLOSSY_GEMSTONE": 32,
             "FLAWLESS_AMETHYST_GEM": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Amethyst Gauntlet"
     },
     "GEMSTONE_CHAMBER": {
         "hotm": 5,
@@ -526,7 +577,8 @@
             "GEMSTONE_MIXTURE": 1
         },
         "coins": 25000,
-        "count": 1
+        "count": 1,
+        "name": "Gemstone Chamber"
     },
     "DWARVEN_HANDWARMERS": {
         "hotm": 8,
@@ -537,7 +589,8 @@
             "FLAWLESS_AMBER_GEM": 1,
             "UMBER_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Dwarven Handwarmers"
     },
     "DWARVEN_METAL": {
         "hotm": 8,
@@ -547,7 +600,8 @@
             "REFINED_UMBER": 4,
             "GLACITE_AMALGAMATION": 4
         },
-        "count": 1
+        "count": 1,
+        "name": "Dwarven Metal Talisman"
     },
     "DIVAN_PENDANT": {
         "hotm": 10,
@@ -557,7 +611,8 @@
             "SHATTERED_PENDANT": 1,
             "PERFECT_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Pendant of Divan"
     },
     "POWER_RELIC": {
         "hotm": 10,
@@ -567,7 +622,8 @@
             "POWER_ARTIFACT": 1,
             "PERFECT_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Relic of Power"
     },
     "DIAMONITE": {
         "hotm": 2,
@@ -575,7 +631,8 @@
         "ingredients": {
             "REFINED_DIAMOND": 3
         },
-        "count": 1
+        "count": 1,
+        "name": "Diamonite"
     },
     "POCKET_ICEBERG": {
         "hotm": 2,
@@ -583,7 +640,8 @@
         "ingredients": {
             "GLACITE_JEWEL": 5
         },
-        "count": 1
+        "count": 1,
+        "name": "Pocket Iceberg"
     },
     "PETRIFIED_STARFALL": {
         "hotm": 3,
@@ -591,7 +649,8 @@
         "ingredients": {
             "STARFALL": 512
         },
-        "count": 1
+        "count": 1,
+        "name": "Petrified Starfall"
     },
     "PURE_MITHRIL": {
         "hotm": 3,
@@ -599,7 +658,8 @@
         "ingredients": {
             "REFINED_MITHRIL": 2
         },
-        "count": 1
+        "count": 1,
+        "name": "Pure Mithril"
     },
     "ROCK_GEMSTONE": {
         "hotm": 3,
@@ -608,7 +668,8 @@
             "ENCHANTED_COBBLESTONE": 128,
             "TREASURITE": 64
         },
-        "count": 1
+        "count": 1,
+        "name": "Dwarven Geode"
     },
     "TITANIUM_TESSERACT": {
         "hotm": 3,
@@ -618,7 +679,8 @@
             "REFINED_TITANIUM": 1,
             "ENCHANTED_LAPIS_LAZULI": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium Tesseract"
     },
     "GLEAMING_CRYSTAL": {
         "hotm": 4,
@@ -628,7 +690,8 @@
             "REFINED_DIAMOND": 2,
             "REFINED_MITHRIL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Gleaming Crystal"
     },
     "HOT_STUFF": {
         "hotm": 4,
@@ -639,7 +702,8 @@
             "FLAWLESS_TOPAZ_GEM": 1,
             "ENCHANTED_HARD_STONE": 128
         },
-        "count": 1
+        "count": 1,
+        "name": "Scorched Topaz"
     },
     "AMBER_MATERIAL": {
         "hotm": 6,
@@ -648,7 +712,8 @@
             "FINE_AMBER_GEM": 12,
             "GOLDEN_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Amber Material"
     },
     "FRIGID_HUSK": {
         "hotm": 7,
@@ -657,7 +722,8 @@
             "GLACITE_AMALGAMATION": 4,
             "FLAWLESS_ONYX_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Frigid Husk"
     },
     "STARFALL_SEASONING": {
         "hotm": 2,
@@ -666,7 +732,8 @@
             "STARFALL": 64,
             "TREASURITE": 16
         },
-        "count": 1
+        "count": 1,
+        "name": "Starfall Seasoning"
     },
     "GOBLIN_OMELETTE": {
         "hotm": 3,
@@ -674,7 +741,8 @@
         "ingredients": {
             "GOBLIN_EGG": 96
         },
-        "count": 1
+        "count": 1,
+        "name": "Goblin Omelette"
     },
     "GOBLIN_OMELETTE_BLUE_CHEESE": {
         "hotm": 5,
@@ -684,7 +752,8 @@
             "FLAWLESS_SAPPHIRE_GEM": 1,
             "GOBLIN_OMELETTE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Blue Cheese Goblin Omelette"
     },
     "GOBLIN_OMELETTE_PESTO": {
         "hotm": 5,
@@ -694,7 +763,8 @@
             "FLAWLESS_JADE_GEM": 1,
             "GOBLIN_OMELETTE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Pesto Goblin Omelette"
     },
     "GOBLIN_OMELETTE_SPICY": {
         "hotm": 4,
@@ -704,7 +774,8 @@
             "FLAWLESS_RUBY_GEM": 1,
             "GOBLIN_OMELETTE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Spicy Goblin Omelette"
     },
     "GOBLIN_OMELETTE_SUNNY_SIDE": {
         "hotm": 5,
@@ -714,7 +785,8 @@
             "FLAWLESS_TOPAZ_GEM": 1,
             "GOBLIN_OMELETTE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Sunny Side Goblin Omelette"
     },
     "TUNGSTEN_KEYCHAIN": {
         "hotm": 8,
@@ -724,7 +796,8 @@
             "TUNGSTEN_PLATE": 5,
             "PERFECT_OPAL_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Tungsten Regulator"
     },
     "MITHRIL_DRILL_ENGINE": {
         "hotm": 3,
@@ -733,7 +806,8 @@
             "DRILL_ENGINE": 2,
             "MITHRIL_PLATE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril-Plated Drill Engine"
     },
     "TITANIUM_DRILL_ENGINE": {
         "hotm": 5,
@@ -743,7 +817,8 @@
             "DRILL_ENGINE": 2,
             "MITHRIL_DRILL_ENGINE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium-Plated Drill Engine"
     },
     "RUBY_POLISHED_DRILL_ENGINE": {
         "hotm": 7,
@@ -754,7 +829,8 @@
             "TITANIUM_DRILL_ENGINE": 1,
             "PERFECT_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Ruby-Polished Drill Engine"
     },
     "SAPPHIRE_POLISHED_DRILL_ENGINE": {
         "hotm": 8,
@@ -766,7 +842,8 @@
             "PERFECT_SAPPHIRE_GEM": 3,
             "RUBY_POLISHED_DRILL_ENGINE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Sapphire-Polished Drill Engine"
     },
     "AMBER_POLISHED_DRILL_ENGINE": {
         "hotm": 8,
@@ -778,7 +855,8 @@
             "DRILL_ENGINE": 5,
             "SAPPHIRE_POLISHED_DRILL_ENGINE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Amber-Polished Drill Engine"
     },
     "MITHRIL_FUEL_TANK": {
         "hotm": 3,
@@ -788,7 +866,8 @@
             "REFINED_MITHRIL": 10,
             "FUEL_TANK": 5
         },
-        "count": 1
+        "count": 1,
+        "name": "Mithril-Infused Fuel Tank"
     },
     "TITANIUM_FUEL_TANK": {
         "hotm": 5,
@@ -799,7 +878,8 @@
             "FUEL_TANK": 5,
             "MITHRIL_FUEL_TANK": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Titanium-Infused Fuel Tank"
     },
     "GEMSTONE_FUEL_TANK": {
         "hotm": 7,
@@ -809,7 +889,8 @@
             "PRECURSOR_APPARATUS": 4,
             "TITANIUM_FUEL_TANK": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Gemstone Fuel Tank"
     },
     "PERFECTLY_CUT_FUEL_TANK": {
         "hotm": 8,
@@ -820,7 +901,8 @@
             "PRECURSOR_APPARATUS": 16,
             "GEMSTONE_FUEL_TANK": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Perfectly-Cut Fuel Tank"
     },
     "PERFECT_AMBER_GEM": {
         "hotm": 5,
@@ -832,7 +914,8 @@
             "FLAWLESS_AMBER_GEM": 5,
             "AMBER_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue015 Perfect Amber Gemstone"
     },
     "PERFECT_AMETHYST_GEM": {
         "hotm": 5,
@@ -844,7 +927,8 @@
             "FLAWLESS_AMETHYST_GEM": 5,
             "AMETHYST_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue008 Perfect Amethyst Gemstone"
     },
     "PERFECT_JADE_GEM": {
         "hotm": 5,
@@ -856,7 +940,8 @@
             "FLAWLESS_JADE_GEM": 5,
             "JADE_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue053 Perfect Jade Gemstone"
     },
     "PERFECT_JASPER_GEM": {
         "hotm": 5,
@@ -868,7 +953,8 @@
             "FLAWLESS_JASPER_GEM": 5,
             "JASPER_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue00d Perfect Jasper Gemstone"
     },
     "PERFECT_OPAL_GEM": {
         "hotm": 5,
@@ -880,7 +966,8 @@
             "FLAWLESS_OPAL_GEM": 5,
             "OPAL_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue027 Perfect Opal Gemstone"
     },
     "PERFECT_RUBY_GEM": {
         "hotm": 5,
@@ -892,7 +979,8 @@
             "FLAWLESS_RUBY_GEM": 5,
             "RUBY_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue010 Perfect Ruby Gemstone"
     },
     "PERFECT_SAPPHIRE_GEM": {
         "hotm": 5,
@@ -904,7 +992,8 @@
             "FLAWLESS_SAPPHIRE_GEM": 5,
             "SAPPHIRE_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue003 Perfect Sapphire Gemstone"
     },
     "PERFECT_TOPAZ_GEM": {
         "hotm": 5,
@@ -916,7 +1005,8 @@
             "FLAWLESS_TOPAZ_GEM": 5,
             "TOPAZ_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue01c Perfect Topaz Gemstone"
     },
     "PERFECT_ONYX_GEM": {
         "hotm": 5,
@@ -928,7 +1018,8 @@
             "FLAWLESS_ONYX_GEM": 5,
             "ONYX_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue007 Perfect Onyx Gemstone"
     },
     "PERFECT_CITRINE_GEM": {
         "hotm": 5,
@@ -940,7 +1031,8 @@
             "FLAWLESS_CITRINE_GEM": 5,
             "CITRINE_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue054 Perfect Citrine Gemstone"
     },
     "PERFECT_AQUAMARINE_GEM": {
         "hotm": 5,
@@ -952,7 +1044,8 @@
             "FLAWLESS_AQUAMARINE_GEM": 5,
             "AQUAMARINE_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue00c Perfect Aquamarine Gemstone"
     },
     "PERFECT_PERIDOT_GEM": {
         "hotm": 5,
@@ -964,7 +1057,8 @@
             "FLAWLESS_PERIDOT_GEM": 5,
             "PERIDOT_CRYSTAL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "\ue051 Perfect Peridot Gemstone"
     },
     "BEJEWELED_COLLAR": {
         "hotm": 2,
@@ -973,60 +1067,60 @@
             "REFINED_MITHRIL": 4,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Bejeweled Collar"
     },
-    "MOLE_PET": {
-        "neu_id": "MOLE;4",
+    "MOLE;4": {
         "hotm": 4,
         "time": 259200,
         "ingredients": {
             "CLAW_FOSSIL": 1
         },
         "coins": 300000,
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Mole"
     },
-    "AMMONITE_PET": {
-        "neu_id": "AMMONITE;4",
+    "AMMONITE;4": {
         "hotm": 4,
         "time": 259200,
         "ingredients": {
             "HELIX": 1
         },
         "coins": 300000,
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Ammonite"
     },
-    "PENGUIN_PET": {
-        "neu_id": "PENGUIN;4",
+    "PENGUIN;4": {
         "hotm": 7,
         "time": 604800,
         "ingredients": {
             "WEBBED_FOSSIL": 1,
             "FLAWLESS_AQUAMARINE_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Penguin"
     },
-    "TREX_PET": {
-        "neu_id": "TYRANNOSAURUS;4",
+    "TYRANNOSAURUS;4": {
         "hotm": 7,
         "time": 604800,
         "ingredients": {
             "FOOTPRINT_FOSSIL": 1,
             "FLAWLESS_ONYX_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] T-Rex"
     },
-    "SPINOSAURUS_PET": {
-        "neu_id": "SPINOSAURUS;4",
+    "SPINOSAURUS;4": {
         "hotm": 7,
         "time": 604800,
         "ingredients": {
             "SPINE_FOSSIL": 1,
             "FLAWLESS_AQUAMARINE_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Spinosaurus"
     },
-    "GOBLIN_PET": {
-        "neu_id": "GOBLIN;4",
+    "GOBLIN;4": {
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1035,10 +1129,10 @@
             "FLAWLESS_AMBER_GEM": 1,
             "UGLY_FOSSIL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Goblin"
     },
-    "ANKYLOSAURUS_PET": {
-        "neu_id": "ANKYLOSAURUS;4",
+    "ANKYLOSAURUS;4": {
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1047,17 +1141,18 @@
             "FLAWLESS_OPAL_GEM": 1,
             "CLUBBED_FOSSIL": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Ankylosaurus"
     },
-    "MAMMOTH_PET": {
-        "neu_id": "MAMMOTH;4",
+    "MAMMOTH;4": {
         "hotm": 7,
         "time": 604800,
         "ingredients": {
             "TUSK_FOSSIL": 1,
             "FLAWLESS_ONYX_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "[Lvl {LVL}] Mammoth"
     },
     "BEACON_2": {
         "hotm": 2,
@@ -1066,7 +1161,8 @@
             "BEACON_1": 1,
             "REFINED_MITHRIL": 5
         },
-        "count": 1
+        "count": 1,
+        "name": "Beacon II"
     },
     "BEACON_3": {
         "hotm": 3,
@@ -1075,7 +1171,8 @@
             "BEACON_2": 1,
             "REFINED_MITHRIL": 10
         },
-        "count": 1
+        "count": 1,
+        "name": "Beacon III"
     },
     "BEACON_4": {
         "hotm": 4,
@@ -1085,7 +1182,8 @@
             "REFINED_MITHRIL": 20,
             "PLASMA": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Beacon IV"
     },
     "BEACON_5": {
         "hotm": 5,
@@ -1095,7 +1193,8 @@
             "REFINED_MITHRIL": 40,
             "PLASMA": 5
         },
-        "count": 1
+        "count": 1,
+        "name": "Beacon V"
     },
     "FORGE_TRAVEL_SCROLL": {
         "hotm": 2,
@@ -1108,7 +1207,8 @@
             "TITANIUM_ORE": 80
         },
         "coins": 25000,
-        "count": 1
+        "count": 1,
+        "name": "Travel Scroll to the Dwarven Forge"
     },
     "BASE_CAMP_TRAVEL_SCROLL": {
         "hotm": 7,
@@ -1118,7 +1218,8 @@
             "FLAWLESS_ONYX_GEM": 1
         },
         "coins": 500000,
-        "count": 1
+        "count": 1,
+        "name": "Travel Scroll to the Dwarven Base Camp"
     },
     "SECRET_RAILROAD_PASS": {
         "hotm": 7,
@@ -1128,7 +1229,8 @@
             "REFINED_MITHRIL": 2,
             "FLAWLESS_RUBY_GEM": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Secret Railroad Pass"
     },
     "POWER_CRYSTAL": {
         "hotm": 2,
@@ -1136,7 +1238,8 @@
         "ingredients": {
             "STARFALL": 256
         },
-        "count": 1
+        "count": 1,
+        "name": "Power Crystal"
     },
     "MITHRIL_LANTERN": {
         "hotm": 2,
@@ -1146,7 +1249,8 @@
             "LANTERN": 1,
             "REFINED_MITHRIL": 1,
             "ENCHANTED_EMERALD": 16
-        }
+        },
+        "name": "Mithril Lantern"
     },
     "TITANIUM_LANTERN": {
         "hotm": 5,
@@ -1156,7 +1260,8 @@
             "MITHRIL_LANTERN": 1,
             "REFINED_TITANIUM": 2,
             "ENCHANTED_EMERALD_BLOCK": 1
-        }
+        },
+        "name": "Titanium Lantern"
     },
     "GLACITE_LANTERN": {
         "hotm": 8,
@@ -1166,7 +1271,8 @@
             "TITANIUM_LANTERN": 1,
             "GLACITE_AMALGAMATION": 4,
             "ENCHANTED_EMERALD_BLOCK": 2
-        }
+        },
+        "name": "Glacite Lantern"
     },
     "WILL_O_WISP": {
         "hotm": 10,
@@ -1178,7 +1284,8 @@
             "PERFECT_PLATE": 1,
             "EVERBURNING_FLAME": 1,
             "ENCHANTED_EMERALD_BLOCK": 8
-        }
+        },
+        "name": "Will-o'-wisp"
     },
     "TUNGSTEN_KEY": {
         "hotm": 7,
@@ -1190,7 +1297,8 @@
             "ENCHANTED_TUNGSTEN": 192,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Tungsten Key"
     },
     "UMBER_KEY": {
         "hotm": 7,
@@ -1202,7 +1310,8 @@
             "ENCHANTED_UMBER": 192,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Umber Key"
     },
     "SKELETON_KEY": {
         "hotm": 10,
@@ -1211,7 +1320,8 @@
             "PERFECT_PLATE": 1,
             "BEJEWELED_HANDLE": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Skeleton Key"
     },
     "PORTABLE_CAMPFIRE": {
         "hotm": 8,
@@ -1220,6 +1330,7 @@
             "MATCH_STICKS": 16,
             "REFINED_UMBER": 1
         },
-        "count": 1
+        "count": 1,
+        "name": "Portable Campfire"
     }
 }
