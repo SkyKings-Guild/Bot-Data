@@ -1071,6 +1071,7 @@
         "name": "Bejeweled Collar"
     },
     "MOLE;4": {
+        "price_key": "LVL_1_LEGENDARY_MOLE",
         "hotm": 4,
         "time": 259200,
         "ingredients": {
@@ -1078,9 +1079,10 @@
         },
         "coins": 300000,
         "count": 1,
-        "name": "[Lvl {LVL}] Mole"
+        "name": "[Lvl 1] Mole"
     },
     "AMMONITE;4": {
+        "price_key": "LVL_1_LEGENDARY_AMMONITE",
         "hotm": 4,
         "time": 259200,
         "ingredients": {
@@ -1088,9 +1090,10 @@
         },
         "coins": 300000,
         "count": 1,
-        "name": "[Lvl {LVL}] Ammonite"
+        "name": "[Lvl 1] Ammonite"
     },
     "PENGUIN;4": {
+        "price_key": "LVL_1_LEGENDARY_PENGUIN",
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1098,9 +1101,10 @@
             "FLAWLESS_AQUAMARINE_GEM": 1
         },
         "count": 1,
-        "name": "[Lvl {LVL}] Penguin"
+        "name": "[Lvl 1] Penguin"
     },
     "TYRANNOSAURUS;4": {
+        "price_key": "LVL_1_LEGENDARY_TYRANNOSAURUS",
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1108,9 +1112,10 @@
             "FLAWLESS_ONYX_GEM": 1
         },
         "count": 1,
-        "name": "[Lvl {LVL}] T-Rex"
+        "name": "[Lvl 1] T-Rex"
     },
     "SPINOSAURUS;4": {
+        "price_key": "LVL_1_LEGENDARY_SPINOSAURUS",
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1118,9 +1123,10 @@
             "FLAWLESS_AQUAMARINE_GEM": 1
         },
         "count": 1,
-        "name": "[Lvl {LVL}] Spinosaurus"
+        "name": "[Lvl 1] Spinosaurus"
     },
     "GOBLIN;4": {
+        "price_key": "LVL_1_LEGENDARY_GOBLIN",
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1130,9 +1136,10 @@
             "UGLY_FOSSIL": 1
         },
         "count": 1,
-        "name": "[Lvl {LVL}] Goblin"
+        "name": "[Lvl 1] Goblin"
     },
     "ANKYLOSAURUS;4": {
+        "price_key": "LVL_1_LEGENDARY_ANKYLOSAURUS",
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1142,9 +1149,10 @@
             "CLUBBED_FOSSIL": 1
         },
         "count": 1,
-        "name": "[Lvl {LVL}] Ankylosaurus"
+        "name": "[Lvl 1] Ankylosaurus"
     },
     "MAMMOTH;4": {
+        "price_key": "LVL_1_LEGENDARY_MAMMOTH",
         "hotm": 7,
         "time": 604800,
         "ingredients": {
@@ -1152,7 +1160,7 @@
             "FLAWLESS_ONYX_GEM": 1
         },
         "count": 1,
-        "name": "[Lvl {LVL}] Mammoth"
+        "name": "[Lvl 1] Mammoth"
     },
     "BEACON_2": {
         "hotm": 2,

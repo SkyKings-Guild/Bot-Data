@@ -147,7 +147,7 @@ def update_forge():
         recipe = recipe[0]
         data[item]["time"] = recipe["duration"]
         data[item]["count"] = int(recipe["count"])
-        data[item]["name"] = remove_mc_fmt(item_data["displayname"])
+        data[item]["name"] = remove_mc_fmt(item_data["displayname"]).replace("{LVL}", "1")
         if "ingredients" not in data[item]:
             data[item]["ingredients"] = {}
         for finput in recipe.get("inputs", []):
