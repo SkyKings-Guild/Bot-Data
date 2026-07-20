@@ -65,6 +65,24 @@ def update_accessories():
                         accessories[item_id]["upgrade"] = accessoryinfo[
                             "internalname"
                         ].lower()
+            if "recipes" in accessoryinfo:
+                for recipe in accessoryinfo["recipes"]:
+                    if recipe["type"] == "forge":
+                        for resource in recipe["inputs"]:
+                            item_id = resource.split(":")[0].lower()
+                            if item_id in accessories:
+                                accessories[item_id]["upgrade"] = accessoryinfo[
+                                    "internalname"
+                                ].lower()
+                                break
+                    elif recipe["type"] == "crafting":
+                        item = recipe.get("B2", None)
+                        if item:
+                            item_id = item.split(":")[0].lower()
+                            if item_id in accessories:
+                                accessories[item_id]["upgrade"] = accessoryinfo[
+                                    "internalname"
+                                ].lower()
     # manually update parents if we missed anything
     parents_resp = requests.get(f"{BASE_URI}/constants/parents.json")
     if parents_resp.ok:

@@ -33,7 +33,7 @@
     },
     "speed_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "speed_relic"
     },
     "feather_talisman": {
         "rarity": "common",
@@ -109,11 +109,11 @@
     },
     "night_crystal": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "moonlight_crystal"
     },
     "day_crystal": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "sunshine_crystal"
     },
     "gravity_talisman": {
         "rarity": "uncommon",
@@ -269,7 +269,7 @@
     },
     "potato_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": "potato_ring"
     },
     "spider_talisman": {
         "rarity": "uncommon",
@@ -297,7 +297,7 @@
     },
     "tarantula_talisman": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": "tarantula_ring"
     },
     "lucky_hoof": {
         "rarity": "uncommon",
@@ -381,7 +381,7 @@
     },
     "blood_god_crest": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": "blood_god_sigil"
     },
     "candy_talisman": {
         "rarity": "uncommon",
@@ -811,7 +811,7 @@
     "party_hat_crab_animated": {
         "name": "Crab Hat of Celebration - 2022 Edition",
         "rarity": "special",
-        "upgrade": null
+        "upgrade": "party_hat_crab"
     },
     "mineral_talisman": {
         "rarity": "rare",
@@ -920,7 +920,7 @@
     },
     "power_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "power_relic"
     },
     "nether_artifact": {
         "rarity": "epic",
@@ -952,7 +952,7 @@
     },
     "fermento_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "helianthus_relic"
     },
     "jake_plushie": {
         "rarity": "uncommon",
@@ -1216,7 +1216,7 @@
     },
     "century_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": "century_artifact"
     },
     "magic_8_ball": {
         "rarity": "epic",
@@ -1288,7 +1288,7 @@
     },
     "gratitude_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": "gratitude_ring"
     },
     "freshly_baked_ring": {
         "rarity": "uncommon",
@@ -1296,7 +1296,7 @@
     },
     "gratitude_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": "gratitude_artifact"
     },
     "freshly_baked_talisman": {
         "rarity": "common",
@@ -1304,7 +1304,7 @@
     },
     "anguish_ring": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": "anguish_artifact"
     },
     "anguish_artifact": {
         "rarity": "legendary",
@@ -1312,7 +1312,7 @@
     },
     "anguish_talisman": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "anguish_ring"
     },
     "pesthunter_relic": {
         "rarity": "legendary",
@@ -1631,7 +1631,7 @@
     },
     "respiration_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": "respiration_artifact"
     },
     "respiration_talisman": {
         "rarity": "common",
@@ -1643,11 +1643,11 @@
     },
     "kuudras_lung": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": "kuudras_heart"
     },
     "kuudras_kidney": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": "kuudras_lung"
     },
     "century_artifact": {
         "rarity": "rare",
