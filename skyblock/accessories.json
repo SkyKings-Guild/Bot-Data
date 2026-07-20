@@ -862,6 +862,7 @@
         "upgrade": null
     },
     "hegemony_artifact": {
+        "mp_multiplier": 2,
         "rarity": "legendary",
         "upgrade": null
     },
@@ -1474,30 +1475,37 @@
         "upgrade": null
     },
     "crux_talisman_7": {
+        "rift": true,
         "rarity": "supreme",
         "upgrade": null
     },
     "crux_talisman_4": {
+        "rift": true,
         "rarity": "epic",
         "upgrade": "crux_talisman_5"
     },
     "crux_talisman_3": {
+        "rift": true,
         "rarity": "rare",
         "upgrade": "crux_talisman_4"
     },
     "crux_talisman_2": {
+        "rift": true,
         "rarity": "uncommon",
         "upgrade": "crux_talisman_3"
     },
     "crux_talisman_5": {
+        "rift": true,
         "rarity": "legendary",
         "upgrade": "crux_talisman_6"
     },
     "crux_talisman_1": {
+        "rift": true,
         "rarity": "common",
         "upgrade": "crux_talisman_2"
     },
     "crux_talisman_6": {
+        "rift": true,
         "rarity": "mythic",
         "upgrade": "crux_talisman_7"
     },
