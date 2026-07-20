@@ -811,7 +811,7 @@
     "party_hat_crab_animated": {
         "name": "Crab Hat of Celebration - 2022 Edition",
         "rarity": "special",
-        "upgrade": "party_hat_crab"
+        "upgrade": null
     },
     "mineral_talisman": {
         "rarity": "rare",
