@@ -35,9 +35,11 @@ def update_accessories():
                 accessories[item["id"].lower()] = {
                     "rarity": tier,
                     "upgrade": None,
+                    "name": item["name"],
                 }
             else:
                 accessories[item["id"].lower()]["rarity"] = tier
+                accessories[item["id"].lower()]["name"] = item["name"]
     for i, item in enumerate(accessories):
         if (levelstr := item.split("_")[-1]).isnumeric():
             level = int(levelstr)
