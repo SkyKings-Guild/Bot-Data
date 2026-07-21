@@ -21,6 +21,7 @@ def update_reforges():
 class AccessoryData(TypedDict):
     rarity: str
     upgrade: str | None
+    name: str
 
 
 def update_accessories():
@@ -29,7 +30,9 @@ def update_accessories():
         accessories: dict[str, AccessoryData] = json.load(f)
     for item in data["items"]:
         if item.get("category", "") == "ACCESSORY":
-            tier = item.get("tier", "COMMON").lower()
+            tier: str = item.get("tier", "COMMON").lower()
+            if tier == "SUPREME":
+                tier = "DIVINE"
             if item["id"].lower() not in accessories:
                 print(f"Adding accessory {item['id']} with rarity {tier}")
                 accessories[item["id"].lower()] = {
@@ -133,7 +136,11 @@ def update_bestiary():
                         "name": remove_mc_fmt(mob["name"]),
                         "cap": mob["cap"],
                         "bracket": mob["bracket"],
-                        "max_tier": sum(1 for cap in brackets.get(str(mob["bracket"]), {}) if cap <= mob["cap"]),
+                        "max_tier": sum(
+                            1
+                            for cap in brackets.get(str(mob["bracket"]), {})
+                            if cap <= mob["cap"]
+                        ),
                         "mob_ids": mob["mobs"],
                     }
         else:
@@ -143,7 +150,11 @@ def update_bestiary():
                     "name": remove_mc_fmt(mob["name"]),
                     "cap": mob["cap"],
                     "bracket": mob["bracket"],
-                    "max_tier": sum(1 for cap in brackets.get(str(mob["bracket"]), {}) if cap <= mob["cap"]),
+                    "max_tier": sum(
+                        1
+                        for cap in brackets.get(str(mob["bracket"]), {})
+                        if cap <= mob["cap"]
+                    ),
                     "mob_ids": mob["mobs"],
                 }
     with open("skyblock/bestiary.json", "w") as f:
@@ -167,7 +178,9 @@ def update_forge():
         recipe = recipe[0]
         data[item]["time"] = recipe["duration"]
         data[item]["count"] = int(recipe["count"])
-        data[item]["name"] = remove_mc_fmt(item_data["displayname"]).replace("{LVL}", "1")
+        data[item]["name"] = remove_mc_fmt(item_data["displayname"]).replace(
+            "{LVL}", "1"
+        )
         if "ingredients" not in data[item]:
             data[item]["ingredients"] = {}
         for finput in recipe.get("inputs", []):
