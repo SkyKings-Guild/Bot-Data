@@ -1,435 +1,543 @@
 {
     "farming_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Farming Talisman"
     },
     "vaccine_talisman": {
         "rarity": "common",
-        "upgrade": "vaccine_ring"
+        "upgrade": "vaccine_ring",
+        "name": "Vaccine Talisman"
     },
     "vaccine_ring": {
         "rarity": "uncommon",
-        "upgrade": "vaccine_artifact"
+        "upgrade": "vaccine_artifact",
+        "name": "Vaccine Ring"
     },
     "vaccine_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Vaccine Artifact"
     },
     "farmer_orb": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Farmer Orb"
     },
     "night_vision_charm": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Night Vision Charm"
     },
     "speed_talisman": {
         "rarity": "common",
-        "upgrade": "speed_ring"
+        "upgrade": "speed_ring",
+        "name": "Speed Talisman"
     },
     "speed_ring": {
         "rarity": "uncommon",
-        "upgrade": "speed_artifact"
+        "upgrade": "speed_artifact",
+        "name": "Speed Ring"
     },
     "speed_artifact": {
         "rarity": "rare",
-        "upgrade": "speed_relic"
+        "upgrade": "speed_relic",
+        "name": "Speed Artifact"
     },
     "feather_talisman": {
         "rarity": "common",
-        "upgrade": "feather_ring"
+        "upgrade": "feather_ring",
+        "name": "Feather Talisman"
     },
     "feather_ring": {
         "rarity": "uncommon",
-        "upgrade": "feather_artifact"
+        "upgrade": "feather_artifact",
+        "name": "Feather Ring"
     },
     "feather_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Feather Artifact"
     },
     "piggy_bank": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Piggy Bank"
     },
     "cracked_piggy_bank": {
         "rarity": "uncommon",
-        "upgrade": "piggy_bank"
+        "upgrade": "piggy_bank",
+        "name": "Cracked Piggy Bank"
     },
     "broken_piggy_bank": {
         "rarity": "uncommon",
-        "upgrade": "piggy_bank"
+        "upgrade": "piggy_bank",
+        "name": "Broken Piggy Bank"
     },
     "potion_affinity_talisman": {
         "rarity": "common",
-        "upgrade": "ring_potion_affinity"
+        "upgrade": "ring_potion_affinity",
+        "name": "Potion Affinity Talisman"
     },
     "ring_potion_affinity": {
         "rarity": "uncommon",
-        "upgrade": "artifact_potion_affinity"
+        "upgrade": "artifact_potion_affinity",
+        "name": "Potion Affinity Ring"
     },
     "artifact_potion_affinity": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Potion Affinity Artifact"
     },
     "haste_ring": {
         "rarity": "rare",
-        "upgrade": "haste_artifact"
+        "upgrade": "haste_artifact",
+        "name": "Haste Ring"
     },
     "experience_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Experience Artifact"
     },
     "coin_talisman": {
         "rarity": "common",
-        "upgrade": "ring_of_coins"
+        "upgrade": "ring_of_coins",
+        "name": "Talisman of Coins"
     },
     "ring_of_coins": {
         "rarity": "uncommon",
-        "upgrade": "artifact_of_coins"
+        "upgrade": "artifact_of_coins",
+        "name": "Ring of Coins"
     },
     "artifact_of_coins": {
         "rarity": "rare",
-        "upgrade": "relic_of_coins"
+        "upgrade": "relic_of_coins",
+        "name": "Artifact of Coins"
     },
     "relic_of_coins": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Relic of Coins"
     },
     "magnetic_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Magnetic Talisman"
     },
     "emerald_ring": {
         "rarity": "uncommon",
-        "upgrade": "emerald_artifact"
+        "upgrade": "emerald_artifact",
+        "name": "Emerald Ring"
     },
     "emerald_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Emerald Artifact"
     },
     "night_crystal": {
         "rarity": "rare",
-        "upgrade": "moonlight_crystal"
+        "upgrade": "moonlight_crystal",
+        "name": "Night Crystal"
     },
     "day_crystal": {
         "rarity": "rare",
-        "upgrade": "sunshine_crystal"
+        "upgrade": "sunshine_crystal",
+        "name": "Day Crystal"
     },
     "gravity_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Gravity Talisman"
     },
     "fire_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Fire Talisman"
     },
     "lava_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Lava Talisman"
     },
     "healing_talisman": {
         "rarity": "common",
-        "upgrade": "healing_ring"
+        "upgrade": "healing_ring",
+        "name": "Healing Talisman"
     },
     "healing_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Healing Ring"
     },
     "bait_ring": {
         "rarity": "rare",
-        "upgrade": "spiked_atrocity"
+        "upgrade": "spiked_atrocity",
+        "name": "Bait Ring"
     },
     "spiked_atrocity": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Spiked Atrocity"
     },
     "sea_creature_talisman": {
         "rarity": "common",
-        "upgrade": "sea_creature_ring"
+        "upgrade": "sea_creature_ring",
+        "name": "Sea Creature Talisman"
     },
     "sea_creature_ring": {
         "rarity": "uncommon",
-        "upgrade": "sea_creature_artifact"
+        "upgrade": "sea_creature_artifact",
+        "name": "Sea Creature Ring"
     },
     "sea_creature_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Sea Creature Artifact"
     },
     "personal_compactor_4000": {
         "rarity": "uncommon",
-        "upgrade": "personal_compactor_5000"
+        "upgrade": "personal_compactor_5000",
+        "name": "Personal Compactor 4000"
     },
     "personal_compactor_5000": {
         "rarity": "rare",
-        "upgrade": "personal_compactor_6000"
+        "upgrade": "personal_compactor_6000",
+        "name": "Personal Compactor 5000"
     },
     "personal_compactor_6000": {
         "rarity": "epic",
-        "upgrade": "personal_compactor_7000"
+        "upgrade": "personal_compactor_7000",
+        "name": "Personal Compactor 6000"
     },
     "personal_compactor_7000": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Personal Compactor 7000"
     },
     "personal_deletor_4000": {
         "rarity": "uncommon",
-        "upgrade": "personal_deletor_5000"
+        "upgrade": "personal_deletor_5000",
+        "name": "Personal Deletor 4000"
     },
     "personal_deletor_5000": {
         "rarity": "rare",
-        "upgrade": "personal_deletor_6000"
+        "upgrade": "personal_deletor_6000",
+        "name": "Personal Deletor 5000"
     },
     "personal_deletor_6000": {
         "rarity": "epic",
-        "upgrade": "personal_deletor_7000"
+        "upgrade": "personal_deletor_7000",
+        "name": "Personal Deletor 6000"
     },
     "personal_deletor_7000": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Personal Deletor 7000"
     },
     "scarf_studies": {
         "rarity": "rare",
-        "upgrade": "scarf_thesis"
+        "upgrade": "scarf_thesis",
+        "name": "Scarf's Studies"
     },
     "scarf_thesis": {
         "rarity": "epic",
-        "upgrade": "scarf_grimoire"
+        "upgrade": "scarf_grimoire",
+        "name": "Scarf's Thesis"
     },
     "scarf_grimoire": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Scarf's Grimoire"
     },
     "treasure_talisman": {
         "rarity": "rare",
-        "upgrade": "treasure_ring"
+        "upgrade": "treasure_ring",
+        "name": "Treasure Talisman"
     },
     "treasure_ring": {
         "rarity": "epic",
-        "upgrade": "treasure_artifact"
+        "upgrade": "treasure_artifact",
+        "name": "Treasure Ring"
     },
     "treasure_artifact": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Treasure Artifact"
     },
     "auto_recombobulator": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Auto Recombobulator"
     },
     "catacombs_expert_ring": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Catacombs Expert Ring"
     },
     "wither_artifact": {
         "rarity": "epic",
-        "upgrade": "wither_relic"
+        "upgrade": "wither_relic",
+        "name": "Wither Artifact"
     },
     "wither_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Wither Relic"
     },
     "master_skull_tier_1": {
         "rarity": "common",
-        "upgrade": "master_skull_tier_2"
+        "upgrade": "master_skull_tier_2",
+        "name": "Master Skull - Tier 1"
     },
     "master_skull_tier_2": {
         "rarity": "common",
-        "upgrade": "master_skull_tier_3"
+        "upgrade": "master_skull_tier_3",
+        "name": "Master Skull - Tier 2"
     },
     "master_skull_tier_3": {
         "rarity": "uncommon",
-        "upgrade": "master_skull_tier_4"
+        "upgrade": "master_skull_tier_4",
+        "name": "Master Skull - Tier 3"
     },
     "master_skull_tier_4": {
         "rarity": "uncommon",
-        "upgrade": "master_skull_tier_5"
+        "upgrade": "master_skull_tier_5",
+        "name": "Master Skull - Tier 4"
     },
     "master_skull_tier_5": {
         "rarity": "rare",
-        "upgrade": "master_skull_tier_6"
+        "upgrade": "master_skull_tier_6",
+        "name": "Master Skull - Tier 5"
     },
     "master_skull_tier_6": {
         "rarity": "epic",
-        "upgrade": "master_skull_tier_7"
+        "upgrade": "master_skull_tier_7",
+        "name": "Master Skull - Tier 6"
     },
     "master_skull_tier_7": {
         "rarity": "legendary",
-        "upgrade": "master_skull_tier_8"
+        "upgrade": "master_skull_tier_8",
+        "name": "Master Skull - Tier 7"
     },
     "bat_talisman": {
         "rarity": "rare",
-        "upgrade": "bat_ring"
+        "upgrade": "bat_ring",
+        "name": "Bat Talisman"
     },
     "bat_ring": {
         "rarity": "epic",
-        "upgrade": "bat_artifact"
+        "upgrade": "bat_artifact",
+        "name": "Bat Ring"
     },
     "bat_artifact": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bat Artifact"
     },
     "potato_talisman": {
         "rarity": "common",
-        "upgrade": "potato_ring"
+        "upgrade": "potato_ring",
+        "name": "Potato Talisman"
     },
     "spider_talisman": {
         "rarity": "uncommon",
-        "upgrade": "spider_ring"
+        "upgrade": "spider_ring",
+        "name": "Spider Talisman"
     },
     "spider_ring": {
         "rarity": "rare",
-        "upgrade": "spider_artifact"
+        "upgrade": "spider_artifact",
+        "name": "Spider Ring"
     },
     "spider_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Spider Artifact"
     },
     "fish_affinity_talisman": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Fish Affinity Talisman"
     },
     "wolf_talisman": {
         "rarity": "uncommon",
-        "upgrade": "wolf_ring"
+        "upgrade": "wolf_ring",
+        "name": "Wolf Talisman"
     },
     "wolf_ring": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Wolf Ring"
     },
     "tarantula_talisman": {
         "rarity": "epic",
-        "upgrade": "tarantula_ring"
+        "upgrade": "tarantula_ring",
+        "name": "Tarantula Talisman"
     },
     "lucky_hoof": {
         "rarity": "uncommon",
-        "upgrade": "eternal_hoof"
+        "upgrade": "eternal_hoof",
+        "name": "Lucky Hoof"
     },
     "eternal_hoof": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Eternal Hoof"
     },
     "pocket_espresso_machine": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pocket Espresso Machine"
     },
     "handy_blood_chalice": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Handy Blood Chalice"
     },
     "netherrack_looking_sunshade": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Netherrack-Looking Sunshade"
     },
     "zombie_talisman": {
         "rarity": "common",
-        "upgrade": "zombie_ring"
+        "upgrade": "zombie_ring",
+        "name": "Zombie Talisman"
     },
     "zombie_ring": {
         "rarity": "uncommon",
-        "upgrade": "zombie_artifact"
+        "upgrade": "zombie_artifact",
+        "name": "Zombie Ring"
     },
     "zombie_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Zombie Artifact"
     },
     "skeleton_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Skeleton Talisman"
     },
     "village_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Village Affinity Talisman"
     },
     "mine_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Mine Affinity Talisman"
     },
     "intimidation_talisman": {
         "rarity": "common",
-        "upgrade": "intimidation_ring"
+        "upgrade": "intimidation_ring",
+        "name": "Intimidation Talisman"
     },
     "intimidation_ring": {
         "rarity": "uncommon",
-        "upgrade": "intimidation_artifact"
+        "upgrade": "intimidation_artifact",
+        "name": "Intimidation Ring"
     },
     "intimidation_artifact": {
         "rarity": "rare",
-        "upgrade": "intimidation_relic"
+        "upgrade": "intimidation_relic",
+        "name": "Intimidation Artifact"
     },
     "intimidation_relic": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Intimidation Relic"
     },
     "scavenger_talisman": {
         "rarity": "common",
-        "upgrade": "scavenger_ring"
+        "upgrade": "scavenger_ring",
+        "name": "Scavenger Talisman"
     },
     "scavenger_ring": {
         "rarity": "uncommon",
-        "upgrade": "scavenger_artifact"
+        "upgrade": "scavenger_artifact",
+        "name": "Scavenger Ring"
     },
     "scavenger_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Scavenger Artifact"
     },
     "bits_talisman": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bits Talisman"
     },
     "dante_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Dante's Talisman"
     },
     "blood_god_crest": {
         "rarity": "common",
-        "upgrade": "blood_god_sigil"
+        "upgrade": "blood_god_sigil",
+        "name": "Blood God Crest"
     },
     "candy_talisman": {
         "rarity": "uncommon",
-        "upgrade": "candy_ring"
+        "upgrade": "candy_ring",
+        "name": "Candy Talisman"
     },
     "candy_ring": {
         "rarity": "rare",
-        "upgrade": "candy_artifact"
+        "upgrade": "candy_artifact",
+        "name": "Candy Ring"
     },
     "candy_artifact": {
         "rarity": "epic",
-        "upgrade": "candy_relic"
+        "upgrade": "candy_relic",
+        "name": "Candy Artifact"
     },
     "candy_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Candy Relic"
     },
     "jungle_amulet": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Jungle Amulet"
     },
     "white_gift_talisman": {
         "rarity": "common",
-        "upgrade": "green_gift_talisman"
+        "upgrade": "green_gift_talisman",
+        "name": "White Gift Talisman"
     },
     "green_gift_talisman": {
         "rarity": "uncommon",
-        "upgrade": "blue_gift_talisman"
+        "upgrade": "blue_gift_talisman",
+        "name": "Green Gift Talisman"
     },
     "blue_gift_talisman": {
         "rarity": "rare",
-        "upgrade": "purple_gift_talisman"
+        "upgrade": "purple_gift_talisman",
+        "name": "Blue Gift Talisman"
     },
     "purple_gift_talisman": {
         "rarity": "epic",
-        "upgrade": "gold_gift_talisman"
+        "upgrade": "gold_gift_talisman",
+        "name": "Purple Gift Talisman"
     },
     "gold_gift_talisman": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Gold Gift Talisman"
     },
     "trapper_crest": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Trapper Crest"
     },
     "new_year_cake_bag": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "New Year Cake Bag"
     },
     "kuudra_follower_artifact": {
         "name": "Kuudra Follower Artifact",
@@ -438,375 +546,468 @@
     },
     "bingo_talisman": {
         "rarity": "common",
-        "upgrade": "bingo_ring"
+        "upgrade": "bingo_ring",
+        "name": "Bingo Talisman"
     },
     "bingo_ring": {
         "rarity": "uncommon",
-        "upgrade": "bingo_artifact"
+        "upgrade": "bingo_artifact",
+        "name": "Bingo Ring"
     },
     "bingo_artifact": {
         "rarity": "rare",
-        "upgrade": "bingo_relic"
+        "upgrade": "bingo_relic",
+        "name": "Bingo Artifact"
     },
     "bingo_relic": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bingo Relic"
     },
     "jacobus_register": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Jacobus Register"
     },
     "chumming_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Chumming Talisman"
     },
     "great_spook_talisman": {
         "rarity": "common",
-        "upgrade": "great_spook_ring"
+        "upgrade": "great_spook_ring",
+        "name": "Great Spook Talisman"
     },
     "great_spook_ring": {
         "rarity": "uncommon",
-        "upgrade": "great_spook_artifact"
+        "upgrade": "great_spook_artifact",
+        "name": "Great Spook Ring"
     },
     "great_spook_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Great Spook Artifact"
     },
     "pigs_foot": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pig's Foot"
     },
     "wolf_paw": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Wolf Paw"
     },
     "frozen_chicken": {
         "rarity": "rare",
-        "upgrade": "fried_frozen_chicken"
+        "upgrade": "fried_frozen_chicken",
+        "name": "Frozen Chicken"
     },
     "fried_frozen_chicken": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Fried Frozen Chicken"
     },
     "melody_hair": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Melody's Hair"
     },
     "cat_talisman": {
         "rarity": "uncommon",
-        "upgrade": "lynx_talisman"
+        "upgrade": "lynx_talisman",
+        "name": "Cat Talisman"
     },
     "lynx_talisman": {
         "rarity": "rare",
-        "upgrade": "cheetah_talisman"
+        "upgrade": "cheetah_talisman",
+        "name": "Lynx Talisman"
     },
     "cheetah_talisman": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Cheetah Talisman"
     },
     "odgers_bronze_tooth": {
         "rarity": "common",
-        "upgrade": "odgers_silver_tooth"
+        "upgrade": "odgers_silver_tooth",
+        "name": "Odger's Bronze Tooth"
     },
     "odgers_silver_tooth": {
         "rarity": "uncommon",
-        "upgrade": "odgers_gold_tooth"
+        "upgrade": "odgers_gold_tooth",
+        "name": "Odger's Silver Tooth"
     },
     "odgers_gold_tooth": {
         "rarity": "rare",
-        "upgrade": "odgers_diamond_tooth"
+        "upgrade": "odgers_diamond_tooth",
+        "name": "Odger's Gold Tooth"
     },
     "odgers_diamond_tooth": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Odger's Diamond Tooth"
     },
     "archaeologist_compass": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Archaeologist's Compass"
     },
     "king_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "King Talisman"
     },
     "shady_ring": {
         "rarity": "uncommon",
-        "upgrade": "crooked_artifact"
+        "upgrade": "crooked_artifact",
+        "name": "Shady Ring"
     },
     "crooked_artifact": {
         "rarity": "rare",
-        "upgrade": "seal_of_the_family"
+        "upgrade": "seal_of_the_family",
+        "name": "Crooked Artifact"
     },
     "seal_of_the_family": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Seal of the Family"
     },
     "devour_ring": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Devour Ring"
     },
     "reaper_orb": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Reaper Orb"
     },
     "survivor_cube": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Survivor Cube"
     },
     "red_claw_talisman": {
         "rarity": "uncommon",
-        "upgrade": "red_claw_ring"
+        "upgrade": "red_claw_ring",
+        "name": "Red Claw Talisman"
     },
     "red_claw_ring": {
         "rarity": "rare",
-        "upgrade": "red_claw_artifact"
+        "upgrade": "red_claw_artifact",
+        "name": "Red Claw Ring"
     },
     "red_claw_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Red Claw Artifact"
     },
     "hunter_talisman": {
         "rarity": "uncommon",
-        "upgrade": "hunter_ring"
+        "upgrade": "hunter_ring",
+        "name": "Hunter Talisman"
     },
     "hunter_ring": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Hunter Ring"
     },
     "soulflow_pile": {
         "rarity": "uncommon",
-        "upgrade": "soulflow_battery"
+        "upgrade": "soulflow_battery",
+        "name": "Soulflow Pile"
     },
     "soulflow_battery": {
         "rarity": "rare",
-        "upgrade": "soulflow_supercell"
+        "upgrade": "soulflow_supercell",
+        "name": "Soulflow Battery"
     },
     "soulflow_supercell": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Soulflow Supercell"
     },
     "ender_artifact": {
         "rarity": "epic",
-        "upgrade": "ender_relic"
+        "upgrade": "ender_relic",
+        "name": "Ender Artifact"
     },
     "ender_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Ender Relic"
     },
     "burststopper_talisman": {
         "rarity": "rare",
-        "upgrade": "burststopper_artifact"
+        "upgrade": "burststopper_artifact",
+        "name": "Burststopper Talisman"
     },
     "burststopper_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Burststopper Artifact"
     },
     "burning_kuudra_core": {
         "rarity": "rare",
-        "upgrade": "fiery_kuudra_core"
+        "upgrade": "fiery_kuudra_core",
+        "name": "Burning Kuudra Core"
     },
     "fiery_kuudra_core": {
         "rarity": "epic",
-        "upgrade": "infernal_kuudra_core"
+        "upgrade": "infernal_kuudra_core",
+        "name": "Fiery Kuudra Core"
     },
     "infernal_kuudra_core": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Infernal Kuudra Core"
     },
     "blaze_talisman": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Blaze Talisman"
     },
     "pulse_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pulse Ring"
     },
     "draconic_talisman": {
         "rarity": "uncommon",
-        "upgrade": "draconic_ring"
+        "upgrade": "draconic_ring",
+        "name": "Draconic Talisman"
     },
     "draconic_ring": {
         "rarity": "rare",
-        "upgrade": "draconic_artifact"
+        "upgrade": "draconic_artifact",
+        "name": "Draconic Ring"
     },
     "draconic_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Draconic Artifact"
     },
     "glacial_talisman": {
         "rarity": "common",
-        "upgrade": "glacial_ring"
+        "upgrade": "glacial_ring",
+        "name": "Glacial Talisman"
     },
     "glacial_ring": {
         "rarity": "uncommon",
-        "upgrade": "glacial_artifact"
+        "upgrade": "glacial_artifact",
+        "name": "Glacial Ring"
     },
     "glacial_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Glacial Artifact"
     },
     "wedding_ring_0": {
         "rarity": "common",
-        "upgrade": "wedding_ring_1"
+        "upgrade": "wedding_ring_1",
+        "name": "\u00a7eShiny Yellow Rock"
     },
     "wedding_ring_1": {
         "rarity": "common",
-        "upgrade": "wedding_ring_2"
+        "upgrade": "wedding_ring_2",
+        "name": "\u00a7eYellow Rock of Love"
     },
     "wedding_ring_2": {
         "rarity": "uncommon",
-        "upgrade": "wedding_ring_3"
+        "upgrade": "wedding_ring_3",
+        "name": "Mediocre Ring of Love"
     },
     "wedding_ring_3": {
         "rarity": "uncommon",
-        "upgrade": "wedding_ring_4"
+        "upgrade": "wedding_ring_4",
+        "name": "Rubbish Ring of Love"
     },
     "wedding_ring_4": {
         "rarity": "rare",
-        "upgrade": "wedding_ring_5"
+        "upgrade": "wedding_ring_5",
+        "name": "Modest Ring of Love"
     },
     "wedding_ring_5": {
         "rarity": "rare",
-        "upgrade": "wedding_ring_6"
+        "upgrade": "wedding_ring_6",
+        "name": "Refined Ring of Love"
     },
     "wedding_ring_6": {
         "rarity": "rare",
-        "upgrade": "wedding_ring_7"
+        "upgrade": "wedding_ring_7",
+        "name": "Classy Ring of Love"
     },
     "wedding_ring_7": {
         "rarity": "epic",
-        "upgrade": "wedding_ring_8"
+        "upgrade": "wedding_ring_8",
+        "name": "Exquisite Ring of Love"
     },
     "wedding_ring_8": {
         "rarity": "epic",
-        "upgrade": "wedding_ring_9"
+        "upgrade": "wedding_ring_9",
+        "name": "Invaluable Ring of Love"
     },
     "wedding_ring_9": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Legendary Ring of Love"
     },
     "campfire_talisman_1": {
         "rarity": "common",
-        "upgrade": "campfire_talisman_2"
+        "upgrade": "campfire_talisman_2",
+        "name": "Campfire Initiate Badge I"
     },
     "campfire_talisman_2": {
         "rarity": "common",
-        "upgrade": "campfire_talisman_3"
+        "upgrade": "campfire_talisman_3",
+        "name": "Campfire Initiate Badge II"
     },
     "campfire_talisman_3": {
         "rarity": "common",
-        "upgrade": "campfire_talisman_4"
+        "upgrade": "campfire_talisman_4",
+        "name": "Campfire Initiate Badge III"
     },
     "campfire_talisman_4": {
         "rarity": "uncommon",
-        "upgrade": "campfire_talisman_5"
+        "upgrade": "campfire_talisman_5",
+        "name": "Campfire Adept Badge I"
     },
     "campfire_talisman_5": {
         "rarity": "uncommon",
-        "upgrade": "campfire_talisman_6"
+        "upgrade": "campfire_talisman_6",
+        "name": "Campfire Adept Badge II"
     },
     "campfire_talisman_6": {
         "rarity": "uncommon",
-        "upgrade": "campfire_talisman_7"
+        "upgrade": "campfire_talisman_7",
+        "name": "Campfire Adept Badge III"
     },
     "campfire_talisman_7": {
         "rarity": "uncommon",
-        "upgrade": "campfire_talisman_8"
+        "upgrade": "campfire_talisman_8",
+        "name": "Campfire Adept Badge IV"
     },
     "campfire_talisman_8": {
         "rarity": "rare",
-        "upgrade": "campfire_talisman_9"
+        "upgrade": "campfire_talisman_9",
+        "name": "Campfire Cultist Badge I"
     },
     "campfire_talisman_9": {
         "rarity": "rare",
-        "upgrade": "campfire_talisman_10"
+        "upgrade": "campfire_talisman_10",
+        "name": "Campfire Cultist Badge II"
     },
     "campfire_talisman_10": {
         "rarity": "rare",
-        "upgrade": "campfire_talisman_11"
+        "upgrade": "campfire_talisman_11",
+        "name": "Campfire Cultist Badge III"
     },
     "campfire_talisman_11": {
         "rarity": "rare",
-        "upgrade": "campfire_talisman_12"
+        "upgrade": "campfire_talisman_12",
+        "name": "Campfire Cultist Badge IV"
     },
     "campfire_talisman_12": {
         "rarity": "rare",
-        "upgrade": "campfire_talisman_13"
+        "upgrade": "campfire_talisman_13",
+        "name": "Campfire Cultist Badge V"
     },
     "campfire_talisman_13": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_14"
+        "upgrade": "campfire_talisman_14",
+        "name": "Campfire Scion Badge I"
     },
     "campfire_talisman_14": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_15"
+        "upgrade": "campfire_talisman_15",
+        "name": "Campfire Scion Badge II"
     },
     "campfire_talisman_15": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_16"
+        "upgrade": "campfire_talisman_16",
+        "name": "Campfire Scion Badge III"
     },
     "campfire_talisman_16": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_17"
+        "upgrade": "campfire_talisman_17",
+        "name": "Campfire Scion Badge IV"
     },
     "campfire_talisman_17": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_18"
+        "upgrade": "campfire_talisman_18",
+        "name": "Campfire Scion Badge V"
     },
     "campfire_talisman_18": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_19"
+        "upgrade": "campfire_talisman_19",
+        "name": "Campfire Scion Badge VI"
     },
     "campfire_talisman_19": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_20"
+        "upgrade": "campfire_talisman_20",
+        "name": "Campfire Scion Badge VII"
     },
     "campfire_talisman_20": {
         "rarity": "epic",
-        "upgrade": "campfire_talisman_21"
+        "upgrade": "campfire_talisman_21",
+        "name": "Campfire Scion Badge VIII"
     },
     "campfire_talisman_21": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_22"
+        "upgrade": "campfire_talisman_22",
+        "name": "Campfire God Badge I"
     },
     "campfire_talisman_22": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_23"
+        "upgrade": "campfire_talisman_23",
+        "name": "Campfire God Badge II"
     },
     "campfire_talisman_23": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_24"
+        "upgrade": "campfire_talisman_24",
+        "name": "Campfire God Badge III"
     },
     "campfire_talisman_24": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_25"
+        "upgrade": "campfire_talisman_25",
+        "name": "Campfire God Badge IV"
     },
     "campfire_talisman_25": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_26"
+        "upgrade": "campfire_talisman_26",
+        "name": "Campfire God Badge V"
     },
     "campfire_talisman_26": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_27"
+        "upgrade": "campfire_talisman_27",
+        "name": "Campfire God Badge VI"
     },
     "campfire_talisman_27": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_28"
+        "upgrade": "campfire_talisman_28",
+        "name": "Campfire God Badge VII"
     },
     "campfire_talisman_28": {
         "rarity": "legendary",
-        "upgrade": "campfire_talisman_29"
+        "upgrade": "campfire_talisman_29",
+        "name": "Campfire God Badge VIII"
     },
     "campfire_talisman_29": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Campfire God Badge IX"
     },
     "wood_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Wood Affinity Talisman"
     },
     "party_hat_crab": {
         "rarity": "special",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Crab Hat of Celebration"
     },
     "party_hat_crab_animated": {
         "name": "Crab Hat of Celebration - 2022 Edition",
@@ -815,340 +1016,424 @@
     },
     "mineral_talisman": {
         "rarity": "rare",
-        "upgrade": "glossy_mineral_talisman"
+        "upgrade": "glossy_mineral_talisman",
+        "name": "Mineral Talisman"
     },
     "glossy_mineral_talisman": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Glossy Mineral Talisman"
     },
     "beastmaster_crest_common": {
         "rarity": "common",
-        "upgrade": "beastmaster_crest_uncommon"
+        "upgrade": "beastmaster_crest_uncommon",
+        "name": "Beastmaster Crest"
     },
     "beastmaster_crest_uncommon": {
         "rarity": "uncommon",
-        "upgrade": "beastmaster_crest_rare"
+        "upgrade": "beastmaster_crest_rare",
+        "name": "Beastmaster Crest"
     },
     "beastmaster_crest_rare": {
         "rarity": "rare",
-        "upgrade": "beastmaster_crest_epic"
+        "upgrade": "beastmaster_crest_epic",
+        "name": "Beastmaster Crest"
     },
     "beastmaster_crest_epic": {
         "rarity": "epic",
-        "upgrade": "beastmaster_crest_legendary"
+        "upgrade": "beastmaster_crest_legendary",
+        "name": "Beastmaster Crest"
     },
     "beastmaster_crest_legendary": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Beastmaster Crest"
     },
     "raggedy_shark_tooth_necklace": {
         "rarity": "common",
-        "upgrade": "dull_shark_tooth_necklace"
+        "upgrade": "dull_shark_tooth_necklace",
+        "name": "Raggedy Shark Tooth Necklace"
     },
     "dull_shark_tooth_necklace": {
         "rarity": "uncommon",
-        "upgrade": "honed_shark_tooth_necklace"
+        "upgrade": "honed_shark_tooth_necklace",
+        "name": "Dull Shark Tooth Necklace"
     },
     "honed_shark_tooth_necklace": {
         "rarity": "rare",
-        "upgrade": "sharp_shark_tooth_necklace"
+        "upgrade": "sharp_shark_tooth_necklace",
+        "name": "Honed Shark Tooth Necklace"
     },
     "sharp_shark_tooth_necklace": {
         "rarity": "epic",
-        "upgrade": "razor_sharp_shark_tooth_necklace"
+        "upgrade": "razor_sharp_shark_tooth_necklace",
+        "name": "Sharp Shark Tooth Necklace"
     },
     "razor_sharp_shark_tooth_necklace": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Razor-sharp Shark Tooth Necklace"
     },
     "hegemony_artifact": {
         "mp_multiplier": 2,
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Hegemony Artifact"
     },
     "bat_person_talisman": {
         "rarity": "common",
-        "upgrade": "bat_person_ring"
+        "upgrade": "bat_person_ring",
+        "name": "Bat Person Talisman"
     },
     "bat_person_ring": {
         "rarity": "uncommon",
-        "upgrade": "bat_person_artifact"
+        "upgrade": "bat_person_artifact",
+        "name": "Bat Person Ring"
     },
     "bat_person_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bat Person Artifact"
     },
     "jerry_talisman_green": {
         "rarity": "uncommon",
-        "upgrade": "jerry_talisman_blue"
+        "upgrade": "jerry_talisman_blue",
+        "name": "Green Jerry Talisman"
     },
     "jerry_talisman_blue": {
         "rarity": "rare",
-        "upgrade": "jerry_talisman_purple"
+        "upgrade": "jerry_talisman_purple",
+        "name": "Blue Jerry Talisman"
     },
     "jerry_talisman_purple": {
         "rarity": "epic",
-        "upgrade": "jerry_talisman_golden"
+        "upgrade": "jerry_talisman_golden",
+        "name": "Purple Jerry Talisman"
     },
     "jerry_talisman_golden": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Golden Jerry Artifact"
     },
     "titanium_talisman": {
         "rarity": "uncommon",
-        "upgrade": "titanium_ring"
+        "upgrade": "titanium_ring",
+        "name": "Titanium Talisman"
     },
     "titanium_ring": {
         "rarity": "rare",
-        "upgrade": "titanium_artifact"
+        "upgrade": "titanium_artifact",
+        "name": "Titanium Ring"
     },
     "titanium_artifact": {
         "rarity": "epic",
-        "upgrade": "titanium_relic"
+        "upgrade": "titanium_relic",
+        "name": "Titanium Artifact"
     },
     "titanium_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Titanium Relic"
     },
     "power_talisman": {
         "rarity": "common",
-        "upgrade": "power_ring"
+        "upgrade": "power_ring",
+        "name": "Talisman of Power"
     },
     "power_ring": {
         "rarity": "uncommon",
-        "upgrade": "power_artifact"
+        "upgrade": "power_artifact",
+        "name": "Ring of Power"
     },
     "power_artifact": {
         "rarity": "rare",
-        "upgrade": "power_relic"
+        "upgrade": "power_relic",
+        "name": "Artifact of Power"
     },
     "nether_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Nether Artifact"
     },
     "abicase": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Abicase"
     },
     "artifact_of_control": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Artifact of Control"
     },
     "pandoras_box": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pandora's Box"
     },
     "shens_regalia": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Shen's Regalia"
     },
     "cropie_talisman": {
         "rarity": "common",
-        "upgrade": "squash_ring"
+        "upgrade": "squash_ring",
+        "name": "Cropie Talisman"
     },
     "squash_ring": {
         "rarity": "uncommon",
-        "upgrade": "fermento_artifact"
+        "upgrade": "fermento_artifact",
+        "name": "Squash Ring"
     },
     "fermento_artifact": {
         "rarity": "rare",
-        "upgrade": "helianthus_relic"
+        "upgrade": "helianthus_relic",
+        "name": "Fermento Artifact"
     },
     "jake_plushie": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Jake's Plushie"
     },
     "anita_talisman": {
         "rarity": "common",
-        "upgrade": "anita_ring"
+        "upgrade": "anita_ring",
+        "name": "Anita's Talisman"
     },
     "anita_ring": {
         "rarity": "uncommon",
-        "upgrade": "anita_artifact"
+        "upgrade": "anita_artifact",
+        "name": "Anita's Ring"
     },
     "anita_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Anita's Artifact"
     },
     "pesthunter_badge": {
         "rarity": "uncommon",
-        "upgrade": "pesthunter_ring"
+        "upgrade": "pesthunter_ring",
+        "name": "Pesthunter Badge"
     },
     "pesthunter_ring": {
         "rarity": "rare",
-        "upgrade": "pesthunter_artifact"
+        "upgrade": "pesthunter_artifact",
+        "name": "Pesthunter Ring"
     },
     "pesthunter_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pesthunter Artifact"
     },
     "atmospheric_filter": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Atmospheric Filter"
     },
     "junk_talisman": {
         "rarity": "common",
-        "upgrade": "junk_ring"
+        "upgrade": "junk_ring",
+        "name": "Junk Talisman"
     },
     "junk_ring": {
         "rarity": "uncommon",
-        "upgrade": "junk_artifact"
+        "upgrade": "junk_artifact",
+        "name": "Junk Ring"
     },
     "junk_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Junk Artifact"
     },
     "moonglade_talisman": {
         "rarity": "common",
-        "upgrade": "moonglade_ring"
+        "upgrade": "moonglade_ring",
+        "name": "Moonglade Talisman"
     },
     "moonglade_ring": {
         "rarity": "uncommon",
-        "upgrade": "moonglade_artifact"
+        "upgrade": "moonglade_artifact",
+        "name": "Moonglade Ring"
     },
     "moonglade_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Moonglade Artifact"
     },
     "emperor_talisman": {
         "rarity": "uncommon",
-        "upgrade": "emperor_ring"
+        "upgrade": "emperor_ring",
+        "name": "Emperor's Talisman"
     },
     "emperor_ring": {
         "rarity": "rare",
-        "upgrade": "emperor_artifact"
+        "upgrade": "emperor_artifact",
+        "name": "Emperor's Ring"
     },
     "emperor_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Emperor's Artifact"
     },
     "runeblade_talisman": {
         "rarity": "common",
-        "upgrade": "runeblade_ring"
+        "upgrade": "runeblade_ring",
+        "name": "Runeblade Talisman"
     },
     "runeblade_ring": {
         "rarity": "uncommon",
-        "upgrade": "runeblade_artifact"
+        "upgrade": "runeblade_artifact",
+        "name": "Runeblade Ring"
     },
     "runeblade_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Runeblade Artifact"
     },
     "soul_campfire_talisman_1": {
         "rarity": "common",
-        "upgrade": "soul_campfire_talisman_2"
+        "upgrade": "soul_campfire_talisman_2",
+        "name": "Soul Campfire Initiate Badge I"
     },
     "soul_campfire_talisman_2": {
         "rarity": "common",
-        "upgrade": "soul_campfire_talisman_3"
+        "upgrade": "soul_campfire_talisman_3",
+        "name": "Soul Campfire Initiate Badge II"
     },
     "soul_campfire_talisman_3": {
         "rarity": "common",
-        "upgrade": "soul_campfire_talisman_4"
+        "upgrade": "soul_campfire_talisman_4",
+        "name": "Soul Campfire Initiate Badge III"
     },
     "soul_campfire_talisman_4": {
         "rarity": "uncommon",
-        "upgrade": "soul_campfire_talisman_5"
+        "upgrade": "soul_campfire_talisman_5",
+        "name": "Soul Campfire Adept Badge I"
     },
     "soul_campfire_talisman_5": {
         "rarity": "uncommon",
-        "upgrade": "soul_campfire_talisman_6"
+        "upgrade": "soul_campfire_talisman_6",
+        "name": "Soul Campfire Adept Badge II"
     },
     "soul_campfire_talisman_6": {
         "rarity": "uncommon",
-        "upgrade": "soul_campfire_talisman_7"
+        "upgrade": "soul_campfire_talisman_7",
+        "name": "Soul Campfire Adept Badge III"
     },
     "soul_campfire_talisman_7": {
         "rarity": "uncommon",
-        "upgrade": "soul_campfire_talisman_8"
+        "upgrade": "soul_campfire_talisman_8",
+        "name": "Soul Campfire Adept Badge IV"
     },
     "soul_campfire_talisman_8": {
         "rarity": "rare",
-        "upgrade": "soul_campfire_talisman_9"
+        "upgrade": "soul_campfire_talisman_9",
+        "name": "Soul Campfire Cultist Badge I"
     },
     "soul_campfire_talisman_9": {
         "rarity": "rare",
-        "upgrade": "soul_campfire_talisman_10"
+        "upgrade": "soul_campfire_talisman_10",
+        "name": "Soul Campfire Cultist Badge II"
     },
     "soul_campfire_talisman_10": {
         "rarity": "rare",
-        "upgrade": "soul_campfire_talisman_11"
+        "upgrade": "soul_campfire_talisman_11",
+        "name": "Soul Campfire Cultist Badge III"
     },
     "soul_campfire_talisman_11": {
         "rarity": "rare",
-        "upgrade": "soul_campfire_talisman_12"
+        "upgrade": "soul_campfire_talisman_12",
+        "name": "Soul Campfire Cultist Badge IV"
     },
     "soul_campfire_talisman_12": {
         "rarity": "rare",
-        "upgrade": "soul_campfire_talisman_13"
+        "upgrade": "soul_campfire_talisman_13",
+        "name": "Soul Campfire Cultist Badge V"
     },
     "soul_campfire_talisman_13": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_14"
+        "upgrade": "soul_campfire_talisman_14",
+        "name": "Soul Campfire Scion Badge I"
     },
     "soul_campfire_talisman_14": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_15"
+        "upgrade": "soul_campfire_talisman_15",
+        "name": "Soul Campfire Scion Badge II"
     },
     "soul_campfire_talisman_15": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_16"
+        "upgrade": "soul_campfire_talisman_16",
+        "name": "Soul Campfire Scion Badge III"
     },
     "soul_campfire_talisman_16": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_17"
+        "upgrade": "soul_campfire_talisman_17",
+        "name": "Soul Campfire Scion Badge IV"
     },
     "soul_campfire_talisman_17": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_18"
+        "upgrade": "soul_campfire_talisman_18",
+        "name": "Soul Campfire Scion Badge V"
     },
     "soul_campfire_talisman_18": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_19"
+        "upgrade": "soul_campfire_talisman_19",
+        "name": "Soul Campfire Scion Badge VI"
     },
     "soul_campfire_talisman_19": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_20"
+        "upgrade": "soul_campfire_talisman_20",
+        "name": "Soul Campfire Scion Badge VII"
     },
     "soul_campfire_talisman_20": {
         "rarity": "epic",
-        "upgrade": "soul_campfire_talisman_21"
+        "upgrade": "soul_campfire_talisman_21",
+        "name": "Soul Campfire Scion Badge VIII"
     },
     "soul_campfire_talisman_21": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_22"
+        "upgrade": "soul_campfire_talisman_22",
+        "name": "Soul Campfire God Badge I"
     },
     "soul_campfire_talisman_22": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_23"
+        "upgrade": "soul_campfire_talisman_23",
+        "name": "Soul Campfire God Badge II"
     },
     "soul_campfire_talisman_23": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_24"
+        "upgrade": "soul_campfire_talisman_24",
+        "name": "Soul Campfire God Badge III"
     },
     "soul_campfire_talisman_24": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_25"
+        "upgrade": "soul_campfire_talisman_25",
+        "name": "Soul Campfire God Badge IV"
     },
     "soul_campfire_talisman_25": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_26"
+        "upgrade": "soul_campfire_talisman_26",
+        "name": "Soul Campfire God Badge V"
     },
     "soul_campfire_talisman_26": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_27"
+        "upgrade": "soul_campfire_talisman_27",
+        "name": "Soul Campfire God Badge VI"
     },
     "soul_campfire_talisman_27": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_28"
+        "upgrade": "soul_campfire_talisman_28",
+        "name": "Soul Campfire God Badge VII"
     },
     "soul_campfire_talisman_28": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_29"
+        "upgrade": "soul_campfire_talisman_29",
+        "name": "Soul Campfire God Badge VIII"
     },
     "soul_campfire_talisman_29": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_30"
+        "upgrade": "soul_campfire_talisman_30",
+        "name": "Soul Campfire God Badge IX"
     },
     "soul_campfire_talisman_30": {
         "rarity": "legendary",
@@ -1156,505 +1441,629 @@
     },
     "small_fish_bowl": {
         "rarity": "common",
-        "upgrade": "medium_fish_bowl"
+        "upgrade": "medium_fish_bowl",
+        "name": "Small Fish Bowl"
     },
     "medium_fish_bowl": {
         "rarity": "uncommon",
-        "upgrade": "large_fish_bowl"
+        "upgrade": "large_fish_bowl",
+        "name": "Medium Fish Bowl"
     },
     "large_fish_bowl": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Large Fish Bowl"
     },
     "pressure_talisman": {
         "rarity": "common",
-        "upgrade": "pressure_ring"
+        "upgrade": "pressure_ring",
+        "name": "Pressure Talisman"
     },
     "pressure_ring": {
         "rarity": "uncommon",
-        "upgrade": "pressure_artifact"
+        "upgrade": "pressure_artifact",
+        "name": "Pressure Ring"
     },
     "pressure_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pressure Artifact"
     },
     "bucket_of_dye": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bucket of Dye"
     },
     "seal_talisman": {
         "rarity": "uncommon",
-        "upgrade": "seal_ring"
+        "upgrade": "seal_ring",
+        "name": "Seal Talisman"
     },
     "seal_ring": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Seal Ring"
     },
     "nibble_chocolate_stick": {
         "rarity": "common",
-        "upgrade": "smooth_chocolate_bar"
+        "upgrade": "smooth_chocolate_bar",
+        "name": "Nibble Chocolate Stick"
     },
     "smooth_chocolate_bar": {
         "rarity": "uncommon",
-        "upgrade": "rich_chocolate_chunk"
+        "upgrade": "rich_chocolate_chunk",
+        "name": "Smooth Chocolate Bar"
     },
     "rich_chocolate_chunk": {
         "rarity": "rare",
-        "upgrade": "ganache_chocolate_slab"
+        "upgrade": "ganache_chocolate_slab",
+        "name": "Rich Chocolate Chunk"
     },
     "ganache_chocolate_slab": {
         "rarity": "epic",
-        "upgrade": "prestige_chocolate_realm"
+        "upgrade": "prestige_chocolate_realm",
+        "name": "Ganache Chocolate Slab"
     },
     "prestige_chocolate_realm": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Prestige Chocolate Realm"
     },
     "century_talisman": {
         "rarity": "common",
-        "upgrade": "century_ring"
+        "upgrade": "century_ring",
+        "name": "Talisman of the Century"
     },
     "century_ring": {
         "rarity": "uncommon",
-        "upgrade": "century_artifact"
+        "upgrade": "century_artifact",
+        "name": "Ring of the Century"
     },
     "magic_8_ball": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Magic 8 Ball"
     },
     "runebook": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Runebook"
     },
     "general_medallion": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "General's Medallion"
     },
     "dwarven_metal": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Dwarven Metal Talisman"
     },
     "tarantula_ring": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Tarantula Ring"
     },
     "party_hat_sloth": {
         "rarity": "special",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Sloth Hat of Celebration"
     },
     "student_studies": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Student's Studies"
     },
     "phd_grimoire": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "PhD's Grimoire"
     },
     "applicant_statement": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Applicant's Statement"
     },
     "master_thesis": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Master's Thesis"
     },
     "witch_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Witch's Talisman"
     },
     "witch_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Witch's Ring"
     },
     "witch_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Witch's Artifact"
     },
     "freshly_baked_heirloom": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Freshly Baked Heirloom"
     },
     "gratitude_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Gratitude Artifact"
     },
     "freshly_baked_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Freshly Baked Artifact"
     },
     "freshly_baked_relic": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Freshly Baked Relic"
     },
     "gratitude_talisman": {
         "rarity": "common",
-        "upgrade": "gratitude_ring"
+        "upgrade": "gratitude_ring",
+        "name": "Gratitude Talisman"
     },
     "freshly_baked_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Freshly Baked Ring"
     },
     "gratitude_ring": {
         "rarity": "uncommon",
-        "upgrade": "gratitude_artifact"
+        "upgrade": "gratitude_artifact",
+        "name": "Gratitude Ring"
     },
     "freshly_baked_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Freshly Baked Talisman"
     },
     "anguish_ring": {
         "rarity": "epic",
-        "upgrade": "anguish_artifact"
+        "upgrade": "anguish_artifact",
+        "name": "Anguish Ring"
     },
     "anguish_artifact": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Anguish Artifact"
     },
     "anguish_talisman": {
         "rarity": "rare",
-        "upgrade": "anguish_ring"
+        "upgrade": "anguish_ring",
+        "name": "Anguish Talisman"
     },
     "pesthunter_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Pesthunter Relic"
     },
     "bingo_heirloom": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bingo Heirloom"
     },
     "luck_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Luck Talisman"
     },
     "talisman_of_space": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Talisman of Space"
     },
     "ring_of_space": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Ring of Space"
     },
     "potato_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Potato Ring"
     },
     "master_skull_tier_10": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Master Skull - Tier 10"
     },
     "haste_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Haste Artifact"
     },
     "compass_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Compass Talisman"
     },
     "master_skull_tier_8": {
         "rarity": "epic",
-        "upgrade": "master_skull_tier_9"
+        "upgrade": "master_skull_tier_9",
+        "name": "Master Skull - Tier 8"
     },
     "artifact_of_space": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Artifact of Space"
     },
     "dante_ring": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Dante's Ring"
     },
     "blood_god_sigil": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Blood God Sigil"
     },
     "kuudra_follower_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Kuudra Follower Relic"
     },
     "speed_relic": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Speed Relic"
     },
     "grizzly_paw": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Grizzly Paw"
     },
     "carnival_mask_bag": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Carnival Mask Bag"
     },
     "eternal_crystal": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Eternal Crystal"
     },
     "master_skull_tier_9": {
         "rarity": "legendary",
-        "upgrade": "master_skull_tier_10"
+        "upgrade": "master_skull_tier_10",
+        "name": "Master Skull - Tier 9"
     },
     "old_boot": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Old Boot"
     },
     "book_of_progression": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Book of Progression"
     },
     "power_relic": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Relic of Power"
     },
     "bioanalysis_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bioanalysis Ring"
     },
     "moonlight_crystal": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Moonlight Crystal"
     },
     "copper_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Copper Ring"
     },
     "copper_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Copper Artifact"
     },
     "copper_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Copper Talisman"
     },
     "bioanalysis_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bioanalysis Talisman"
     },
     "bioanalysis_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bioanalysis Artifact"
     },
     "sunshine_crystal": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Sunshine Crystal"
     },
     "helianthus_relic": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Helianthus Relic"
     },
     "voter_badge_elite": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Elite Voter's Badge"
     },
     "voter_badge": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Voter's Badge"
     },
     "voter_badge_supreme": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Supreme Voter's Badge"
     },
     "voter_badge_vip": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "VIP Voter's Badge"
     },
     "future_calories": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Future Calories Talisman"
     },
     "rift_prism": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Rift Prism"
     },
     "punchcard_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Punchcard Artifact"
     },
     "warding_trinket": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Warding Trinket"
     },
     "harmonious_surgery_toolkit": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Harmonious Surgery Toolkit"
     },
     "crux_talisman_7": {
         "rift": true,
         "rarity": "supreme",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Celestial Starstone"
     },
     "crux_talisman_4": {
         "rift": true,
         "rarity": "epic",
-        "upgrade": "crux_talisman_5"
+        "upgrade": "crux_talisman_5",
+        "name": "Crux Relic"
     },
     "crux_talisman_3": {
         "rift": true,
         "rarity": "rare",
-        "upgrade": "crux_talisman_4"
+        "upgrade": "crux_talisman_4",
+        "name": "Crux Artifact"
     },
     "crux_talisman_2": {
         "rift": true,
         "rarity": "uncommon",
-        "upgrade": "crux_talisman_3"
+        "upgrade": "crux_talisman_3",
+        "name": "Crux Ring"
     },
     "crux_talisman_5": {
         "rift": true,
         "rarity": "legendary",
-        "upgrade": "crux_talisman_6"
+        "upgrade": "crux_talisman_6",
+        "name": "Crux Heirloom"
     },
     "crux_talisman_1": {
         "rift": true,
         "rarity": "common",
-        "upgrade": "crux_talisman_2"
+        "upgrade": "crux_talisman_2",
+        "name": "Crux Talisman"
     },
     "crux_talisman_6": {
         "rift": true,
         "rarity": "mythic",
-        "upgrade": "crux_talisman_7"
+        "upgrade": "crux_talisman_7",
+        "name": "Crux Chronomicon"
     },
     "iq_point": {
         "rarity": "common",
-        "upgrade": "two_iq_point"
+        "upgrade": "two_iq_point",
+        "name": "IQ Point"
     },
     "ring_of_broken_love": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Ring of Broken Love"
     },
     "ring_of_eternal_love": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Ring of Eternal Love"
     },
     "two_iq_point": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "2 IQ Points"
     },
     "argofay_trinket": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Argofay Trinket"
     },
     "defective_monitor": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Defective Monitor"
     },
     "bluertooth_ring": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Bluertooth Ring"
     },
     "bluetooth_ring": {
         "rarity": "rare",
-        "upgrade": "bluertooth_ring"
+        "upgrade": "bluertooth_ring",
+        "name": "Bluetooth Ring"
     },
     "lush_ring": {
         "rarity": "rare",
-        "upgrade": "lush_artifact"
+        "upgrade": "lush_artifact",
+        "name": "Lush Ring"
     },
     "lush_artifact": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Lush Artifact"
     },
     "lush_talisman": {
         "rarity": "uncommon",
-        "upgrade": "lush_ring"
+        "upgrade": "lush_ring",
+        "name": "Lush Talisman"
     },
     "agarimoo_talisman": {
         "rarity": "common",
-        "upgrade": "agarimoo_ring"
+        "upgrade": "agarimoo_ring",
+        "name": "Agarimoo Talisman"
     },
     "agarimoo_ring": {
         "rarity": "uncommon",
-        "upgrade": "agarimoo_artifact"
+        "upgrade": "agarimoo_artifact",
+        "name": "Agarimoo Ring"
     },
     "agarimoo_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Agarimoo Artifact"
     },
     "hocus_pocus_cipher": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Hocus-Pocus Cipher"
     },
     "satelite": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Satelite"
     },
     "combo_mania_talisman": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Combo Mania"
     },
     "tiny_dancer": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Tiny Dancer"
     },
     "test_bucket_please_ignore": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Test Bucket Please Ignore"
     },
     "big_brain_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Big Brain Talisman"
     },
     "miniaturized_tubulator": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Miniaturized Tubulator"
     },
     "garlic_flavored_gummy_bear": {
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear"
     },
     "blood_donor_ring": {
         "rarity": "uncommon",
-        "upgrade": "blood_donor_artifact"
+        "upgrade": "blood_donor_artifact",
+        "name": "Blood Donor Ring"
     },
     "blood_donor_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Blood Donor Artifact"
     },
     "blood_donor_talisman": {
         "rarity": "common",
-        "upgrade": "blood_donor_ring"
+        "upgrade": "blood_donor_ring",
+        "name": "Blood Donor Talisman"
     },
     "vampire_dentist_relic": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Vampire Dentist Relic"
     },
     "organ_donor_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Organ Donor Talisman"
     },
     "organ_donor_ring": {
         "rarity": "uncommon",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Organ Donor Ring"
     },
     "organ_donor_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Organ Donor Artifact"
     },
     "respiration_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Respiration Artifact"
     },
     "respiration_ring": {
         "rarity": "uncommon",
-        "upgrade": "respiration_artifact"
+        "upgrade": "respiration_artifact",
+        "name": "Respiration Ring"
     },
     "respiration_talisman": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Respiration Talisman"
     },
     "kuudras_heart": {
         "rarity": "legendary",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Kuudra's Heart"
     },
     "kuudras_lung": {
         "rarity": "epic",
-        "upgrade": "kuudras_heart"
+        "upgrade": "kuudras_heart",
+        "name": "Kuudra's Lung"
     },
     "kuudras_kidney": {
         "rarity": "rare",
-        "upgrade": "kuudras_lung"
+        "upgrade": "kuudras_lung",
+        "name": "Kuudra's Kidney"
     },
     "century_artifact": {
         "rarity": "rare",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Artifact of the Century"
     },
     "safety_badge": {
         "rarity": "common",
-        "upgrade": null
+        "upgrade": null,
+        "name": "Safety Badge"
     }
 }
