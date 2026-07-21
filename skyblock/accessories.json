@@ -1432,12 +1432,8 @@
     },
     "soul_campfire_talisman_29": {
         "rarity": "legendary",
-        "upgrade": "soul_campfire_talisman_30",
+        "upgrade": null,
         "name": "Soul Campfire God Badge IX"
-    },
-    "soul_campfire_talisman_30": {
-        "rarity": "legendary",
-        "upgrade": null
     },
     "small_fish_bowl": {
         "rarity": "common",
