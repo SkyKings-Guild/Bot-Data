@@ -1,6 +1,6 @@
 {
     "farming_talisman": {
-        "rarity": "common",
+        "rarity": "uncommon",
         "upgrade": null,
         "name": "Farming Talisman"
     },
@@ -20,7 +20,7 @@
         "name": "Vaccine Artifact"
     },
     "farmer_orb": {
-        "rarity": "uncommon",
+        "rarity": "common",
         "upgrade": null,
         "name": "Farmer Orb"
     },
