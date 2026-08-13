@@ -114,5 +114,17 @@
         35000,
         40000,
         50000
-    ]
+    ],
+    "max_levels": {
+        "combat": 60,
+        "farming": 60,
+        "fishing": 50,
+        "mining": 60,
+        "foraging": 54,
+        "enchanting": 60,
+        "alchemy": 50,
+        "carpentry": 50,
+        "taming": 60,
+        "hunting": 50
+    }
 }
