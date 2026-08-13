@@ -1,6 +1,6 @@
 {
     "farming_talisman": {
-        "rarity": "common",
+        "rarity": "uncommon",
         "upgrade": null,
         "name": "Farming Talisman"
     },
@@ -20,7 +20,7 @@
         "name": "Vaccine Artifact"
     },
     "farmer_orb": {
-        "rarity": "uncommon",
+        "rarity": "common",
         "upgrade": null,
         "name": "Farmer Orb"
     },
@@ -1837,7 +1837,7 @@
     },
     "crux_talisman_7": {
         "rift": true,
-        "rarity": "divine",
+        "rarity": "supreme",
         "upgrade": null,
         "name": "Celestial Starstone"
     },
@@ -2061,5 +2061,65 @@
         "rarity": "common",
         "upgrade": null,
         "name": "Safety Badge"
+    },
+    "lumberjack_ring": {
+        "rarity": "uncommon",
+        "upgrade": "lumberjack_artifact",
+        "name": "Lumberjack Ring"
+    },
+    "lumberjack_talisman": {
+        "rarity": "common",
+        "upgrade": "lumberjack_ring",
+        "name": "Lumberjack Talisman"
+    },
+    "lumberjack_artifact": {
+        "rarity": "rare",
+        "upgrade": null,
+        "name": "Lumberjack Artifact"
+    },
+    "accretion_ring": {
+        "rarity": "uncommon",
+        "upgrade": "accretion_artifact",
+        "name": "Accretion Ring"
+    },
+    "accretion_talisman": {
+        "rarity": "common",
+        "upgrade": "accretion_ring",
+        "name": "Accretion Talisman"
+    },
+    "accretion_artifact": {
+        "rarity": "rare",
+        "upgrade": null,
+        "name": "Accretion Artifact"
+    },
+    "honeycomb_talisman": {
+        "rarity": "common",
+        "upgrade": "honeycomb_ring",
+        "name": "Honeycomb Talisman"
+    },
+    "honeycomb_artifact": {
+        "rarity": "rare",
+        "upgrade": null,
+        "name": "Honeycomb Artifact"
+    },
+    "honeycomb_ring": {
+        "rarity": "uncommon",
+        "upgrade": "honeycomb_artifact",
+        "name": "Honeycomb Ring"
+    },
+    "torrhus_talisman": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Torrhus Talisman"
+    },
+    "torrhus_ring": {
+        "rarity": "uncommon",
+        "upgrade": null,
+        "name": "Torrhus Ring"
+    },
+    "torrhus_artifact": {
+        "rarity": "rare",
+        "upgrade": null,
+        "name": "Torrhus Artifact"
     }
 }
