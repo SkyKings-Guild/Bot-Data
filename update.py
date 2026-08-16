@@ -115,9 +115,14 @@ def update_bestiary():
     data = requests.get(f"{BASE_URI}/constants/bestiary.json").json()
     bestiary = {}
     brackets = data.pop("brackets", {})
+    bracketsSets = data.pop("bracketSets", {})
     bestiary["brackets"] = brackets
+    bestiary["bracketSets"] = bracketsSets
     bestiary["islands"] = islands = {}
     for name, island in data.items():
+        if "name" not in island:
+            print("New entry with no name!", name)
+            continue
         islands[name] = {
             "id": name,
             "name": island["name"],
@@ -194,7 +199,7 @@ def update_forge():
 
 
 if __name__ == "__main__":
-    update_reforges()
-    update_accessories()
+    # update_reforges()
+    # update_accessories()
     update_bestiary()
-    update_forge()
+    # update_forge()
