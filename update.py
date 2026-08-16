@@ -141,6 +141,7 @@ def update_bestiary():
                         "name": remove_mc_fmt(mob["name"]),
                         "cap": mob["cap"],
                         "bracket": mob["bracket"],
+                        "bracket_type": mob.get("bracketType", None),
                         "max_tier": sum(
                             1
                             for cap in brackets.get(str(mob["bracket"]), {})
@@ -199,7 +200,7 @@ def update_forge():
 
 
 if __name__ == "__main__":
-    # update_reforges()
-    # update_accessories()
+    update_reforges()
+    update_accessories()
     update_bestiary()
-    # update_forge()
+    update_forge()

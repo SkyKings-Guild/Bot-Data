@@ -2094,6 +2094,7 @@
                             "name": "Abyssal Miner",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "zombie_miner_150"
@@ -2103,6 +2104,7 @@
                             "name": "Agarimoo",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "agarimoo_35"
@@ -2112,6 +2114,7 @@
                             "name": "Blue Ringed Octopus",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "blue_ringed_octopus_275"
@@ -2121,6 +2124,7 @@
                             "name": "Carrot King",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "carrot_king_25"
@@ -2130,6 +2134,7 @@
                             "name": "Catfish",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "catfish_23"
@@ -2139,6 +2144,7 @@
                             "name": "Deep Sea Protector",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "deep_sea_protector_60"
@@ -2148,6 +2154,7 @@
                             "name": "Frog Man",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "frog_man_10"
@@ -2157,6 +2164,7 @@
                             "name": "Guardian Defender",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "guardian_defender_45"
@@ -2166,6 +2174,7 @@
                             "name": "Manta Ray",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "manta_ray_124"
@@ -2175,6 +2184,7 @@
                             "name": "Mithril Grubber",
                             "cap": 125,
                             "bracket": 3,
+                            "bracket_type": null,
                             "max_tier": 7,
                             "mob_ids": [
                                 "small_mithril_grubber_15",
@@ -2187,6 +2197,7 @@
                             "name": "Inkling",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "night_squid_6"
@@ -2196,6 +2207,7 @@
                             "name": "Oasis Rabbit",
                             "cap": 125,
                             "bracket": 3,
+                            "bracket_type": null,
                             "max_tier": 7,
                             "mob_ids": [
                                 "oasis_rabbit_10"
@@ -2205,6 +2217,7 @@
                             "name": "Oasis Sheep",
                             "cap": 125,
                             "bracket": 3,
+                            "bracket_type": null,
                             "max_tier": 7,
                             "mob_ids": [
                                 "oasis_sheep_10"
@@ -2214,6 +2227,7 @@
                             "name": "Poisoned Water Worm",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "poisoned_water_worm_25"
@@ -2223,6 +2237,7 @@
                             "name": "Rider of the Deep",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "zombie_deep_20",
@@ -2233,6 +2248,7 @@
                             "name": "Sea Archer",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "sea_archer_15"
@@ -2242,6 +2258,7 @@
                             "name": "Sea Leech",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "sea_leech_30"
@@ -2251,6 +2268,7 @@
                             "name": "Sea Walker",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "sea_walker_4"
@@ -2260,6 +2278,7 @@
                             "name": "Sea Witch",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "sea_witch_15"
@@ -2269,6 +2288,7 @@
                             "name": "Snapping Turtle",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "snapping_turtle_30"
@@ -2278,6 +2298,7 @@
                             "name": "Squid",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "pond_squid_1"
@@ -2287,6 +2308,7 @@
                             "name": "Water Hydra",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "water_hydra_100"
@@ -2296,6 +2318,7 @@
                             "name": "Water Worm",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "water_worm_20"
@@ -2305,6 +2328,7 @@
                             "name": "Wiki Tiki",
                             "cap": 50,
                             "bracket": 8,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "wiki_tiki_400"
@@ -2319,6 +2343,7 @@
                             "name": "Fiery Scuttler",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "fiery_scuttler_475"
@@ -2328,6 +2353,7 @@
                             "name": "Fire Eel",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "fire_eel_240"
@@ -2337,6 +2363,7 @@
                             "name": "Fireproof Witch",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "fireproof_witch_75"
@@ -2346,6 +2373,7 @@
                             "name": "Flaming Worm",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "flaming_worm_50"
@@ -2355,6 +2383,7 @@
                             "name": "Fried Chicken",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "fried_chicken_30"
@@ -2364,6 +2393,7 @@
                             "name": "Lava Blaze",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "lava_blaze_100"
@@ -2373,6 +2403,7 @@
                             "name": "Lava Flame",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "lava_flame_230"
@@ -2382,6 +2413,7 @@
                             "name": "Lava Leech",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "lava_leech_220"
@@ -2391,6 +2423,7 @@
                             "name": "Lava Pigman",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "lava_pigman_100"
@@ -2400,6 +2433,7 @@
                             "name": "Lord Jawbus",
                             "cap": 50,
                             "bracket": 8,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "lord_jawbus_600"
@@ -2409,6 +2443,7 @@
                             "name": "Magma Pillar",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "magma_pillar_220"
@@ -2418,6 +2453,7 @@
                             "name": "Magma Slug",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "magma_slug_200"
@@ -2427,6 +2463,7 @@
                             "name": "Moogma",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "moogma_210"
@@ -2436,6 +2473,7 @@
                             "name": "Plhlegblast",
                             "cap": 7,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 5,
                             "mob_ids": [
                                 "pond_squid_300"
@@ -2445,6 +2483,7 @@
                             "name": "Pyroclastic Worm",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "pyroclastic_worm_240"
@@ -2454,6 +2493,7 @@
                             "name": "Ragnarok",
                             "cap": 50,
                             "bracket": 8,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "ragnarok_666"
@@ -2463,6 +2503,7 @@
                             "name": "Taurus",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "pig_rider_250"
@@ -2472,6 +2513,7 @@
                             "name": "Thunder",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "thunder_400"
@@ -2481,6 +2523,7 @@
                             "name": "Volcanic Snail",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "volcanic_snail_90"
@@ -2495,6 +2538,7 @@
                             "name": "Grim Reaper",
                             "cap": 50,
                             "bracket": 8,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "grim_reaper_190"
@@ -2504,6 +2548,7 @@
                             "name": "Jumpin' Jack",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "sea_guardian_10"
@@ -2513,6 +2558,7 @@
                             "name": "Nightmare",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "nightmare_24"
@@ -2522,6 +2568,7 @@
                             "name": "Phantom Fisher",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "phantom_fisherman_160"
@@ -2531,6 +2578,7 @@
                             "name": "Scarecrow",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "scarecrow_9"
@@ -2540,6 +2588,7 @@
                             "name": "Werewolf",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "werewolf_50"
@@ -2554,6 +2603,7 @@
                             "name": "Blue Shark",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "blue_shark_20"
@@ -2563,6 +2613,7 @@
                             "name": "Great White Shark",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "great_white_shark_180"
@@ -2572,6 +2623,7 @@
                             "name": "Nurse Shark",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "nurse_shark_6"
@@ -2581,6 +2633,7 @@
                             "name": "Tiger Shark",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "tiger_shark_50"
@@ -2595,6 +2648,7 @@
                             "name": "Frosty",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "frosty_the_snowman_13"
@@ -2604,6 +2658,7 @@
                             "name": "Frozen Steve",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "frozen_steve_7"
@@ -2613,6 +2668,7 @@
                             "name": "Grinch",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "grinch_21"
@@ -2622,6 +2678,7 @@
                             "name": "Nutcracker",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "nutcracker_50"
@@ -2631,6 +2688,7 @@
                             "name": "Reindrake",
                             "cap": 50,
                             "bracket": 8,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "reindrake_100"
@@ -2640,6 +2698,7 @@
                             "name": "Yeti",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "yeti_175"
@@ -2654,6 +2713,7 @@
                             "name": "Alligator",
                             "cap": 250,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "alligator_120"
@@ -2663,6 +2723,7 @@
                             "name": "Banshee",
                             "cap": 750,
                             "bracket": 6,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "banshee_10"
@@ -2672,6 +2733,7 @@
                             "name": "Bayou Sludge",
                             "cap": 500,
                             "bracket": 7,
+                            "bracket_type": null,
                             "max_tier": 20,
                             "mob_ids": [
                                 "bayou_sludge_25"
@@ -2681,6 +2743,7 @@
                             "name": "Dumpster Diver",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "dumpster_diver_15"
@@ -2690,6 +2753,7 @@
                             "name": "Titanoboa",
                             "cap": 50,
                             "bracket": 8,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "titanoboa_240"
@@ -2699,6 +2763,7 @@
                             "name": "Trash Gobbler",
                             "cap": 1000,
                             "bracket": 4,
+                            "bracket_type": null,
                             "max_tier": 15,
                             "mob_ids": [
                                 "trash_gobbler_8"
@@ -3965,6 +4030,7 @@
                             "name": "Cavernfish",
                             "cap": 125,
                             "bracket": 1,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 4,
                             "mob_ids": [
                                 "cavernfish_1"
@@ -3974,6 +4040,7 @@
                             "name": "Chuckwalla",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "chuckwalla_1"
@@ -3983,6 +4050,7 @@
                             "name": "Driftling",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "driftling_1"
@@ -3992,6 +4060,7 @@
                             "name": "Flitter",
                             "cap": 125,
                             "bracket": 1,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 4,
                             "mob_ids": [
                                 "flitter_1"
@@ -4001,6 +4070,7 @@
                             "name": "Gemzie",
                             "cap": 50,
                             "bracket": 4,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 9,
                             "mob_ids": [
                                 "gemzie_1"
@@ -4010,6 +4080,7 @@
                             "name": "Rockmite",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "rockmite_1"
@@ -4019,6 +4090,7 @@
                             "name": "Scrappy",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "scrappy_1"
@@ -4028,6 +4100,7 @@
                             "name": "Shyworm",
                             "cap": 125,
                             "bracket": 1,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 4,
                             "mob_ids": [
                                 "shyworm_1"
@@ -4037,6 +4110,7 @@
                             "name": "Snoozle",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "snoozle_1"
@@ -4051,6 +4125,7 @@
                             "name": "Bluebird",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "bluebird_1"
@@ -4060,6 +4135,7 @@
                             "name": "Fluffling",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "fluffling_1"
@@ -4069,6 +4145,7 @@
                             "name": "Foxtrot",
                             "cap": 125,
                             "bracket": 1,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 4,
                             "mob_ids": [
                                 "foxtrot_1"
@@ -4078,6 +4155,7 @@
                             "name": "Hideonfloor",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "hideonfloor_1"
@@ -4087,6 +4165,7 @@
                             "name": "Honeybug",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "honeybug_1"
@@ -4096,6 +4175,7 @@
                             "name": "Macaw",
                             "cap": 25,
                             "bracket": 5,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 9,
                             "mob_ids": [
                                 "macaw_1"
@@ -4105,6 +4185,7 @@
                             "name": "Parakeet",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "parakeet_1"
@@ -4114,6 +4195,7 @@
                             "name": "Treefrog",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "treefrog_1"
@@ -4123,6 +4205,7 @@
                             "name": "Woodchucker",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "woodchucker_1"
@@ -4137,6 +4220,7 @@
                             "name": "Areita",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "areita_1"
@@ -4146,6 +4230,7 @@
                             "name": "Bloodbat",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "bloodbat_1"
@@ -4155,6 +4240,7 @@
                             "name": "Doomspiral",
                             "cap": 25,
                             "bracket": 5,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 9,
                             "mob_ids": [
                                 "doomspiral_1"
@@ -4164,6 +4250,7 @@
                             "name": "Duplico",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "duplico_1"
@@ -4173,6 +4260,7 @@
                             "name": "Gazer",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "gazer_1"
@@ -4182,6 +4270,7 @@
                             "name": "Gimmiegold",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "gimmiegold_1"
@@ -4191,6 +4280,7 @@
                             "name": "Hideonwall",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "hideonwall_1"
@@ -4200,6 +4290,7 @@
                             "name": "Hideyho",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "hideyho_1"
@@ -4209,6 +4300,7 @@
                             "name": "Litterbug",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "litterbug_1"
@@ -4218,6 +4310,7 @@
                             "name": "Solsnatcher",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "solsnatcher_1"
@@ -4232,6 +4325,7 @@
                             "name": "Billygoat",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "billygoat_1"
@@ -4241,6 +4335,7 @@
                             "name": "Mantis Shrimp",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "mantis_shrimp_1"
@@ -4250,6 +4345,7 @@
                             "name": "Nozzlenose",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "nozzlenose_1"
@@ -4259,6 +4355,7 @@
                             "name": "Polaris",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "polaris_1"
@@ -4268,6 +4365,7 @@
                             "name": "Shuddersquid",
                             "cap": 100,
                             "bracket": 2,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "shuddersquid_1"
@@ -4277,6 +4375,7 @@
                             "name": "Strongarm",
                             "cap": 125,
                             "bracket": 1,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 4,
                             "mob_ids": [
                                 "strongarm_1"
@@ -4286,6 +4385,7 @@
                             "name": "Tepid",
                             "cap": 125,
                             "bracket": 1,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 4,
                             "mob_ids": [
                                 "tepid_1"
@@ -4295,6 +4395,7 @@
                             "name": "Troodon",
                             "cap": 75,
                             "bracket": 3,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 6,
                             "mob_ids": [
                                 "troodon_1"
@@ -4304,6 +4405,7 @@
                             "name": "Wumpa",
                             "cap": 25,
                             "bracket": 5,
+                            "bracket_type": "CRITTERS",
                             "max_tier": 9,
                             "mob_ids": [
                                 "wumpa_1"
