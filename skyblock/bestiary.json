@@ -4288,10 +4288,10 @@
                         },
                         "Hideyho": {
                             "name": "Hideyho",
-                            "cap": 75,
-                            "bracket": 3,
+                            "cap": 50,
+                            "bracket": 4,
                             "bracket_type": "CRITTERS",
-                            "max_tier": 6,
+                            "max_tier": 9,
                             "mob_ids": [
                                 "hideyho_1"
                             ]
