@@ -472,7 +472,8 @@
     "dante_talisman": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Dante's Talisman"
+        "name": "Dante's Talisman",
+        "duplicate": true
     },
     "blood_god_crest": {
         "rarity": "common",
@@ -1012,7 +1013,8 @@
     "party_hat_crab_animated": {
         "name": "Crab Hat of Celebration - 2022 Edition",
         "rarity": "special",
-        "upgrade": null
+        "upgrade": null,
+        "duplicate": true
     },
     "mineral_talisman": {
         "rarity": "rare",
@@ -1547,7 +1549,7 @@
     },
     "student_studies": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "master_thesis",
         "name": "Student's Studies"
     },
     "phd_grimoire": {
@@ -1557,22 +1559,22 @@
     },
     "applicant_statement": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "student_studies",
         "name": "Applicant's Statement"
     },
     "master_thesis": {
         "rarity": "rare",
-        "upgrade": null,
+        "upgrade": "phd_grimoire",
         "name": "Master's Thesis"
     },
     "witch_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "witch_ring",
         "name": "Witch's Talisman"
     },
     "witch_ring": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "witch_artifact",
         "name": "Witch's Ring"
     },
     "witch_artifact": {
@@ -1592,12 +1594,12 @@
     },
     "freshly_baked_artifact": {
         "rarity": "rare",
-        "upgrade": null,
+        "upgrade": "freshly_baked_relic",
         "name": "Freshly Baked Artifact"
     },
     "freshly_baked_relic": {
         "rarity": "epic",
-        "upgrade": null,
+        "upgrade": "freshly_baked_heirloom",
         "name": "Freshly Baked Relic"
     },
     "gratitude_talisman": {
@@ -1607,7 +1609,7 @@
     },
     "freshly_baked_ring": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "freshly_baked_artifact",
         "name": "Freshly Baked Ring"
     },
     "gratitude_ring": {
@@ -1617,7 +1619,7 @@
     },
     "freshly_baked_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "freshly_baked_ring",
         "name": "Freshly Baked Talisman"
     },
     "anguish_ring": {
@@ -1678,7 +1680,8 @@
     "compass_talisman": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Compass Talisman"
+        "name": "Compass Talisman",
+        "removed": true
     },
     "master_skull_tier_8": {
         "rarity": "epic",
@@ -1747,7 +1750,7 @@
     },
     "bioanalysis_ring": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "bioanalysis_artifact",
         "name": "Bioanalysis Ring"
     },
     "moonlight_crystal": {
@@ -1757,7 +1760,7 @@
     },
     "copper_ring": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "copper_artifact",
         "name": "Copper Ring"
     },
     "copper_artifact": {
@@ -1767,12 +1770,12 @@
     },
     "copper_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "copper_ring",
         "name": "Copper Talisman"
     },
     "bioanalysis_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "bioanalysis_ring",
         "name": "Bioanalysis Talisman"
     },
     "bioanalysis_artifact": {
@@ -1792,23 +1795,27 @@
     },
     "voter_badge_elite": {
         "rarity": "rare",
-        "upgrade": null,
-        "name": "Elite Voter's Badge"
+        "upgrade": "voter_badge_supreme",
+        "name": "Elite Voter's Badge",
+        "rarity_upgradable": false
     },
     "voter_badge": {
         "rarity": "common",
-        "upgrade": null,
-        "name": "Voter's Badge"
+        "upgrade": "voter_badge_vip",
+        "name": "Voter's Badge",
+        "rarity_upgradable": false
     },
     "voter_badge_supreme": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Supreme Voter's Badge"
+        "name": "Supreme Voter's Badge",
+        "rarity_upgradable": false
     },
     "voter_badge_vip": {
         "rarity": "uncommon",
-        "upgrade": null,
-        "name": "VIP Voter's Badge"
+        "upgrade": "voter_badge_elite",
+        "name": "VIP Voter's Badge",
+        "rarity_upgradable": false
     },
     "future_calories": {
         "rarity": "common",
@@ -2009,12 +2016,12 @@
     },
     "organ_donor_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "organ_donor_ring",
         "name": "Organ Donor Talisman"
     },
     "organ_donor_ring": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "organ_donor_artifact",
         "name": "Organ Donor Ring"
     },
     "organ_donor_artifact": {
@@ -2034,7 +2041,7 @@
     },
     "respiration_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "respiration_ring",
         "name": "Respiration Talisman"
     },
     "kuudras_heart": {
@@ -2109,12 +2116,12 @@
     },
     "torrhus_talisman": {
         "rarity": "common",
-        "upgrade": null,
+        "upgrade": "torrhus_ring",
         "name": "Torrhus Talisman"
     },
     "torrhus_ring": {
         "rarity": "uncommon",
-        "upgrade": null,
+        "upgrade": "torrhus_artifact",
         "name": "Torrhus Ring"
     },
     "torrhus_artifact": {
