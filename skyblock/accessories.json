@@ -543,7 +543,7 @@
     "kuudra_follower_artifact": {
         "name": "Kuudra Follower Artifact",
         "rarity": "epic",
-        "upgrade": null
+        "upgrade": "kuudra_follower_relic"
     },
     "bingo_talisman": {
         "rarity": "common",
@@ -1170,7 +1170,8 @@
     "pandoras_box": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Pandora's Box"
+        "name": "Pandora's Box",
+        "rarity_upgradable": false
     },
     "shens_regalia": {
         "rarity": "legendary",
@@ -1224,7 +1225,7 @@
     },
     "pesthunter_artifact": {
         "rarity": "epic",
-        "upgrade": null,
+        "upgrade": "pesthunter_relic",
         "name": "Pesthunter Artifact"
     },
     "atmospheric_filter": {
@@ -1525,7 +1526,8 @@
     "runebook": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Runebook"
+        "name": "Runebook",
+        "rarity_upgradable": false
     },
     "general_medallion": {
         "rarity": "rare",
@@ -1545,7 +1547,8 @@
     "party_hat_sloth": {
         "rarity": "special",
         "upgrade": null,
-        "name": "Sloth Hat of Celebration"
+        "name": "Sloth Hat of Celebration",
+        "duplicate": true
     },
     "student_studies": {
         "rarity": "uncommon",
@@ -1645,22 +1648,26 @@
     "bingo_heirloom": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Bingo Heirloom"
+        "name": "Bingo Heirloom",
+        "removed": true
     },
     "luck_talisman": {
         "rarity": "uncommon",
         "upgrade": null,
-        "name": "Luck Talisman"
+        "name": "Luck Talisman",
+        "removed": true
     },
     "talisman_of_space": {
         "rarity": "uncommon",
         "upgrade": null,
-        "name": "Talisman of Space"
+        "name": "Talisman of Space",
+        "removed": true
     },
     "ring_of_space": {
         "rarity": "rare",
         "upgrade": null,
-        "name": "Ring of Space"
+        "name": "Ring of Space",
+        "removed": true
     },
     "potato_ring": {
         "rarity": "uncommon",
@@ -1691,7 +1698,8 @@
     "artifact_of_space": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Artifact of Space"
+        "name": "Artifact of Space",
+        "removed": true
     },
     "dante_ring": {
         "rarity": "common",
@@ -1716,7 +1724,8 @@
     "grizzly_paw": {
         "rarity": "rare",
         "upgrade": null,
-        "name": "Grizzly Paw"
+        "name": "Grizzly Paw",
+        "removed": true
     },
     "carnival_mask_bag": {
         "rarity": "common",
@@ -1726,7 +1735,8 @@
     "eternal_crystal": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Eternal Crystal"
+        "name": "Eternal Crystal",
+        "removed": true
     },
     "master_skull_tier_9": {
         "rarity": "legendary",
@@ -1736,12 +1746,14 @@
     "old_boot": {
         "rarity": "rare",
         "upgrade": null,
-        "name": "Old Boot"
+        "name": "Old Boot",
+        "removed": true
     },
     "book_of_progression": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Book of Progression"
+        "name": "Book of Progression",
+        "rarity_upgradable": false
     },
     "power_relic": {
         "rarity": "epic",
@@ -1830,17 +1842,20 @@
     "punchcard_artifact": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Punchcard Artifact"
+        "name": "Punchcard Artifact",
+        "rift": true
     },
     "warding_trinket": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Warding Trinket"
+        "name": "Warding Trinket",
+        "rift": true
     },
     "harmonious_surgery_toolkit": {
         "rarity": "uncommon",
         "upgrade": null,
-        "name": "Harmonious Surgery Toolkit"
+        "name": "Harmonious Surgery Toolkit",
+        "rift": true
     },
     "crux_talisman_7": {
         "rift": true,
@@ -1892,12 +1907,14 @@
     "ring_of_broken_love": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Ring of Broken Love"
+        "name": "Ring of Broken Love",
+        "rift": true
     },
     "ring_of_eternal_love": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Ring of Eternal Love"
+        "name": "Ring of Eternal Love",
+        "rift": true
     },
     "two_iq_point": {
         "rarity": "uncommon",
@@ -1907,12 +1924,14 @@
     "argofay_trinket": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Argofay Trinket"
+        "name": "Argofay Trinket",
+        "removed": true
     },
     "defective_monitor": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Defective Monitor"
+        "name": "Defective Monitor",
+        "rift": true
     },
     "bluertooth_ring": {
         "rarity": "epic",
@@ -1962,12 +1981,14 @@
     "satelite": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Satelite"
+        "name": "Satelite",
+        "rift": true
     },
     "combo_mania_talisman": {
         "rarity": "uncommon",
         "upgrade": null,
-        "name": "Combo Mania"
+        "name": "Combo Mania",
+        "rift": true
     },
     "tiny_dancer": {
         "rarity": "uncommon",
@@ -1992,7 +2013,8 @@
     "garlic_flavored_gummy_bear": {
         "rarity": "epic",
         "upgrade": null,
-        "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear"
+        "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear",
+        "rift": true
     },
     "blood_donor_ring": {
         "rarity": "uncommon",
@@ -2067,7 +2089,8 @@
     "safety_badge": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Safety Badge"
+        "name": "Safety Badge",
+        "rarity_upgradable": false
     },
     "lumberjack_ring": {
         "rarity": "uncommon",
