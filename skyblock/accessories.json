@@ -1677,7 +1677,8 @@
     "master_skull_tier_10": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Master Skull - Tier 10"
+        "name": "Master Skull - Tier 10",
+        "removed": true
     },
     "haste_artifact": {
         "rarity": "epic",
@@ -1693,7 +1694,8 @@
     "master_skull_tier_8": {
         "rarity": "epic",
         "upgrade": "master_skull_tier_9",
-        "name": "Master Skull - Tier 8"
+        "name": "Master Skull - Tier 8",
+        "removed": true
     },
     "artifact_of_space": {
         "rarity": "epic",
@@ -1741,7 +1743,8 @@
     "master_skull_tier_9": {
         "rarity": "legendary",
         "upgrade": "master_skull_tier_10",
-        "name": "Master Skull - Tier 9"
+        "name": "Master Skull - Tier 9",
+        "removed": true
     },
     "old_boot": {
         "rarity": "rare",
