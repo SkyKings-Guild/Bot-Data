@@ -1,0 +1,609 @@
+[
+    [
+        {
+            "id": "gemstone_infusion",
+            "name": "Gemstone Infusion",
+            "max_level": 1,
+            "lore": [
+                "",
+                "\u00a76Pickaxe Ability: Gemstone Infusion",
+                "\u00a77Increases the effectiveness of",
+                "\u00a77\u00a76every Gemstone \u00a77in your pick's",
+                "\u00a77Gemstone Slots by \u00a7a100% \u00a77for \u00a7a{statDuration}s\u00a77.",
+                "\u00a78Cooldown: \u00a7a140s"
+            ],
+            "type": "block"
+        },
+        {
+            "id": "crystalline",
+            "name": "Crystalline",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Increases your chances of finding a",
+                "\u00a77\u00a7bGlacite Mineshaft\u00a77 containing a",
+                "\u00a77\u00a7dGemstone Crystal\u00a77 by \u00a7a\u00a7a{stat}%\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "gifts_from_the_departed",
+            "name": "Gifts from the Departed",
+            "max_level": 100,
+            "lore": [
+                "\u00a77Gain a \u00a7a\u00a7a{stat}% \u00a77chance to get an extra",
+                "\u00a77item when looting a \u00a7bFrozen Corpse\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "mining_master",
+            "name": "Mining Master",
+            "max_level": 10,
+            "lore": [
+                "\u00a77Grants \u00a75+{stat}\u2727 Pristine\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "dead_mans_chest",
+            "name": "Dead Man's Chest",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Gain a \u00a7a\u00a7a{stat}% \u00a77chance to spawn \u00a7a1",
+                "\u00a7a\u00a77additional \u00a7bFrozen Corpse \u00a77when you",
+                "\u00a77enter a \u00a7bGlacite Mineshaft\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "vanguard_seeker",
+            "name": "Vanguard Seeker",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Increases your chances of finding a",
+                "\u00a77\u00a7bGlacite Mineshaft\u00a77 containing a",
+                "\u00a77\u00a7fVanguard Corpse\u00a77 by \u00a7a\u00a7a{stat}%\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "sheer_force",
+            "name": "Sheer Force",
+            "max_level": 1,
+            "lore": [
+                "",
+                "\u00a76Pickaxe Ability: Sheer Force",
+                "\u00a77Grants \u00a7e+200\u259a Mining Spread\u00a77 for \u00a7a\u00a7a25s\u00a77.",
+                "\u00a78Cooldown: \u00a7a120s"
+            ],
+            "type": "block"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "metal_head",
+            "name": "Metal Head",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Grants \u00a76+{stat}\u2618 Dwarven Metal Fortune\u00a77."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "rags_to_riches",
+            "name": "Rags to Riches",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2618 Mining Fortune \u00a77while",
+                "\u00a77inside a \u00a7bGlacite Mineshaft\u00a77."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "eager_adventurer",
+            "name": "Eager Adventurer",
+            "max_level": 100,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat}\u00a77 \u00a76\u2e15 Mining Speed \u00a77while",
+                "\u00a77inside the \u00a7bGlacite Mineshafts\u00a77."
+            ],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        {
+            "id": "miners_blessing",
+            "name": "Miner's Blessing",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Grants \u00a7b+30\u272f Magic Find\u00a77 on all \u00a7bMining",
+                "\u00a7bIslands\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "no_stone_unturned",
+            "name": "No Stone Unturned",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Increases your chances of finding a",
+                "\u00a77\u00a79Suspicious Scrap \u00a77when mining in a",
+                "\u00a77\u00a7bGlacite Mineshaft \u00a77by \u00a7a\u00a7a{stat}%\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "strong_arm",
+            "name": "Strong Arm",
+            "max_level": 100,
+            "lore": [
+                "\u00a77Gain \u00a76+{stat}\u2e15 Mining Speed\u00a77 when mining",
+                "\u00a77\u00a76Dwarven Metals\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "steady_hand",
+            "name": "Steady Hand",
+            "max_level": 100,
+            "lore": [
+                "\u00a77Grants \u00a7e+{stat}\u259a Gemstone Spread\u00a77 while",
+                "\u00a77in the \u00a7bGlacite Mineshafts\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "warm_heart",
+            "name": "Warm Heart",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a7b\u2744 Cold Resistance\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "surveyor",
+            "name": "Surveyor",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Increases your chances of finding a",
+                "\u00a77\u00a7bGlacite Mineshaft \u00a77when mining in the",
+                "\u00a77\u00a7bGlacite Tunnels \u00a77by \u00a7a\u00a7a{stat}%\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "mineshaft_mayhem",
+            "name": "Mineshaft Mayhem",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Every time you enter a \u00a7bGlacite",
+                "\u00a7bMineshaft\u00a77, you receive a random buff.",
+                "",
+                "\u00a77Possible Buffs",
+                "\u00a78 \u25a0 \u00a7a+5% \u00a77chance to find a \u00a79Suspicious Scrap\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+100 \u00a76\u2618 Mining Fortune\u00a77",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+200 \u00a76\u2e15 Mining Speed\u00a77",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+10 \u00a7b\u2744 Cold Resistance\u00a77",
+                "\u00a78 \u25a0 \u00a77Reduce Pickaxe Ability cooldown by \u00a7a25%\u00a77."
+            ],
+            "type": "item"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "speedy_mineman",
+            "name": "Speedy Mineman",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2e15 Mining Speed\u00a77."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "powder_buff",
+            "name": "Powder Buff",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Gain \u00a7a+\u00a7a{stat}% \u00a77more Powder from any",
+                "\u00a77source."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "fortunate_mineman",
+            "name": "Fortunate Mineman",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2618 Mining Fortune\u00a77."
+            ],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        {
+            "id": "anomalous_desire",
+            "name": "Tunnel Vision",
+            "max_level": 1,
+            "lore": [
+                "\u00a76Pickaxe Ability: Tunnel Vision",
+                "\u00a77Increases the chances of triggering",
+                "\u00a77rare occurrences by \u00a7a\u00a7a{stat}%\u00a77 for \u00a7a30s\u00a77.",
+                "",
+                "\u00a77Rare occurrences include:",
+                "\u00a77\u00a78 \u25a0 \u00a76Golden Goblins",
+                "\u00a77\u00a78 \u25a0 \u00a75Fallen Stars",
+                "\u00a77\u00a78 \u25a0 \u00a76Powder Ghasts",
+                "\u00a77\u00a78 \u25a0 \u00a76Worms",
+                "\u00a77\u00a78 \u25a0 \u00a7bGlacite Mineshafts",
+                "\u00a78Cooldown: \u00a7a{statCooldown}s"
+            ],
+            "type": "block"
+        },
+        {
+            "id": "blockhead",
+            "name": "Blockhead",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Grants \u00a76+{stat}\u2618 Block Fortune\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "subterranean_fisher",
+            "name": "Subterranean Fisher",
+            "max_level": 40,
+            "lore": [
+                "\u00a77\u00a77Grants \u00a7b+{statFishingSpeed}\u2602 Fishing Speed\u00a77 and \u00a73+{statSeaCreatureChance}\u03b1",
+                "\u00a77\u00a73Sea Creature Chance\u00a77 while on \u00a7bMining",
+                "\u00a77\u00a7bIslands\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "keep_it_cool",
+            "name": "Keep It Cool",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7c+{stat}\u2668 Heat Resistance\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "lonesome_miner",
+            "name": "Lonesome Miner",
+            "max_level": 45,
+            "lore": [
+                "\u00a77Increases \u00a7c\u2741 Strength\u00a77, \u00a79\u2623 Crit",
+                "\u00a79Chance\u00a77, \u00a79\u2620 Crit Damage\u00a77, \u00a7a\u2748 Defense\u00a77,",
+                "\u00a77and \u00a7c\u2764 Health \u00a77statistics gain by \u00a7a{stat}%",
+                "\u00a7a\u00a77while on \u00a7bMining Islands\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "great_explorer",
+            "name": "Great Explorer",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Boosts the chance to find treasure",
+                "\u00a77chests while mining in the \u00a75Crystal",
+                "\u00a75Hollows \u00a77by \u00a7a+\u00a7a{statChance}% \u00a77and reduces the",
+                "\u00a77amount of locks on the chests by \u00a7a{statLocks}\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "maniac_miner",
+            "name": "Maniac Miner",
+            "max_level": 1,
+            "lore": [
+                "",
+                "\u00a76Pickaxe Ability: Maniac Miner",
+                "\u00a77Grants \u00a72+1\u24c5 Breaking Power\u00a77 and a",
+                "\u00a77stack of \u00a76+{stat}\u2618 Mining Fortune \u00a78(caps",
+                "\u00a78at 1000) \u00a77per block broken for \u00a7a{statDuration}s\u00a77.",
+                "\u00a77Each block broken consumes \u00a7b20 Mana\u00a77.",
+                "\u00a78Cooldown: \u00a7a120s"
+            ],
+            "type": "block"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "daily_grind",
+            "name": "Daily Grind",
+            "max_level": 1,
+            "lore": [
+                "\u00a77\u00a77Your first daily commission on each",
+                "\u00a77\u00a7bMining Island\u00a77 grants \u00a79+500 Powder\u00a77,",
+                "\u00a77multiplied by your \u00a75HOTM\u00a77 level.",
+                "",
+                "\u00a72Dwarven Mines\u00a77: \u00a7a+{stat} \u00a72Mithril Powder",
+                "\u00a75Crystal Hollows\u00a77: \u00a7a+{stat} \u00a7dGemstone Powder",
+                "\u00a7bGlacite Tunnels\u00a77: \u00a7a+{stat} \u00a7bGlacite Powder"
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "core_of_the_mountain",
+            "name": "Core of the Mountain",
+            "max_level": 10,
+            "lore": [
+                {
+                    "text": "\u00a77\u00a78+\u00a7c1 Pickaxe Ability Level",
+                    "onlyIf": "(gt level 0)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7a1 Forge Slot",
+                    "onlyIf": "(gt level 1)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7a1 Commission Slot",
+                    "onlyIf": "(gt level 2)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a721 Base Mithril Powder \u00a77when mining \u00a72Mithril\u00a77.",
+                    "onlyIf": "(gt level 3)"
+                },
+                {
+                    "text": "\u00a78+\u00a751 Token of the Mountain",
+                    "onlyIf": "(gt level 4)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7d2 Base Gemstone Powder \u00a77when mining \u00a7dGemstones\u00a77.",
+                    "onlyIf": "(gt level 5)"
+                },
+                {
+                    "text": "\u00a78+\u00a751 Token of the Mountain",
+                    "onlyIf": "(gt level 6)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7b3 Base Glacite Powder \u00a77when mining \u00a7bGlacite\u00a77.",
+                    "onlyIf": "(gt level 7)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7a10% chance \u00a77for \u00a7bGlacite Mineshafts \u00a77to spawn.",
+                    "onlyIf": "(gt level 8)"
+                },
+                {
+                    "text": "\u00a78+\u00a752 Token of the Mountain",
+                    "onlyIf": "(gt level 9)"
+                }
+            ],
+            "type": "core"
+        },
+        null,
+        {
+            "id": "daily_powder",
+            "name": "Daily Powder",
+            "max_level": 1,
+            "lore": [
+                "\u00a77The first ore you mine each day",
+                "\u00a77grants \u00a79+500 Powder\u00a77, multiplied by",
+                "\u00a77your \u00a75HOTM \u00a77level.",
+                "",
+                "\u00a72Mithril\u00a77: \u00a7a+{stat} \u00a72Mithril Powder",
+                "\u00a7dGemstone\u00a77: \u00a7a+{stat} \u00a7dGemstone Powder",
+                "\u00a7bGlacite\u00a77: \u00a7a+{stat} \u00a7bGlacite Powder"
+            ],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        {
+            "id": "sky_mall",
+            "name": "Sky Mall",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Every SkyBlock day, you receive a",
+                "\u00a77random buff while on any \u00a7bMining",
+                "\u00a7bIsland\u00a77.",
+                "",
+                "\u00a77Possible Buffs",
+                "\u00a78 \u25a0 \u00a77Gain \u00a76+100\u2e15 Mining Speed\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a76+50\u2618 Mining Fortune\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+15% \u00a77more Powder while mining.",
+                "\u00a78 \u25a0 \u00a77\u00a7a-20%\u00a77 Pickaxe Ability cooldowns.",
+                "\u00a78 \u25a0 \u00a77\u00a7a10x \u00a77chance to find Golden and",
+                "    \u00a77Diamond Goblins.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a5x \u00a79Titanium \u00a77drops."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "old_school",
+            "name": "Old-School",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Grants \u00a76+{stat}\u2618 Ore Fortune\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "professional",
+            "name": "Professional",
+            "max_level": 140,
+            "lore": [
+                "\u00a77Gain \u00a7a+\u00a7a{stat} \u00a76\u2e15 Mining Speed\u00a77 when mining",
+                "\u00a77Gemstones."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "mole",
+            "name": "Mole",
+            "max_level": 200,
+            "lore": [
+                "\u00a77Grants \u00a7e+{stat}\u259a Mining Spread\u00a77 when",
+                "\u00a77mining Hard Stone."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "gem_lover",
+            "name": "Gem Lover",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Grants \u00a76+{stat}\u2618 Gemstone Fortune\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "seasoned_mineman",
+            "name": "Seasoned Mineman",
+            "max_level": 100,
+            "lore": [
+                "\u00a77Grants \u00a73+{stat}\u262f Mining Wisdom\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "front_loaded",
+            "name": "Front Loaded",
+            "max_level": 1,
+            "lore": [
+                "\u00a77\u00a77Grants the following buffs for the",
+                "\u00a77first \u00a7a2,500 \u00a7dGemstones\u00a77 you mine each",
+                "\u00a77day.",
+                " ",
+                " \u00a78\u25a0 \u00a7d3x Gemstone Powder",
+                " \u00a78\u25a0 \u00a76+150\u2618 Gemstone Fortune",
+                " \u00a78\u25a0 \u00a76+250\u2e15 Mining Speed"
+            ],
+            "type": "item"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "luck_of_the_cave",
+            "name": "Luck of the Cave",
+            "max_level": 45,
+            "lore": [
+                "\u00a77Increases the chance for you to",
+                "\u00a77trigger rare occurrences in the",
+                "\u00a77\u00a72Dwarven Mines \u00a77by \u00a7a{stat}%\u00a77.",
+                "",
+                "\u00a77Rare occurrences include:",
+                "\u00a77 \u2022 \u00a76Golden Goblins",
+                "\u00a77 \u2022 \u00a75Fallen Stars",
+                "\u00a77 \u2022 \u00a76Powder Ghasts"
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "efficient_miner",
+            "name": "Efficient Miner",
+            "max_level": 100,
+            "lore": [
+                "\u00a77Grants \u00a7e+{stat}\u259a Mining Spread\u00a77."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "quick_forge",
+            "name": "Quick Forge",
+            "max_level": 20,
+            "lore": [
+                "\u00a77Decreases the time it takes to forge",
+                "\u00a77by \u00a7a{stat}%\u00a77."
+            ],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        null,
+        {
+            "id": "mining_speed_boost",
+            "name": "Mining Speed Boost",
+            "max_level": 1,
+            "lore": [
+                "",
+                "\u00a76Pickaxe Ability: Mining Speed Boost",
+                "\u00a77Grants \u00a7a+\u00a7a{statBoost}% \u00a76\u2e15 Mining Speed \u00a77for",
+                "\u00a77\u00a7a{statDuration}s\u00a77.",
+                "\u00a78Cooldown: \u00a7a120s"
+            ],
+            "type": "block"
+        },
+        {
+            "id": "precision_mining",
+            "name": "Precision Mining",
+            "max_level": 1,
+            "lore": [
+                "\u00a77When Mining \u00a76Ores\u00a77 or \u00a78Dwarven Metals\u00a77,",
+                "\u00a77a particle target appears on the",
+                "\u00a77block that increases your \u00a76\u2e15 Mining",
+                "\u00a76Speed \u00a77by \u00a7a30% \u00a77when aiming at it."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "mining_fortune",
+            "name": "Mining Fortune",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2618 Mining Fortune\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "titanium_insanium",
+            "name": "Titanium Insanium",
+            "max_level": 50,
+            "lore": [
+                "\u00a77When mining \u00a72Mithril Ore\u00a77, you have a",
+                "\u00a77\u00a7a{stat}% \u00a77chance to convert the block",
+                "\u00a77into \u00a7fTitanium Ore\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "pickobulus",
+            "name": "Pickobulus",
+            "max_level": 1,
+            "lore": [
+                "",
+                "\u00a76Pickaxe Ability: Pickobulus",
+                "\u00a77Throw your pickaxe to create an",
+                "\u00a77explosion on impact, mining all ores",
+                "\u00a77within a \u00a7a2 \u00a77block radius.",
+                "\u00a78Cooldown: \u00a7a{stat}s"
+            ],
+            "type": "block"
+        },
+        null
+    ],
+    [
+        null,
+        null,
+        null,
+        {
+            "id": "mining_speed",
+            "name": "Mining Speed",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2e15 Mining Speed\u00a77."
+            ],
+            "type": "item"
+        },
+        null,
+        null,
+        null
+    ]
+]

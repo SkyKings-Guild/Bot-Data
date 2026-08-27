@@ -1,6 +1,6 @@
 import json
 import re
-from typing import TypedDict
+from typing import Literal, TypedDict
 
 import requests
 
@@ -199,8 +199,52 @@ def update_forge():
         json.dump(data, f, indent=4)
 
 
+def parse_tree(tree: dict, tree_type: Literal["hotm", "hotf"]) -> list:
+    with open("skyblock/treeitemlayouts.json", "r") as f:
+        layouts = json.load(f)[tree_type]
+    max_x = 0
+    max_y = 0
+    for node_id, node in tree.items():
+        max_x = max(max_x, node["x"])
+        max_y = max(max_y, node["y"])
+    list_tree = [[None for _ in range(max_x + 1)] for _ in range(max_y + 1)]
+    for node_id, node in tree.items():
+        node_type = {
+            "b": "block",
+            "i": "item",
+            "c": "core",
+            " ": "empty",
+        }[layouts[node["y"]][node["x"]]]
+        list_tree[node["y"]][node["x"]] = {
+            "id": node_id,
+            "name": node["name"],
+            "max_level": node["maxLevel"],
+            "lore": node.get("lore", []),
+            "type": node_type,
+        }
+    return list_tree
+
+
+def update_hotm():
+    data = requests.get(f"{BASE_URI}/constants/hotmlayout.json").json()
+    neu_tree = data["hotm"]["perks"]
+    tree = parse_tree(neu_tree, "hotm")
+    with open("skyblock/hotm_tree.json", "w") as f:
+        json.dump(tree, f, indent=4)
+
+
+def update_hotf():
+    data = requests.get(f"{BASE_URI}/constants/hotflayout.json").json()
+    neu_tree = data["hotf"]["perks"]
+    tree = parse_tree(neu_tree, "hotf")
+    with open("skyblock/hotf_tree.json", "w") as f:
+        json.dump(tree, f, indent=4)
+
+
 if __name__ == "__main__":
     update_reforges()
     update_accessories()
     update_bestiary()
     update_forge()
+    update_hotm()
+    # update_hotf()

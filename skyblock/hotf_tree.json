@@ -1,0 +1,378 @@
+[
+    [
+        {
+            "id": "monster_hunter",
+            "name": "Monster Hunter",
+            "max_level": 1,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "forest_speed",
+            "name": "Forest Speed",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "essence_fortune",
+            "name": "Essence Fortune",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "timber",
+            "name": "Timber",
+            "max_level": 10,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "two_for_one",
+            "name": "Two-for-One",
+            "max_level": 100,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "forest_strength",
+            "name": "Forest Strength",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "beekeeper",
+            "name": "Beekeeper",
+            "max_level": 1,
+            "lore": [],
+            "type": "item"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "half_empty",
+            "name": "Half Empty",
+            "max_level": 25,
+            "lore": [
+                "\u00a77Gain \u00a7a{statFortune} \u00a76\u2618 Foraging Fortune \u00a77and \u00a7a{statSweep} \u00a72\u222e",
+                "\u00a72Sweep \u00a77when within \u00a7a16 \u00a77Blocks of a",
+                "\u00a77player with Half Full enabled."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "ricochet",
+            "name": "Ricochet",
+            "max_level": 10,
+            "lore": [
+                "\u00a77Your Axe has a \u00a7a{stat}% \u00a77chance to bounce",
+                "\u00a77to a nearby tree when thrown."
+            ],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "half_full",
+            "name": "Half Full",
+            "max_level": 25,
+            "lore": [
+                "\u00a77Gain \u00a7a{statFortune} \u00a76\u2618 Foraging Fortune \u00a77and \u00a7a{statSweep} \u00a72\u222e",
+                "\u00a72Sweep \u00a77when within \u00a7a16 \u00a77Blocks of a",
+                "\u00a77player with Half Empty enabled."
+            ],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        {
+            "id": "homing_axe",
+            "name": "Homing Axe",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Your Throwing Axes gain permanent",
+                "\u00a77homing abilities towards trees on",
+                "\u00a72Galatea\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "forest_fisher",
+            "name": "Forest Strength",
+            "max_level": 40,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "strength_boost",
+            "name": "Strength Boost",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "starlyn_supreme",
+            "name": "Starlyn Supreme",
+            "max_level": 100,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "speed_boost",
+            "name": "Speed Boost",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "efficient_forager",
+            "name": "Efficient Forager",
+            "max_level": 100,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "maniac_slicer",
+            "name": "Maniac Slicer",
+            "max_level": 1,
+            "lore": [
+                "\u00a76Axe Ability: Maniac Slicer",
+                "\u00a77Throwing your axe consumes \u00a7a100%",
+                "\u00a7a\u00a77of your total mana. You gain \u00a721\u222e",
+                "\u00a72Sweep \u00a77for every \u00a7b100 Mana \u00a77used, for",
+                "\u00a77\u00a7a20 \u00a77seconds.",
+                "\u00a78Cooldown: \u00a7a60s"
+            ],
+            "type": "block"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "tree_whisperer",
+            "name": "Tree Whisperer",
+            "max_level": 1,
+            "lore": [],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "center_of_the_forest",
+            "name": "Center of the Forest",
+            "max_level": 5,
+            "lore": [
+                {
+                    "text": "\u00a77\u00a78+\u00a7c1 Axe Ability Level",
+                    "onlyIf": "(gt level 0)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a725% \u00a72\u222e Sweep\u00a77.",
+                    "onlyIf": "(gt level 1)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7320 Forest Whispers \u00a77per Tree Gift.",
+                    "onlyIf": "(gt level 2)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a732 Forest Whispers \u00a77per",
+                    "onlyIf": "(gt level 2)"
+                },
+                {
+                    "text": "\u00a77Fig/Mangrove logs cut.",
+                    "onlyIf": "(gt level 2)"
+                },
+                {
+                    "text": "\u00a77\u00a78+\u00a7210% \u00a72\u222e Sweep\u00a77.",
+                    "onlyIf": "(gt level 3)"
+                },
+                {
+                    "text": "\u00a78+\u00a7a{statTokens} \u00a7aToken of the Forest",
+                    "onlyIf": "(gt level 0)"
+                },
+                {
+                    "text": "\u00a78+\u00a7b{statXP} SkyBlock XP",
+                    "onlyIf": "(gt level 0)"
+                }
+            ],
+            "type": "core"
+        },
+        null,
+        {
+            "id": "free_trial",
+            "name": "Free Trial",
+            "max_level": 1,
+            "lore": [],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        {
+            "id": "lottery",
+            "name": "Lottery",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Every SkyBlock day, you receive a",
+                "\u00a77random effect.",
+                "",
+                "\u00a77Possible Buffs",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+50 \u00a76\u2618 Fig Fortune\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+50 \u00a76\u2618 Mangrove Fortune\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+5% \u00a72\u222e Sweep\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "foraging_madness",
+            "name": "Foraging Madness",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Increase \u00a72\u222e Sweep \u00a77by \u00a7a10\u00a77 and \u00a76\u2618",
+                "\u00a76Foraging Fortune \u00a77by \u00a7a50\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "iron_lungs",
+            "name": "Iron Lungs",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "250_gifts",
+            "name": "250 Gifts",
+            "max_level": 40,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "daily_wishes",
+            "name": "Daily Wishes",
+            "max_level": 100,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "early_bird",
+            "name": "Early Bird",
+            "max_level": 1,
+            "lore": [
+                "\u00a77Increase \u00a72\u222e Sweep \u00a77by \u00a7a20\u00a77 and \u00a76\u2618",
+                "\u00a76Foraging Fortune \u00a77by \u00a7a100\u00a77 for the",
+                "\u00a77first \u00a7a250 \u00a77trees cut every day."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "precision_cutting",
+            "name": "Precision Cutting",
+            "max_level": 1,
+            "lore": [
+                "\u00a77A particle appears on every nearby",
+                "\u00a77tree. Cutting the marked log grants",
+                "\u00a77you a \u00a7a+\u00a7a10\u00a77 \u00a72\u222e Sweep \u00a77on that hit."
+            ],
+            "type": "item"
+        }
+    ],
+    [
+        null,
+        {
+            "id": "deep_waters",
+            "name": "Deep Waters",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "hunters_luck",
+            "name": "Hunter's Luck",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        null,
+        {
+            "id": "galateas_might",
+            "name": "Galatea's Might",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        null
+    ],
+    [
+        null,
+        {
+            "id": "damage_boost",
+            "name": "Damage Boost",
+            "max_level": 1,
+            "lore": [
+                "\u00a76Axe Ability: Damage Boost",
+                "\u00a77Your axe deals double \u00a7c\u2741 Damage \u00a77to",
+                "\u00a77creatures on \u00a72Galatea \u00a77for \u00a7a10s\u00a77.",
+                "\u00a78Cooldown: \u00a7a120s"
+            ],
+            "type": "block"
+        },
+        {
+            "id": "luck_of_the_forest",
+            "name": "Luck of the Forest",
+            "max_level": 40,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "foraging_fortune",
+            "name": "Foraging Fortune",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Increase \u00a76\u2618 Foraging Fortune \u00a77by \u00a7a{stat}\u00a77."
+            ],
+            "type": "item"
+        },
+        {
+            "id": "collector",
+            "name": "Collector",
+            "max_level": 50,
+            "lore": [],
+            "type": "item"
+        },
+        {
+            "id": "axe_toss",
+            "name": "Axe Toss",
+            "max_level": 1,
+            "lore": [
+                "\u00a76Axe Ability: Axe Toss",
+                "\u00a77Throwing your Axe has no \u00a72\u222e Sweep",
+                "\u00a72\u00a77penalty for \u00a7a10s\u00a77.",
+                "\u00a78Cooldown: \u00a7a120s"
+            ],
+            "type": "block"
+        },
+        null
+    ],
+    [
+        null,
+        null,
+        null,
+        {
+            "id": "sweep",
+            "name": "Sweep",
+            "max_level": 50,
+            "lore": [
+                "\u00a77Increase \u00a72\u222e Sweep \u00a77by \u00a7a{stat}\u00a77."
+            ],
+            "type": "item"
+        },
+        null,
+        null,
+        null
+    ]
+]
