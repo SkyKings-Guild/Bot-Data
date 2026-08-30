@@ -3972,9 +3972,9 @@
                 },
                 "Sprawl": {
                     "name": "Sprawl",
-                    "cap": 1000,
-                    "bracket": 4,
-                    "max_tier": 15,
+                    "cap": 750,
+                    "bracket": 6,
+                    "max_tier": 20,
                     "mob_ids": [
                         "sprawl_71"
                     ]
