@@ -241,6 +241,29 @@ def update_hotf():
         json.dump(tree, f, indent=4)
 
 
+def update_attribute_shards():
+    data = requests.get(f"{BASE_URI}/constants/attribute_shards.json").json()
+    attribute_shards = {
+        "leveling": data["attribute_levelling"],
+        "unconsumable": data["unconsumable_attributes"],
+        "attributes": {},
+    }
+    for attr in data["attributes"]:
+        # remove "ATTRIBUTE_SHARD_" prefix and convert to lowercase, and remove any suffix after a semicolon
+        shard_id = attr["internalName"].lower().split(";")[0][16:]
+        attribute_shards["attributes"][shard_id] = {
+            "shard_name": attr["displayName"],
+            "ability_name": attr["abilityName"],
+            "bazaar_id": attr["bazaarName"],
+            "alignment": attr["alignment"],
+            "rarity": attr["rarity"],
+            "family": attr["family"],
+            "misc_id": attr["shardId"],
+        }
+    with open("skyblock/attribute_shards.json", "w") as f:
+        json.dump(attribute_shards, f, indent=4)
+
+
 if __name__ == "__main__":
     update_reforges()
     update_accessories()
@@ -248,3 +271,4 @@ if __name__ == "__main__":
     update_forge()
     update_hotm()
     # update_hotf()
+    update_attribute_shards()
