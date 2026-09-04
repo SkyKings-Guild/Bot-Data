@@ -306,7 +306,10 @@
         "name": "Forest Pledge",
         "id": "forest_pledge",
         "max_table": 0,
-        "max": 5
+        "max": 6,
+        "upgrade_stones": {
+            "6": "WATER_HYACINTH"
+        }
     },
     "fortune": {
         "name": "Fortune",
@@ -802,7 +805,10 @@
         "name": "Thorns",
         "id": "thorns",
         "max_table": 3,
-        "max": 3
+        "max": 4,
+        "upgrade_stones": {
+            "4": "PRICKLY_CREEPER"
+        }
     },
     "thunderbolt": {
         "name": "Thunderbolt",
