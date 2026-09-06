@@ -264,6 +264,24 @@ def update_attribute_shards():
         json.dump(attribute_shards, f, indent=4)
 
 
+def update_garden():
+    data = requests.get(f"{BASE_URI}/constants/garden.json").json()
+    with open("skyblock/garden.json", "r") as f:
+        garden_data = json.load(f)
+    for key, value in data.items():
+        if key in (
+            "garden_exp",
+            "crop_milestones",
+            "visitors",
+            "plots",
+            "barn",
+            "crop_upgrades",
+        ):
+            garden_data[key] = value
+    with open("skyblock/garden.json", "w") as f:
+        json.dump(garden_data, f, indent=4)
+
+
 if __name__ == "__main__":
     update_reforges()
     update_accessories()
@@ -272,3 +290,4 @@ if __name__ == "__main__":
     update_hotm()
     # update_hotf()
     update_attribute_shards()
+    update_garden()
