@@ -73,7 +73,7 @@
             "lore": [
                 "",
                 "\u00a76Pickaxe Ability: Sheer Force",
-                "\u00a77Grants \u00a7e+200\u259a Mining Spread\u00a77 for \u00a7a\u00a7a25s\u00a77.",
+                "\u00a77Grants \u00a7e+200\ue016 Mining Spread\u00a77 for \u00a7a\u00a7a25s\u00a77.",
                 "\u00a78Cooldown: \u00a7a120s"
             ],
             "type": "block"
@@ -86,7 +86,7 @@
             "name": "Metal Head",
             "max_level": 20,
             "lore": [
-                "\u00a77Grants \u00a76+{stat}\u2618 Dwarven Metal Fortune\u00a77."
+                "\u00a77Grants \u00a76+{stat}\ue053 Dwarven Metal Fortune\u00a77."
             ],
             "type": "item"
         },
@@ -96,7 +96,7 @@
             "name": "Rags to Riches",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2618 Mining Fortune \u00a77while",
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\ue053 Mining Fortune \u00a77while",
                 "\u00a77inside a \u00a7bGlacite Mineshaft\u00a77."
             ],
             "type": "item"
@@ -151,7 +151,7 @@
             "name": "Steady Hand",
             "max_level": 100,
             "lore": [
-                "\u00a77Grants \u00a7e+{stat}\u259a Gemstone Spread\u00a77 while",
+                "\u00a77Grants \u00a7e+{stat}\ue00f Gemstone Spread\u00a77 while",
                 "\u00a77in the \u00a7bGlacite Mineshafts\u00a77."
             ],
             "type": "item"
@@ -186,9 +186,9 @@
                 "",
                 "\u00a77Possible Buffs",
                 "\u00a78 \u25a0 \u00a7a+5% \u00a77chance to find a \u00a79Suspicious Scrap\u00a77.",
-                "\u00a78 \u25a0 \u00a77Gain \u00a7a+100 \u00a76\u2618 Mining Fortune\u00a77",
-                "\u00a78 \u25a0 \u00a77Gain \u00a7a+200 \u00a76\u2e15 Mining Speed\u00a77",
-                "\u00a78 \u25a0 \u00a77Gain \u00a7a+10 \u00a7b\u2744 Cold Resistance\u00a77",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+100 \u00a76\ue053 Mining Fortune\u00a77",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+200 \u00a76\ue015 Mining Speed\u00a77",
+                "\u00a78 \u25a0 \u00a77Gain \u00a7a+10 \u00a7b\ue006 Cold Resistance\u00a77",
                 "\u00a78 \u25a0 \u00a77Reduce Pickaxe Ability cooldown by \u00a7a25%\u00a77."
             ],
             "type": "item"
@@ -222,7 +222,7 @@
             "name": "Fortunate Mineman",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2618 Mining Fortune\u00a77."
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\ue053 Mining Fortune\u00a77."
             ],
             "type": "item"
         },
@@ -253,7 +253,7 @@
             "name": "Blockhead",
             "max_level": 20,
             "lore": [
-                "\u00a77Grants \u00a76+{stat}\u2618 Block Fortune\u00a77."
+                "\u00a77Grants \u00a76+{stat}\ue053 Block Fortune\u00a77."
             ],
             "type": "item"
         },
@@ -262,7 +262,7 @@
             "name": "Subterranean Fisher",
             "max_level": 40,
             "lore": [
-                "\u00a77\u00a77Grants \u00a7b+{statFishingSpeed}\u2602 Fishing Speed\u00a77 and \u00a73+{statSeaCreatureChance}\u03b1",
+                "\u00a77\u00a77Grants \u00a7b+{statFishingSpeed}\ue00c Fishing Speed\u00a77 and \u00a73+{statSeaCreatureChance}\ue021",
                 "\u00a77\u00a73Sea Creature Chance\u00a77 while on \u00a7bMining",
                 "\u00a77\u00a7bIslands\u00a77."
             ],
@@ -308,8 +308,8 @@
             "lore": [
                 "",
                 "\u00a76Pickaxe Ability: Maniac Miner",
-                "\u00a77Grants \u00a72+1\u24c5 Breaking Power\u00a77 and a",
-                "\u00a77stack of \u00a76+{stat}\u2618 Mining Fortune \u00a78(caps",
+                "\u00a77Grants \u00a72+1\ue005 Breaking Power\u00a77 and a",
+                "\u00a77stack of \u00a76+{stat}\ue053 Mining Fortune \u00a78(caps",
                 "\u00a78at 1000) \u00a77per block broken for \u00a7a{statDuration}s\u00a77.",
                 "\u00a77Each block broken consumes \u00a7b20 Mana\u00a77.",
                 "\u00a78Cooldown: \u00a7a120s"
@@ -412,8 +412,8 @@
                 "\u00a7bIsland\u00a77.",
                 "",
                 "\u00a77Possible Buffs",
-                "\u00a78 \u25a0 \u00a77Gain \u00a76+100\u2e15 Mining Speed\u00a77.",
-                "\u00a78 \u25a0 \u00a77Gain \u00a76+50\u2618 Mining Fortune\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a76+100\ue015 Mining Speed\u00a77.",
+                "\u00a78 \u25a0 \u00a77Gain \u00a76+50\ue053 Mining Fortune\u00a77.",
                 "\u00a78 \u25a0 \u00a77Gain \u00a7a+15% \u00a77more Powder while mining.",
                 "\u00a78 \u25a0 \u00a77\u00a7a-20%\u00a77 Pickaxe Ability cooldowns.",
                 "\u00a78 \u25a0 \u00a77\u00a7a10x \u00a77chance to find Golden and",
@@ -427,7 +427,7 @@
             "name": "Old-School",
             "max_level": 20,
             "lore": [
-                "\u00a77Grants \u00a76+{stat}\u2618 Ore Fortune\u00a77."
+                "\u00a77Grants \u00a76+{stat}\ue053 Ore Fortune\u00a77."
             ],
             "type": "item"
         },
@@ -446,7 +446,7 @@
             "name": "Mole",
             "max_level": 200,
             "lore": [
-                "\u00a77Grants \u00a7e+{stat}\u259a Mining Spread\u00a77 when",
+                "\u00a77Grants \u00a7e+{stat}\ue016 Mining Spread\u00a77 when",
                 "\u00a77mining Hard Stone."
             ],
             "type": "item"
@@ -456,7 +456,7 @@
             "name": "Gem Lover",
             "max_level": 20,
             "lore": [
-                "\u00a77Grants \u00a76+{stat}\u2618 Gemstone Fortune\u00a77."
+                "\u00a77Grants \u00a76+{stat}\ue053 Gemstone Fortune\u00a77."
             ],
             "type": "item"
         },
@@ -479,8 +479,8 @@
                 "\u00a77day.",
                 " ",
                 " \u00a78\u25a0 \u00a7d3x Gemstone Powder",
-                " \u00a78\u25a0 \u00a76+150\u2618 Gemstone Fortune",
-                " \u00a78\u25a0 \u00a76+250\u2e15 Mining Speed"
+                " \u00a78\u25a0 \u00a76+150\ue053 Gemstone Fortune",
+                " \u00a78\u25a0 \u00a76+250\ue015 Mining Speed"
             ],
             "type": "item"
         }
@@ -509,7 +509,7 @@
             "name": "Efficient Miner",
             "max_level": 100,
             "lore": [
-                "\u00a77Grants \u00a7e+{stat}\u259a Mining Spread\u00a77."
+                "\u00a77Grants \u00a7e+{stat}\ue016 Mining Spread\u00a77."
             ],
             "type": "item"
         },
@@ -558,7 +558,7 @@
             "name": "Mining Fortune",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2618 Mining Fortune\u00a77."
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\ue053 Mining Fortune\u00a77."
             ],
             "type": "item"
         },
