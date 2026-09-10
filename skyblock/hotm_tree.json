@@ -40,7 +40,7 @@
             "name": "Mining Master",
             "max_level": 10,
             "lore": [
-                "\u00a77Grants \u00a75+{stat}\u2727 Pristine\u00a77."
+                "\u00a77Grants \u00a75+{stat}\ue01c Pristine\u00a77."
             ],
             "type": "item"
         },
@@ -107,7 +107,7 @@
             "name": "Eager Adventurer",
             "max_level": 100,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat}\u00a77 \u00a76\u2e15 Mining Speed \u00a77while",
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\ue015 Mining Speed \u00a77while",
                 "\u00a77inside the \u00a7bGlacite Mineshafts\u00a77."
             ],
             "type": "item"
@@ -120,7 +120,7 @@
             "name": "Miner's Blessing",
             "max_level": 1,
             "lore": [
-                "\u00a77Grants \u00a7b+30\u272f Magic Find\u00a77 on all \u00a7bMining",
+                "\u00a77Grants \u00a7b+30\ue01a Magic Find\u00a77 on all \u00a7bMining",
                 "\u00a7bIslands\u00a77."
             ],
             "type": "item"
@@ -141,7 +141,7 @@
             "name": "Strong Arm",
             "max_level": 100,
             "lore": [
-                "\u00a77Gain \u00a76+{stat}\u2e15 Mining Speed\u00a77 when mining",
+                "\u00a77Gain \u00a76+{stat}\ue015 Mining Speed\u00a77 when mining",
                 "\u00a77\u00a76Dwarven Metals\u00a77."
             ],
             "type": "item"
@@ -161,7 +161,7 @@
             "name": "Warm Heart",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a7b\u2744 Cold Resistance\u00a77."
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a7b\ue006 Cold Resistance\u00a77."
             ],
             "type": "item"
         },
@@ -201,7 +201,7 @@
             "name": "Speedy Mineman",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2e15 Mining Speed\u00a77."
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\ue015 Mining Speed\u00a77."
             ],
             "type": "item"
         },
@@ -273,7 +273,7 @@
             "name": "Keep It Cool",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7c+{stat}\u2668 Heat Resistance\u00a77."
+                "\u00a77Grants \u00a7c+{stat}\ue012 Heat Resistance\u00a77."
             ],
             "type": "item"
         },
@@ -282,10 +282,10 @@
             "name": "Lonesome Miner",
             "max_level": 45,
             "lore": [
-                "\u00a77Increases \u00a7c\u2741 Strength\u00a77, \u00a79\u2623 Crit",
-                "\u00a79Chance\u00a77, \u00a79\u2620 Crit Damage\u00a77, \u00a7a\u2748 Defense\u00a77,",
-                "\u00a77and \u00a7c\u2764 Health \u00a77statistics gain by \u00a7a{stat}%",
-                "\u00a7a\u00a77while on \u00a7bMining Islands\u00a77."
+                "\u00a77Increases \u00a7c\ue00d Strength\u00a77, \u00a79\ue02c Crit",
+                "\u00a79Chance\u00a77, \u00a79\ue007 Crit Damage\u00a77, \u00a7a\ue008 Defense\u00a77,",
+                "\u00a77and \u00a7c\ue010 Health \u00a77statistics gain by \u00a7a{stat}%",
+                "\u00a77while on \u00a7bMining Islands\u00a77."
             ],
             "type": "item"
         },
@@ -436,7 +436,7 @@
             "name": "Professional",
             "max_level": 140,
             "lore": [
-                "\u00a77Gain \u00a7a+\u00a7a{stat} \u00a76\u2e15 Mining Speed\u00a77 when mining",
+                "\u00a77Gain \u00a7a+{stat} \u00a76\ue015 Mining Speed\u00a77 when mining",
                 "\u00a77Gemstones."
             ],
             "type": "item"
@@ -535,7 +535,7 @@
             "lore": [
                 "",
                 "\u00a76Pickaxe Ability: Mining Speed Boost",
-                "\u00a77Grants \u00a7a+\u00a7a{statBoost}% \u00a76\u2e15 Mining Speed \u00a77for",
+                "\u00a77Grants \u00a7a+\u00a7a{statBoost}% \u00a76\ue015 Mining Speed \u00a77for",
                 "\u00a77\u00a7a{statDuration}s\u00a77.",
                 "\u00a78Cooldown: \u00a7a120s"
             ],
@@ -548,7 +548,7 @@
             "lore": [
                 "\u00a77When Mining \u00a76Ores\u00a77 or \u00a78Dwarven Metals\u00a77,",
                 "\u00a77a particle target appears on the",
-                "\u00a77block that increases your \u00a76\u2e15 Mining",
+                "\u00a77block that increases your \u00a76\ue015 Mining",
                 "\u00a76Speed \u00a77by \u00a7a30% \u00a77when aiming at it."
             ],
             "type": "item"
@@ -598,7 +598,7 @@
             "name": "Mining Speed",
             "max_level": 50,
             "lore": [
-                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\u2e15 Mining Speed\u00a77."
+                "\u00a77Grants \u00a7a+\u00a7a{stat} \u00a76\ue015 Mining Speed\u00a77."
             ],
             "type": "item"
         },
