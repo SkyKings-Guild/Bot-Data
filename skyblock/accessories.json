@@ -2154,5 +2154,50 @@
         "rarity": "rare",
         "upgrade": null,
         "name": "Torrhus Artifact"
+    },
+    "hotspot_artifact": {
+        "rarity": "rare",
+        "upgrade": null,
+        "name": "Hotspot Artifact"
+    },
+    "hotspot_ring": {
+        "rarity": "uncommon",
+        "upgrade": "hotspot_artifact",
+        "name": "Hotspot Ring"
+    },
+    "hotspot_talisman": {
+        "rarity": "common",
+        "upgrade": "hotspot_ring",
+        "name": "Hotspot Talisman"
+    },
+    "beastslayers_codex": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Beastslayer's Codex"
+    },
+    "powder_of_the_few": {
+        "rarity": "uncommon",
+        "upgrade": "powder_of_the_many",
+        "name": "Powder of the Few"
+    },
+    "powder_of_the_many": {
+        "rarity": "rare",
+        "upgrade": "powder_of_the_people",
+        "name": "Powder of the Many"
+    },
+    "powder_of_the_people": {
+        "rarity": "epic",
+        "upgrade": null,
+        "name": "Powder of the People"
+    },
+    "powder_of_one": {
+        "rarity": "common",
+        "upgrade": "powder_of_the_few",
+        "name": "Powder of One"
+    },
+    "infinipot": {
+        "rarity": "rare",
+        "upgrade": null,
+        "name": "InfiniPot\u2122"
     }
 }

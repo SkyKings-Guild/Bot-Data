@@ -43,6 +43,8 @@ def update_accessories():
             else:
                 accessories[item["id"].lower()]["rarity"] = tier
                 accessories[item["id"].lower()]["name"] = item["name"]
+    # neu_misc = requests.get(f"{BASE_URI}/constants/misc.json").json()
+    # tali_upgrades = neu_misc["talisman_upgrades"]
     for i, item in enumerate(accessories):
         if (levelstr := item.split("_")[-1]).isnumeric():
             level = int(levelstr)
@@ -100,6 +102,7 @@ def update_accessories():
             if accessories[item].get("upgrade") is None and item in parents:
                 print(f"Manually setting upgrade for {item} to {parents[item]}")
                 accessories[item]["upgrade"] = parents[item]
+
     with open("skyblock/accessories.json", "w") as f:
         json.dump(accessories, f, indent=4)
 

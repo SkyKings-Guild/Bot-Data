@@ -1701,6 +1701,15 @@
             ],
             "misc_id": "L49"
         },
+        "flora": {
+            "shard_name": "Flora",
+            "ability_name": "Unique Bonus",
+            "bazaar_id": "SHARD_FLORA",
+            "alignment": "Forest",
+            "rarity": "LEGENDARY",
+            "family": [],
+            "misc_id": "L52"
+        },
         "slayer_discount": {
             "shard_name": "Paragon",
             "ability_name": "Slayer Discount",
@@ -1980,6 +1989,15 @@
             "rarity": "RARE",
             "family": [],
             "misc_id": "R27"
+        },
+        "catacombs_cap": {
+            "shard_name": "Folf",
+            "ability_name": "Catacombs Cap",
+            "bazaar_id": "SHARD_FOLF",
+            "alignment": "Combat",
+            "rarity": "RARE",
+            "family": [],
+            "misc_id": "R28"
         },
         "crystal_serendipity": {
             "shard_name": "Silentdepth",
