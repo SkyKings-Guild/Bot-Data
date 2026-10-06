@@ -2173,7 +2173,8 @@
     "beastslayers_codex": {
         "rarity": "common",
         "upgrade": null,
-        "name": "Beastslayer's Codex"
+        "name": "Beastslayer's Codex",
+        "rarity_upgradable": false
     },
     "powder_of_the_few": {
         "rarity": "uncommon",
