@@ -2,6 +2,12 @@ The following files may be subject to this license:
 - `skyblock/bestiary.json`
 - `skyblock/reforges.json`
 - `skyblock/accessories.json`
+- `skyblock/forge.json`
+- `skyblock/hotm.json`
+- `skyblock/hotf.json`
+- `skyblock/attribute_shards.json`
+- `skyblock/garden.json`
+
 
 [Original Copy](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/blob/9a2d07d9c2b09e9d8d8fc2d77feda391f1791f34/LICENSE)
 
