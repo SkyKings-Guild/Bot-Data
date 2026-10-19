@@ -255,13 +255,13 @@ def update_attribute_shards():
         # remove "ATTRIBUTE_SHARD_" prefix and convert to lowercase, and remove any suffix after a semicolon
         shard_id = attr["internalName"].lower().split(";")[0][16:]
         attribute_shards["attributes"][shard_id] = {
-            "shard_name": attr["displayName"],
-            "ability_name": attr["abilityName"],
-            "bazaar_id": attr["bazaarName"],
-            "alignment": attr["alignment"],
-            "rarity": attr["rarity"],
-            "family": attr["family"],
-            "misc_id": attr["shardId"],
+            "shard_name": attr.get("displayName", shard_id),
+            "ability_name": attr.get("abilityName", ""),
+            "bazaar_id": attr.get("bazaarName", shard_id),
+            "alignment": attr.get("alignment", ""),
+            "rarity": attr.get("rarity", ""),
+            "family": attr.get("family", []),
+            "misc_id": attr.get("shardId", ""),
         }
     with open("skyblock/attribute_shards.json", "w") as f:
         json.dump(attribute_shards, f, indent=4)
