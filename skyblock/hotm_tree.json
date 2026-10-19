@@ -285,7 +285,7 @@
                 "\u00a77Increases \u00a7c\ue00d Strength\u00a77, \u00a79\ue02c Crit",
                 "\u00a79Chance\u00a77, \u00a79\ue007 Crit Damage\u00a77, \u00a7a\ue008 Defense\u00a77,",
                 "\u00a77and \u00a7c\ue010 Health \u00a77statistics gain by \u00a7a{stat}%",
-                "\u00a77while on \u00a7bMining Islands\u00a77."
+                "\u00a77while on \u00a76Mining Islands\u00a77."
             ],
             "type": "item"
         },
@@ -324,8 +324,8 @@
             "name": "Daily Grind",
             "max_level": 1,
             "lore": [
-                "\u00a77\u00a77Your first daily commission on each",
-                "\u00a77\u00a7bMining Island\u00a77 grants \u00a79+500 Powder\u00a77,",
+                "\u00a77Your first daily commission on each",
+                "\u00a76Mining Island\u00a77 grants \u00a79+500 Powder\u00a77,",
                 "\u00a77multiplied by your \u00a75HOTM\u00a77 level.",
                 "",
                 "\u00a72Dwarven Mines\u00a77: \u00a7a+{stat} \u00a72Mithril Powder",

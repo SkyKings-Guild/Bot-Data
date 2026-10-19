@@ -3405,6 +3405,15 @@
             ],
             "misc_id": "U72"
         },
+        "fiesta_fortune": {
+            "shard_name": "Packrat",
+            "ability_name": "Fiesta Fortune",
+            "bazaar_id": "SHARD_PACKRAT_SKULL",
+            "alignment": "Forest",
+            "rarity": "UNCOMMON",
+            "family": [],
+            "misc_id": "U73"
+        },
         "construct_ruler": {
             "shard_name": "Shrieky Tiki",
             "ability_name": "Construct Ruler",
