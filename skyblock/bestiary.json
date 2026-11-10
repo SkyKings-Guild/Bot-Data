@@ -142,9 +142,9 @@
             5,
             7,
             9,
-            14,
-            17,
-            21,
+            12,
+            16,
+            20,
             25,
             50,
             80,
@@ -644,7 +644,8 @@
                     "max_tier": 15,
                     "mob_ids": [
                         "random_slime_8",
-                        "random_slime_20"
+                        "random_slime_20",
+                        "slimey_slime_50"
                     ]
                 },
                 "Silverfish": {
@@ -808,7 +809,8 @@
                     "max_tier": 25,
                     "mob_ids": [
                         "zealot_bruiser_100",
-                        "zealot_enderman_55"
+                        "zealot_enderman_55",
+                        "zealot_special_enderman_55"
                     ]
                 }
             }
@@ -1765,6 +1767,7 @@
                     "max_tier": 20,
                     "mob_ids": [
                         "minos_hunter_15",
+                        "minos_hunter_25",
                         "minos_hunter_60",
                         "minos_hunter_125",
                         "minos_hunter_200"
@@ -1799,6 +1802,7 @@
                     "mob_ids": [
                         "siamese_lynx_15",
                         "siamese_lynx_25",
+                        "siamese_lynx_55",
                         "siamese_lynx_85",
                         "siamese_lynx_155",
                         "siamese_lynx_200"
@@ -1810,6 +1814,8 @@
                     "bracket": 5,
                     "max_tier": 20,
                     "mob_ids": [
+                        "cretan_bull_40",
+                        "cretan_bull_70",
                         "cretan_bull_150",
                         "cretan_bull_250"
                     ]
@@ -1860,6 +1866,8 @@
                     "bracket": 5,
                     "max_tier": 20,
                     "mob_ids": [
+                        "stranded_nymph_40",
+                        "stranded_nymph_70",
                         "stranded_nymph_150",
                         "stranded_nymph_250"
                     ]
