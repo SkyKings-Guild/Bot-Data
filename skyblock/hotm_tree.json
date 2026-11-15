@@ -120,8 +120,8 @@
             "name": "Miner's Blessing",
             "max_level": 1,
             "lore": [
-                "\u00a77Grants \u00a7b+30\ue01a Magic Find\u00a77 on all \u00a7bMining",
-                "\u00a7bIslands\u00a77."
+                "\u00a77Grants \u00a7b+30\ue01a Magic Find\u00a77 on all \u00a76Mining",
+                "\u00a76Islands\u00a77."
             ],
             "type": "item"
         },
@@ -262,9 +262,9 @@
             "name": "Subterranean Fisher",
             "max_level": 40,
             "lore": [
-                "\u00a77\u00a77Grants \u00a7b+{statFishingSpeed}\ue00c Fishing Speed\u00a77 and \u00a73+{statSeaCreatureChance}\ue021",
-                "\u00a77\u00a73Sea Creature Chance\u00a77 while on \u00a7bMining",
-                "\u00a77\u00a7bIslands\u00a77."
+                "\u00a77Grants \u00a7b+{statFishingSpeed}\ue00c Fishing Speed \u00a77and",
+                "\u00a73+{statSeaCreatureChance}\ue021 Sea Creature Chance \u00a77while on",
+                "\u00a76Mining Islands\u00a77."
             ],
             "type": "item"
         },
@@ -408,8 +408,8 @@
             "max_level": 1,
             "lore": [
                 "\u00a77Every SkyBlock day, you receive a",
-                "\u00a77random buff while on any \u00a7bMining",
-                "\u00a7bIsland\u00a77.",
+                "\u00a77random buff while on any \u00a76Mining",
+                "\u00a76Island\u00a77.",
                 "",
                 "\u00a77Possible Buffs",
                 "\u00a78 \u25a0 \u00a77Gain \u00a76+100\ue015 Mining Speed\u00a77.",
