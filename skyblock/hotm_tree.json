@@ -120,8 +120,8 @@
             "name": "Miner's Blessing",
             "max_level": 1,
             "lore": [
-                "\u00a77Grants \u00a7b+30\ue01a Magic Find\u00a77 on all \u00a76Mining",
-                "\u00a76Islands\u00a77."
+                "\u00a77Grants \u00a7a+1 \u00a77drop when completing the",
+                "\u00a75Crystal Nucleus\u00a77."
             ],
             "type": "item"
         },

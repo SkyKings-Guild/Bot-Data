@@ -267,7 +267,7 @@
     "auto_recombobulator": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Auto Recombobulator"
+        "name": "Auto Recombobulator 3000"
     },
     "catacombs_expert_ring": {
         "rarity": "epic",
@@ -1034,47 +1034,47 @@
     "beastmaster_crest_uncommon": {
         "rarity": "uncommon",
         "upgrade": "beastmaster_crest_rare",
-        "name": "Beastmaster Crest"
+        "name": "Blessed Beastmaster Crest"
     },
     "beastmaster_crest_rare": {
         "rarity": "rare",
         "upgrade": "beastmaster_crest_epic",
-        "name": "Beastmaster Crest"
+        "name": "Stalwart Beastmaster Crest"
     },
     "beastmaster_crest_epic": {
         "rarity": "epic",
         "upgrade": "beastmaster_crest_legendary",
-        "name": "Beastmaster Crest"
+        "name": "Venerable Beastmaster Crest"
     },
     "beastmaster_crest_legendary": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Beastmaster Crest"
+        "name": "Exalted Beastmaster Crest"
     },
     "raggedy_shark_tooth_necklace": {
         "rarity": "common",
         "upgrade": "dull_shark_tooth_necklace",
-        "name": "Raggedy Shark Tooth Necklace"
+        "name": "Shark Tooth Talisman"
     },
     "dull_shark_tooth_necklace": {
         "rarity": "uncommon",
         "upgrade": "honed_shark_tooth_necklace",
-        "name": "Dull Shark Tooth Necklace"
+        "name": "Shark Tooth Ring"
     },
     "honed_shark_tooth_necklace": {
         "rarity": "rare",
         "upgrade": "sharp_shark_tooth_necklace",
-        "name": "Honed Shark Tooth Necklace"
+        "name": "Shark Tooth Artifact"
     },
     "sharp_shark_tooth_necklace": {
         "rarity": "epic",
         "upgrade": "razor_sharp_shark_tooth_necklace",
-        "name": "Sharp Shark Tooth Necklace"
+        "name": "Shark Tooth Relic"
     },
     "razor_sharp_shark_tooth_necklace": {
         "rarity": "legendary",
         "upgrade": null,
-        "name": "Razor-sharp Shark Tooth Necklace"
+        "name": "Shark Tooth Heirloom"
     },
     "hegemony_artifact": {
         "mp_multiplier": 2,
@@ -1922,7 +1922,7 @@
     "two_iq_point": {
         "rarity": "uncommon",
         "upgrade": null,
-        "name": "2 IQ Points"
+        "name": "Two IQ Points"
     },
     "argofay_trinket": {
         "rarity": "epic",
@@ -2200,5 +2200,40 @@
         "rarity": "rare",
         "upgrade": null,
         "name": "InfiniPot\u2122"
+    },
+    "catacombs_gobbler": {
+        "rarity": "epic",
+        "upgrade": null,
+        "name": "Catacombs Gobbler"
+    },
+    "personal_compactor_husbandry_4000": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Personal Husbandry Compactor 4000"
+    },
+    "personal_compactor_farming_4000": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Personal Farming Compactor 4000"
+    },
+    "personal_compactor_fishing_4000": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Personal Fishing Compactor 4000"
+    },
+    "personal_compactor_combat_4000": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Personal Combat Compactor 4000"
+    },
+    "personal_compactor_foraging_4000": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Personal Foraging Compactor 4000"
+    },
+    "personal_compactor_mining_4000": {
+        "rarity": "common",
+        "upgrade": null,
+        "name": "Personal Mining Compactor 4000"
     }
 }
